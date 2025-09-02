@@ -8,11 +8,7 @@ from .models import Catalogo
 class CatalogoView(TemplateView):
     
     def get(self, request):
-        return render(request, 'index/index.html')
-    
-    def post(self, request):
-        response = redirect('index.index')
-        return response
+        return render(request, 'catalogos/index.html')
     
     
 @csrf_exempt

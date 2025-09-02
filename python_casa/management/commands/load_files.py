@@ -5,7 +5,6 @@ import pprint
 import requests
 
 folders = [
-	'/media/azuredvl/Data/catalogos/',
 	'/home/azuredvl/Pedidos/',
 	'/media/azuredvl/03D70BF637A6F80D/Anime/',
 	'/media/azuredvl/03D70BF637A6F80D/Doramas/',

@@ -6,13 +6,11 @@ from string import ascii_letters, digits
 from datetime import datetime, timedelta
 
 from .models import User
-from .decorators import superuser_required
 
 
 # Create your views here.
 class UserAdministration(TemplateView):
     
-    @superuser_required
     def get(self, request):
         users_list =  User.objects.all().order_by('id').reverse().values_list()
         return render(request, 'users/index.html', {'users': users_list})
