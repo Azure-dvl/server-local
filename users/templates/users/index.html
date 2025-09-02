@@ -1,0 +1,48 @@
+{% load static %}
+<title>Administración de Usuarios</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+<link rel="stylesheet" href="{% static 'css/users.css' %}">
+
+<div class="admin-container">
+    <div class="admin-header">
+        <h1><i class="fas fa-users-cog"></i> Administración de Usuarios</h1>
+        <p>Gestiona los usuarios del sistema</p>
+    </div>
+    
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">        
+        <form method="post" action="{% url 'users.index' %}" class="admin-actions">
+            {% csrf_token %}
+            <button type="submit" class="btn btn-primary">
+                <i class="fas fa-plus"></i> Crear Usuario
+            </button>
+        </form>
+    </div>
+    
+    <div class="users-grid" id="usersContainer">
+        {% for user in users %}
+         <div class="user-header">
+            <div class="user-avatar">
+                <i class="fas fa-user"></i>
+            </div>
+            <div class="user-info">
+                <h3>{{ user.1 }}</h3>
+            </div>
+        </div>
+        <div class="user-details">
+            <div class="detail-item">
+                <span class="detail-label">Estado:</span>
+                {% if user.3 %}
+                <span class="detail-value">Activo</span>
+                {% else %}
+                <span class="detail-value">Expirado</span>
+                {% endif %}
+            </div>
+            <div class="detail-item">
+                <span class="detail-label">Expiración:</span>
+                <span class="detail-value">{{ user.2 | timeuntil }}</span>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+

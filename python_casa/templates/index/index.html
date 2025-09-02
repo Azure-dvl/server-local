@@ -1,0 +1,38 @@
+{% load static %}
+<title>Login</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+<link rel="stylesheet" href="{% static 'css/login.css' %}">
+
+<div class="container">
+    <div class="login-container">
+        <div class="logo">
+            <i class="fas fa-cloud-upload-alt"></i>
+            <h1>Ksa Server</h1>
+        </div>
+        
+        {% if error %}
+        <div class="error-message">
+            <i class="fas fa-exclamation-circle"></i> {{ error }}
+        </div>
+        {% endif %}
+        
+        <form method="post" action="{% url 'index.index' %}">
+            {% csrf_token %}
+            <div class="form-group">
+                <label for="username">Usuario</label>
+                <div class="input-with-icon">
+                    <i class="fas fa-user"></i>
+                    <input type="text" id="username" name="user" required placeholder="Usuario">
+                </div>
+            </div>
+            
+            <button type="submit" class="btn-login">
+                <i class="fas fa-sign-in-alt"></i> Iniciar Sesión
+            </button>
+        </form>
+        
+        <div class="catalogos-link">
+            <a href="{% url 'catalogos' %}">Ver Catálogos Disponibles</a>
+        </div>
+    </div>
+</div>

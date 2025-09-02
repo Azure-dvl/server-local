@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Blur",
+        "year": 2010,
+        "size": "4.6 GB",
+        "platform": "PC",
+        "requirements": "SO: Windows XP/Vista/7. Procesador: Intel Core 2 Duo 2.0 GHz o AMD equivalente. RAM: 2 GB. GPU: NVIDIA GeForce 8600 GT / ATI Radeon HD 2600 XT (256 MB VRAM). Almacenamiento: 5 GB.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/c/c8/Blur_%28video_game%29.jpg"
+    },
+    {
+        "name": "Naruto Shippuden - Ultimate Ninja Impact",
+        "year": 2011,
+        "size": "1 GB",
+        "plataform": "Emulado (PPSSPP)",
+        "requirements": "No especificados.",
+        "photo": "https://media.vandal.net/t200/14361/201172121556_1.jpg"
+    }
+]

@@ -1,0 +1,171 @@
+{% load static %}
+<title>Sistema de Archivos</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+<link rel="stylesheet" href="{% static 'css/files.css' %}">
+
+
+<!-- Logout Form -->
+<form method="post" action="{% url 'files.index' %}" style="margin-bottom: 20px;">
+    {% csrf_token %}
+    <input type="submit" value="Logout" />
+</form>
+
+<!-- Breadcrumbs (ruta de navegación) -->
+<div class="breadcrumbs">
+    {% for crumb in breadcrumbs %}
+        {% if not forloop.first %}<span class="breadcrumb-separator">/</span>{% endif %}
+        {% if crumb.id %}
+            <a href="{% url 'files.index' %}?file={{ crumb.id }}">{{ crumb.name }}</a>
+        {% else %}
+            <a href="{% url 'files.index' %}">{{ crumb.name }}</a>
+        {% endif %}
+    {% endfor %}
+</div>
+
+<!-- Botón de Atrás -->
+{% if current_folder and current_folder.parent %}
+    <a href="{% url 'files.index' %}?file={{ current_folder.parent.id }}" class="btn-back">← Atrás</a>
+{% elif current_folder %}
+    <a href="{% url 'files.index' %}" class="btn-back">← Volver al Inicio</a>
+{% endif %}
+
+<!-- Carpeta actual -->
+{% if current_folder %}
+    <div class="current-folder">
+        📁 Carpeta actual: {{ current_folder.name }}
+    </div>
+{% endif %}
+
+    <!-- Tabla de Carpetas -->
+{% if folders %}
+<table>
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Tamaño</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for folder in folders %}
+            <tr>
+                <td>
+                    <span class="folder-icon">📁</span>
+                    <a href="{% url 'files.index' %}?file={{ folder.id }}">{{ folder.name }}</a>
+                </td>
+                <td>{{ folder.file_size | filesizeformat }}</td>
+                <td>
+                    <a href="{% url 'download_folder' id=folder.id %}" class="btn-download">Descargar Carpeta</a>
+                </td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endif %}
+
+<!-- Tabla de Archivos -->
+{% if files %}
+<table>
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Tamaño</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for file in files %}
+            <tr>
+                <td>
+                    {% if file.is_video %}
+                        <span class="video-icon">🎬</span>
+                    {% else %}
+                        <span class="file-icon">📄</span>
+                    {% endif %}
+                    {{ file.name }}
+                </td>
+                <td>{{ file.file_size | filesizeformat }}</td>
+                <td>
+                    {% if file.is_video %}
+                        <a href="#" class="btn-play" onclick="openVideoModal('{% url 'stream_file' id=file.id %}')">Reproducir</a>
+                    {% endif %}
+                    <a href="{% url 'download' id=file.id %}" class="btn-download">Descargar</a>
+                </td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endif %}
+
+<!-- Modal para video -->
+<div id="videoModal" class="video-modal">
+    <span class="close-modal" onclick="closeVideoModal()">&times;</span>
+    <div class="video-modal-content">
+        <video id="modalVideo" controls>
+            Tu navegador no soporta el elemento de video.
+        </video>
+    </div>
+</div>
+
+<!-- Mensaje si no hay contenido -->
+{% if not folders and not files %}
+    <div style="text-align: center; padding: 40px; background-color: white; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+        <p>Esta carpeta está vacía.</p>
+    </div>
+{% endif %}
+
+<script>
+    // Funciones para el modal de video
+    function openVideoModal(videoUrl, videoName) {
+        const modal = document.getElementById('videoModal');
+        const video = document.getElementById('modalVideo');
+        
+        // Establecer la fuente del video
+        video.src = videoUrl;
+        
+        // Mostrar el modal
+        modal.style.display = 'block';
+        
+        // Intentar reproducir automáticamente
+        video.play().catch(e => {
+            console.log('La reproducción automática fue prevenida:', e);
+        });
+        
+        // Enfocar el modal para que funcione la tecla Escape
+        modal.focus();
+    }
+    
+    function closeVideoModal() {
+        const modal = document.getElementById('videoModal');
+        const video = document.getElementById('modalVideo');
+        
+        // Pausar el video
+        video.pause();
+        
+        // Limpiar la fuente del video
+        video.src = '';
+        
+        // Ocultar el modal
+        modal.style.display = 'none';
+    }
+    
+    // Cerrar modal al hacer clic fuera del contenido
+    window.addEventListener('click', function(event) {
+        const modal = document.getElementById('videoModal');
+        if (event.target === modal) {
+            closeVideoModal();
+        }
+    });
+    
+    // Cerrar modal con la tecla Escape
+    document.addEventListener('keydown', function(event) {
+        if (event.key === 'Escape') {
+            closeVideoModal();
+        }
+    });
+    
+    // Asegurar que el modal esté oculto al cargar la página
+    document.addEventListener('DOMContentLoaded', function() {
+        closeVideoModal();
+    });
+</script>

@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Alicia en el país de las maravillas",
+        "year": 1951,
+        "synopsis": "Alicia sigue a un conejo blanco hacia un mundo fantástico donde encuentra criaturas extrañas y vive aventuras surrealistas.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Alice_in_Wonderland_%281951%29_poster.jpg/220px-Alice_in_Wonderland_%281951%29_poster.jpg"
+    },
+    {
+        "name": "Arcane",
+        "year": "2021",
+        "seasons": "2",
+        "chapters": "18",
+        "synopsis": "Ambientada en el universo de League of Legends, sigue los orígenes de Vi y Jinx, dos hermanas separadas por la guerra entre las ciudades gemelas de Piltover y Zaun.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BYmU5OWM5ZTAtNjUzOC00NmUyLTgyOWMtMjlkNjdlMDAzMzU1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg"
+
+    }
+]
