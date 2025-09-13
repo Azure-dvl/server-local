@@ -3,9 +3,9 @@ from os import path, listdir, stat
 import pprint
 
 import requests
+from django.core.management.base import BaseCommand
 
 folders = [
-	'/home/azuredvl/Pedidos/',
 	'/media/azuredvl/03D70BF637A6F80D/Anime/',
 	'/media/azuredvl/03D70BF637A6F80D/Doramas/',
 	'/media/azuredvl/ALMACEN/Movies/Animados/',
@@ -79,45 +79,48 @@ class FSMapper:
 		
 		return f
 
-# Obtener archivos existentes en la base de datos
-try:
-    response = requests.get('http://192.168.1.106:8000/api/files/list/')
-    existing_files = response.json() if response.status_code == 200 else []
-    existing_paths = {f['path'] for f in existing_files}
-except requests.exceptions.RequestException as e:
-    print(f"Error al obtener archivos existentes: {e}")
-    existing_paths = set()
+class Command(BaseCommand):
+	def handle(self, *args, **options):
+		# Obtener archivos existentes en la base de datos
+		try:
+			response = requests.get('http://192.168.1.10:8000/api/files/list/')
+			existing_files = response.json() if response.status_code == 200 else []
+			existing_paths = {f['path'] for f in existing_files}
+		except requests.exceptions.RequestException as e:
+			print(f"Error al obtener archivos existentes: {e}")
+			existing_paths = set()
 
-# Inicializar y ejecutar mapper
-mapper = FSMapper()
-mapper.seek(folders)
-r = mapper.files.copy()
+		# Inicializar y ejecutar mapper
+		mapper = FSMapper()
+		mapper.seek(folders)
+		r = mapper.files.copy()
 
-# Filtrar solo nuevos archivos (que no están en la base de datos)
-new_files = []
-for root in r:
-    stack = [root]
-    while stack:
-        current = stack.pop()
-        if current['type'] == 'file' and current['path'] not in existing_paths:
-            new_files.append(current)
-        stack.extend(current['files'])
+		# Filtrar solo nuevos archivos (que no están en la base de datos)
+		new_files = []
+		for root in r:
+			stack = [root]
+			while stack:
+				current = stack.pop()
+				if current['type'] == 'file' and current['path'] not in existing_paths:
+					new_files.append(current)
+				stack.extend(current['files'])
 
-# Enviar solo nuevos archivos si existen
-if new_files:
-    print(f"Encontrados {len(new_files)} nuevos archivos. Subiendo...")
-    response = requests.post(
-        'http://192.168.1.106:8000/api/files/create/',
-        json={
-            'server': "192.168.1.106",
-            "files": r  # Enviamos la estructura completa, no solo los nuevos
-        }
-    )
-    print(f"Respuesta del servidor: {response.status_code}")
-else:
-    print("No se encontraron nuevos archivos")
+		# Enviar solo nuevos archivos si existen
+		if new_files:
+			print(f"Encontrados {len(new_files)} nuevos archivos. Subiendo...")
+			response = requests.post(
+				'http://192.168.1.10:8000/api/files/create/',
+				json={
+					'server': "192.168.1.10",
+					"files": r  # Enviamos la estructura completa, no solo los nuevos
+				}
+			)
+			print(f"Respuesta del servidor: {response.status_code}")
+		else:
+			print("No se encontraron nuevos archivos")
 
-# Guardar output completo localmente (opcional)
-with open('./out.json', 'w+') as file:
-    file.write(json.dumps(r))
-    pprint.pprint(r)
+		# Guardar output completo localmente (opcional)
+		with open('./out.json', 'w+') as file:
+			file.write(json.dumps(r))
+			pprint.pprint(r)
+

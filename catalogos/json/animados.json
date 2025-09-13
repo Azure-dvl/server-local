@@ -6,12 +6,1199 @@
         "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Alice_in_Wonderland_%281951%29_poster.jpg/220px-Alice_in_Wonderland_%281951%29_poster.jpg"
     },
     {
+        "name": "A Boy Named Charlie Brown",
+        "year": 1969,
+        "synopsis": "Charlie Brown se embarca en una aventura para participar en un concurso de spelling nacional, enfrentando sus inseguridades y contando con el apoyo de su perro Snoopy.",
+        "photo": ""
+    },
+    {
+        "name": "Los aristogatos",
+        "year": 1970,
+        "synopsis": "Una familia de gatos aristócratas hereda una fortuna, pero su mayordomo intenta deshacerse de ellos para quedarse con la herencia. Deberán sobrevivir en las calles de París con la ayuda de un gato callejero.",
+        "photo": ""
+    },
+    {
+        "name": "Oliver y compañía",
+        "year": 1988,
+        "synopsis": "Un gatito huérfano se une a una banda de perros callejeros en Nueva York y encuentra un hogar con una niña rica, pero enfrenta peligros por un malvado prestamista.",
+        "photo": ""
+    },
+    {
+        "name": "Beauty and the Beast",
+        "year": 1991,
+        "synopsis": "Una joven inteligente y valiente llamada Bella ofrece su libertad a una bestia temible a cambio de la liberación de su padre, descubriendo gradualmente la humanidad y el amor ocultos dentro de la criatura.",
+        "photo": ""
+    },
+    {
+        "name": "La noche antes de Navidad",
+        "year": 1993,
+        "synopsis": "Un inventor excéntrico es secuestrado por seres místicos y llevado a la Ciudad de las Navidades, donde debe crear juguetes para salvar la festividad.",
+        "photo": ""
+    },
+    {
+        "name": "La Princesa Cisne",
+        "year": 1994,
+        "synopsis": "Una princesa transformada en cisne por un hechizo malvado debe encontrar el verdadero amor para romper la maldición y salvar su reino.",
+        "photo": ""
+    },
+    {
+        "name": "El jorobado de Notre Dame",
+        "year": 1996,
+        "synopsis": "Quasimodo, un joven con discapacidad física que vive en las campanas de Notre Dame, se enamora de la gitana Esmeralda y debe protegerla del malvado juez Frollo.",
+        "photo": ""
+    },
+    {
+        "name": "Hercules",
+        "year": 1997,
+        "synopsis": "El hijo de Zeus, Hércules, debe demostrar que es un verdadero héroe en la Tierra para recuperar su lugar en el Monte Olimpo, enfrentándose a criaturas míticas y al dios Hades.",
+        "photo": ""
+    },
+    {
+        "name": "El gigante de hierro",
+        "year": 1999,
+        "synopsis": "Un niño descubre un gigante robot amigable del espacio exterior y debe protegerlo de un gobierno paranoico que quiere destruirlo.",
+        "photo": ""
+    },
+    {
+        "name": "Monsters, Inc.",
+        "year": 2001,
+        "synopsis": "En la ciudad de Monstruópolis, los sustos de los monstruos generan energía. El mejor asustador, James P. Sullivan, y su compañero, Mike Wazowski, se topan con una niña humana que entra accidentalmente en su mundo, causando el caos.",
+        "photo": ""
+    },
+    {
+        "name": "El jorobado de Notre Dame 2",
+        "year": 2002,
+        "synopsis": "Quasimodo se enamora de una joven llamada Madellaine mientras enfrenta una nueva amenaza que busca robar las campanas de Notre Dame.",
+        "photo": ""
+    },
+    {
+        "name": "El planeta del Tesoro",
+        "year": 2002,
+        "synopsis": "Un joven rebelde descubre un mapa estelar que lleva a un planeta legendario lleno de tesoros, embarcándose en una aventura espacial con una tripulación diversa.",
+        "photo": ""
+    },
+    {
+        "name": "Spirit: el corcel indomable",
+        "year": 2002,
+        "synopsis": "Un mustango salvaje del Oeste americano lucha por su libertad y protege a su manada de humanos que intentan domarlo.",
+        "photo": ""
+    },
+    {
+        "name": "Buscando a Nemo",
+        "year": 2003,
+        "synopsis": "Un pez payaso sobreprotector llamado Marlin se embarca en una épica aventura por el océano para rescatar a su hijo Nemo, quien ha sido capturado por un buceador y puesto en una pecera en Sidney.",
+        "photo": ""
+    },
+    {
+        "name": "El Cid: La leyenda",
+        "year": 2003,
+        "synopsis": "La historia animada del héroe español Rodrigo Díaz de Vivar, conocido como El Cid, y sus batallas para unificar España.",
+        "photo": ""
+    },
+    {
+        "name": "Shark Tale",
+        "year": 2004,
+        "synopsis": "Un pez pequeño y mentiroso se hace pasar como el asesino de un tiburón mafioso, convirtiéndose en un héroe improbable en el mundo submarino.",
+        "photo": ""
+    },
+    {
+        "name": "Bratz: Rock Angelz",
+        "year": 2005,
+        "synopsis": "Las chicas Bratz viajan a Londres para salvar su revista de moda mientras viven aventuras musicales y de estilo.",
+        "photo": ""
+    },
+    {
+        "name": "Caperucita Roja: ¡A qué lobo feroz!",
+        "year": 2005,
+        "synopsis": "Una versión moderna y cómica del cuento clásico donde Caperucita es una skater que debe enfrentarse a un lobo astuto.",
+        "photo": ""
+    },
+    {
+        "name": "Chicken Little",
+        "year": 2005,
+        "synopsis": "Un pollito que cree que el cielo se está cayendo debe redimirse cuando una invasión alienígena real amenaza su pueblo.",
+        "photo": ""
+    },
+    {
+        "name": "La novia cadáver",
+        "year": 2005,
+        "synopsis": "Un joven accidentally se casa con un cadáver encantado mientras practica sus votos matrimoniales, siendo arrastrado al mundo de los muertos.",
+        "photo": ""
+    },
+    {
+        "name": "Robots",
+        "year": 2005,
+        "synopsis": "Un robot joven e idealista viaja a la ciudad robot para seguir sus sueños de inventar, enfrentándose a un corporativo malvado que quiere deshacerse de las piezas obsoletas.",
+        "photo": ""
+    },
+    {
+        "name": "Bratz: Genie Magic",
+        "year": 2006,
+        "synopsis": "Las Bratz descubren una lámpara mágica con un genio que les concede deseos, llevándolas a una aventura en un reino oriental.",
+        "photo": ""
+    },
+    {
+        "name": "Flushed Away",
+        "year": 2006,
+        "synopsis": "Una rata mascota privilegiada es arrastrada por el desagüe y debe sobrevivir en el mundo subterráneo de las alcantarillas, haciendo amigos inesperados.",
+        "photo": ""
+    },
+    {
+        "name": "Monster House",
+        "year": 2006,
+        "synopsis": "Tres niños descubren que la casa espeluznante de su vecino está viva y poseída, y deben detenerla antes de Halloween.",
+        "photo": ""
+    },
+    {
+        "name": "Bee Movie",
+        "year": 2007,
+        "synopsis": "Una abeja recién graduada demanda a la humanidad por robar la miel, desatando una crisis ecológica y cuestionando el sistema de trabajo de las abejas.",
+        "photo": ""
+    },
+    {
+        "name": "Descubriendo a los Robinsons",
+        "year": 2007,
+        "synopsis": "Un niño inventor huérfano viaja en el tiempo y descubre el secreto de su pasado mientras conoce a una excéntrica familia del futuro.",
+        "photo": ""
+    },
+    {
+        "name": "Bolt",
+        "year": 2008,
+        "synopsis": "Un perro actor que cree tener superpoderes reales emprende un viaje cross-country para rescatar a su dueña, descubriendo el mundo real fuera del set.",
+        "photo": ""
+    },
+    {
+        "name": "Igor",
+        "year": 2008,
+        "synopsis": "Un ayudante de científico malvado en una tierra de monstruos y inventores crea su propia creación, Eva, que resulta ser amable en lugar de malvada.",
+        "photo": ""
+    },
+    {
+        "name": "WALL-E",
+        "year": 2008,
+        "synopsis": "Un pequeño robot recolector de basura en una Tierra abandonada descubre una planta que podría restaurar el planeta, mientras se embarca en una aventura cósmica que decide el destino de la humanidad.",
+        "photo": ""
+    },
+    {
+        "name": "9",
+        "year": 2009,
+        "synopsis": "Nueve muñecos de trapo en un mundo postapocalíptico deben unirse para sobrevivir contra máquinas malvadas que exterminaron a la humanidad.",
+        "photo": ""
+    },
+    {
+        "name": "Coraline",
+        "year": 2009,
+        "synopsis": "Una niña descubre una puerta secreta a una versión idealizada de su vida, pero alterna, donde sus padres alternativos tienen botones por ojos y esconden intenciones siniestras.",
+        "photo": ""
+    },
+    {
+        "name": "La princesa y la rana",
+        "year": 2009,
+        "synopsis": "En el Nueva Orleans de los años 1920, una joven ambiciosa que sueña con abrir su propio restaurante besa a una rana que dice ser un príncipe, pero termina convertida en anfibia también.",
+        "photo": ""
+    },
+    {
+        "name": "Monstruos vs. Aliens",
+        "year": 2009,
+        "synopsis": "Una mujer convertida en gigante por un meteorito se une a un grupo de monstruos reclutados por el gobierno para combatir una invasión alienígena.",
+        "photo": ""
+    },
+    {
+        "name": "Up",
+        "year": 2009,
+        "synopsis": "Un viudo anciano ata miles de globos a su casa para volar a Sudamérica y cumplir la promesa que le hizo a su difunta esposa, acompañado involuntariamente por un niño explorador y un divertido perro parlante.",
+        "photo": ""
+    },
+    {
+        "name": "El gato con botas",
+        "year": 2011,
+        "synopsis": "El aventurero Gato con Botas antes de conocer a Shrek, embarcándose en una búsqueda para robar el ganso de los huevos de oro con sus amigos Humpty Dumpty y Kitty Softpaws.",
+        "photo": ""
+    },
+    {
+        "name": "Gnomeo y Juliet",
+        "year": 2011,
+        "synopsis": "Una adaptación cómica de Romeo y Julieta con gnomos de jardín de familias rivales, donde Gnomeo y Julieta se enamoran a pesar de la enemistad entre sus grupos.",
+        "photo": ""
+    },
+    {
+        "name": "Frankenweenie",
+        "year": 2012,
+        "synopsis": "Un niño revive a su perro fallecido Sparky usando la electricidad, inspirándose en el clásico de Frankenstein, pero su experimento tiene consecuencias inesperadas en el pueblo.",
+        "photo": ""
+    },
+    {
+        "name": "Valiente",
+        "year": 2012,
+        "synopsis": "Merida, una princesa escocesa habilidosa con el arco, desafía la tradición al negarse a casarse, desatando accidentalmente una maldición que transforma a su madre en un oso.",
+        "photo": ""
+    },
+    {
+        "name": "Big Hero 6",
+        "year": 2014,
+        "synopsis": "Un joven prodigio de la robótica llamado Hiro Hamada forma un equipo de superhéroes con sus amigos y un robot inflable llamado Baymax para combatir a un misterioso villano que amenaza la ciudad de San Fransokyo.",
+        "photo": ""
+    },
+    {
+        "name": "Los pingüinos de Madagascar",
+        "year": 2014,
+        "synopsis": "Los pingüinos Skipper, Kowalski, Rico y Private se embarcan en una aventura independiente para detener a un pulpo villano llamado Dave que busca vengarse de los pingüinos.",
+        "photo": ""
+    },
+    {
+        "name": "Mr. Peabody & Sherman",
+        "year": 2014,
+        "synopsis": "Un perro superinteligente y su hijo humano viajan en el tiempo usando una máquina llamada WABAC para reparar agujeros en la historia y salvar el universo.",
+        "photo": ""
+    },
+    {
+        "name": "El chico y la bestia",
+        "year": 2015,
+        "synopsis": "Un niño huérfano se pierde en el mundo de las bestias y se convierte en el aprendiz de una solitaria y poderosa bestia, aprendiendo artes marciales y descubriendo su verdadero potencial.",
+        "photo": ""
+    },
+    {
+        "name": "Home: No hay lugar como el hogar",
+        "year": 2015,
+        "synopsis": "Un alienígena llamado Oh se hace amigo de una niña humana llamada Tip mientras huyen de su propia raza, los Boov, que han invadido la Tierra.",
+        "photo": ""
+    },
+    {
+        "name": "The Peanuts Movie",
+        "year": 2015,
+        "synopsis": "Charlie Brown se embarca en una serie de miseras para impresionar a la niña nueva del vecindario, mientras Snoopy vive una aventura aérea contra el Barón Rojo.",
+        "photo": ""
+    },
+    {
+        "name": "Angry Birds",
+        "year": 2016,
+        "synopsis": "Red, un pájaro con problemas de ira, y sus amigos veloces Chuck y explosivos Bomb, deben salvar su isla de unos cerdos verdes que roban sus huevos.",
+        "photo": ""
+    },
+    {
+        "name": "Norm of the North",
+        "year": 2016,
+        "synopsis": "Un oso polar llamado Norm viaja a Nueva York para detener un desarrollo urbanístico que amenaza su hogar en el Ártico, haciéndose pasar por un humano en un disfraz de oso.",
+        "photo": ""
+    },
+    {
+        "name": "Coco",
+        "year": 2017,
+        "synopsis": "Un niño llamado Miguel, que sueña con ser músico a pesar de la prohibición de su familia, se transporta mágicamente al Tierra de los Muertos durante el Día de los Muertos, donde descubre la verdad sobre su historia familiar.",
+        "photo": ""
+    },
+    {
+        "name": "The Emoji Movie",
+        "year": 2017,
+        "synopsis": "Gene, un emoji que puede mostrar múltiples expresiones, se embarca en una aventura a través de las apps del teléfono para convertirse en un emoji de una sola expresión como los demás.",
+        "photo": ""
+    },
+    {
+        "name": "Encanto",
+        "year": 2021,
+        "synopsis": "La familia Madrigal vive en una casa mágica en un pueblo colombiano, donde cada miembro tiene un don único excepto Mirabel, quien debe descubrir su propio valor cuando la magia de la familia comienza a desvanecerse.",
+        "photo": ""
+    },
+    {
+        "name": "Raya y el último dragón",
+        "year": 2021,
+        "synopsis": "Raya, una guerrera solitaria, busca al último dragón para restaurar la paz en el reino de Kumandra, dividido por una fuerza oscura que convierte a la gente en piedra.",
+        "photo": ""
+    },
+    {
+        "name": "Elemental",
+        "year": 2023,
+        "synopsis": "En una ciudad donde los residentes de fuego, agua, tierra y aire viven juntos, una joven de fuego llamada Ember y un hombre de agua llamado Wade descubren que tienen más en común de lo que pensaban.",
+        "photo": ""
+    },
+    {
+        "name": "Transformers One",
+        "year": 2024,
+        "synopsis": "Una precuela animada que explora los orígenes de la guerra entre Autobots y Decepticons en Cybertron, centrándose en la amistad juvenil entre Optimus Prime y Megatron antes de que se convirtieran en enemigos mortales.",
+        "photo": ""
+    },
+    {
+        "name": "K-POP: Demon Hunters",
+        "year": 2025,
+        "synopsis": "Un grupo de idols coreanos secretamente cazan demonios por la noche, equilibrando sus vidas como estrellas del pop y guerreras contra fuerzas oscuras.",
+        "photo": ""
+    },
+    {
+        "name": "Batman Ninja",
+        "year": 2018,
+        "synopsis": "Batman y sus villanos son transportados al Japón feudal, donde debe enfrentarse a versiones samuráis de sus enemigos usando técnicas ninja y mecas gigantes.",
+        "photo": ""
+    },
+    {
+        "name": "Batman Ninja Vs Yakuza League",
+        "year": 2025,
+        "synopsis": "Secuela de Batman Ninja donde Batman regresa para enfrentarse a una liga de villanos yakuza en el Japón moderno, combinando elementos de crimen organizado y fantasía.",
+        "photo": ""
+    },
+    {
+        "name": "Metegol",
+        "year": 2013,
+        "synopsis": "Un joven jugador de fútbol de mesa ve cómo sus figuras cobran vida para ayudarle a salvar su pueblo y ganar el corazón de su amor de la infancia.",
+        "photo": ""
+    },
+    {
+        "name": "Moana",
+        "year": 2016,
+        "synopsis": "Moana, hija del jefe de una isla polinesia, se embarca en un viaje por el océano para salvar a su pueblo, acompañada por el semidiós Maui.",
+        "photo": ""
+    },
+    {
+        "name": "Plankton La Película",
+        "year": 2025,
+        "synopsis": "El plan de Plankton para robar la fórmula de la Cangreburger finalmente tiene éxito, pero descubre que ser el dueño del Crustáceo Cascarudo no es tan gratificante como pensaba.",
+        "photo": ""
+    },
+    {
+        "name": "Ratatouille",
+        "year": 2007,
+        "synopsis": "Una rata llamada Remy sueña con convertirse en un chef estrella en París y forma una improbable alianza con un joven y torpe lavaplatos para lograr su objetivo en el mundo de la gastronomía.",
+        "photo": ""
+    },
+    {
+        "name": "Simbad: Leyenda de los siete mares",
+        "year": 2003,
+        "synopsis": "El aventurero Simbad debe robar el Libro de la Paz para salvar a su amigo Príncipe Proteus de una condena a muerte, enfrentándose a monstruos marinos y la diosa Eris.",
+        "photo": ""
+    },
+    {
+        "name": "The Witcher: Sirenas de las profundidades",
+        "year": 2025,
+        "synopsis": "Geralt de Rivia investiga una serie de ataques de sirenas en la costa, descubriendo una conspiración que amenaza el equilibrio entre humanos y criaturas del mar.",
+        "photo": ""
+    },
+    {
+        "name": "Barbie: Mariposa y la Princesa de las Hadas",
+        "year": 2013,
+        "synopsis": "Barbie como Mariposa, una hada que debe salvar su hogar mágico de un ejército de seres que roban la magia, descubriendo su verdadero destino real.",
+        "photo": ""
+    },
+    {
+        "name": "Watchmen Chapter II",
+        "year": 2024,
+        "synopsis": "Continuación animada de la historia de Watchmen, explorando nuevos conflictos morales y políticos en un mundo donde los vigilantes enmascarados están prohibidos.",
+        "photo": ""
+    },
+    {
+        "name": "Zootopia",
+        "year": 2016,
+        "synopsis": "Una coneja policía y un zorro estafador deben trabajar juntos para descubrir una conspiración que está haciendo que los depredadores vuelvan a ser salvajes en una ciudad de mamíferos antropomórficos.",
+        "photo": ""
+    },
+    {
+        "name": "Aladdín",
+        "year": 1992,
+        "synopsis": "Un joven huérfano llamado Aladdín encuentra una lámpara mágica que contiene un genio que le concede tres deseos, usándolos para impresionar a la princesa Jasmine y enfrentar al malvado Jafar.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Aladdin_poster.jpg"
+    },
+    {
+        "name": "El regreso de Jafar",
+        "year": 1994,
+        "synopsis": "Jafar regresa como un genio malvado buscando venganza contra Aladdín, mientras que un nuevo genio, Abis, se une a la pandilla para ayudar a salvar Agrabah.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5a/The_Return_of_Jafar.jpg"
+    },
+    {
+        "name": "Aladdín y el rey de los ladrones",
+        "year": 1996,
+        "synopsis": "Aladdín se reúne con su padre perdido hace mucho tiempo, solo para descubrir que es el líder de los cuarenta ladrones, lo que lleva a una aventura para proteger el tesoro más valioso de Agrabah.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5a/Aladdin_and_the_King_of_Thieves.jpg"
+    },
+    {
+        "name": "Aladdín",
+        "year": 2019,
+        "synopsis": "Remake de acción real del clásico animado, donde un encantador ladrón llamado Aladdín se embarca en una aventura con un genio mágico para ganar el corazón de la princesa Jasmine y detener al malvado Jafar.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/9/9a/Aladdin_%282019_film%29.jpg"
+    },
+    {
+        "name": "Alvin y las ardillas",
+        "year": 2007,
+        "synopsis": "Tres ardillas cantantes, Alvin, Simon y Theodore, causan caos en la vida del compositor Dave Seville, mientras se convierten en sensaciones musicales.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Alvin_and_the_Chipmunks_%28film%29_poster.jpg"
+    },
+    {
+        "name": "Alvin y las ardillas 2",
+        "year": 2009,
+        "synopsis": "Las ardillas cantantes regresan para salvar su escuela de la quiebra mientras lidian con las ardillas hembras, las Chipettes, y un director malvado.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Alvin_and_the_Chipmunks_The_Squeakquel.jpg"
+    },
+    {
+        "name": "Alvin y las ardillas 3",
+        "year": 2011,
+        "synopsis": "Alvin, Simon y Theodore naufragan en una isla tropical después de un accidente de crucero, donde deben sobrevivir a la naturaleza y a un guardabosques malhumorado.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Alvin_and_the_Chipmunks_Chipwrecked.jpg"
+    },
+    {
+        "name": "Alvin y las ardillas 4: Viaje en el tiempo",
+        "year": 2015,
+        "synopsis": "Las ardillas viajan accidentalmente en el tiempo usando una máquina de lavar modificada, visitando diferentes épocas históricas y causando estragos en el pasado.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Alvin_and_the_Chipmunks_The_Road_Chip.jpg"
+    },
+    {
+        "name": "Cars",
+        "year": 2006,
+        "synopsis": "El arrogante coche de carreras Rayo McQueen queda varado en un pequeño pueblo olvidado en la Ruta 66, donde aprende lecciones de vida que cambian su perspectiva sobre la amistad y la humildad.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/3/34/Cars_2006.jpg"
+    },
+    {
+        "name": "Cars 2",
+        "year": 2011,
+        "synopsis": "Mate se une a una misión de espionaje internacional con Rayo McQueen, involucrándose en una conspiración que amenaza a los coches de carreras de todo el mundo.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Cars_2_Poster.jpg"
+    },
+    {
+        "name": "Cars 3",
+        "year": 2017,
+        "synopsis": "Rayo McQueen enfrenta su mayor desafío cuando un nuevo generación de coches de carreras más rápidos lo supera, forcing him to reinventarse con la ayuda de una entrenadora joven.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/9/9d/Cars_3_poster.jpg"
+    },
+    {
+        "name": "La Cenicienta",
+        "year": 1950,
+        "synopsis": "Una joven maltratada por su madrastra y hermanastras, con la ayuda de su hada madrina, asiste al baile real y se enamora del príncipe, pero debe huir a medianoche dejando atrás una zapatilla de cristal.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/0/06/Cinderella_1950_poster.jpg"
+    },
+    {
+        "name": "Cenicienta II: Los sueños se hacen realidad",
+        "year": 2002,
+        "synopsis": "Cenicienta se adapta a la vida real mientras sus hermanastras intentan arruinar su felicidad, y sus amigos animales planifican una fiesta sorpresa para ella.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Cinderella_II_Dreams_Come_True.jpg"
+    },
+    {
+        "name": "Cenicienta III: Un giro en el tiempo",
+        "year": 2007,
+        "synopsis": "La madrastra de Cenicienta roba la varita mágica del hada madrina y revierte el tiempo para evitar que Cenicienta se case con el príncipe, forcing her to reclaim her destiny.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Cinderella_III_A_Twist_in_Time.jpg"
+    },
+    {
+        "name": "Cenicienta",
+        "year": 2015,
+        "synopsis": "Remake de acción real del clásico cuento, donde una joven bondadosa, maltratada por su madrastra, captura el corazón del príncipe con la ayuda de su hada madrina.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/0/06/Cinderella_2015_poster.jpg"
+    },
+    {
+        "name": "Cómo entrenar a tu dragón",
+        "year": 2010,
+        "synopsis": "Un joven vikingo llamado Hipo, que no encaja en su tribu de cazadores de dragones, se hace amigo de un dragón herido llamado Toothless, cambiando la relación entre vikingos y dragones para siempre.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/9/99/How_to_Train_Your_Dragon_Poster.jpg"
+    },
+    {
+        "name": "Cómo entrenar a tu dragón 2",
+        "year": 2014,
+        "synopsis": "Hipo y Toothless descubren una cueva secreta llena de dragones salvajes y un misterioso guardián de dragones, mientras enfrentan una amenaza que podría destruir la paz en Berk.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/f/fd/How_to_Train_Your_Dragon_2_poster.jpg"
+    },
+    {
+        "name": "Cómo entrenar a tu dragón 3",
+        "year": 2019,
+        "synopsis": "Hipo y Toothless deben tomar decisiones difíciles para proteger sus especies cuando descubren un mundo oculto de dragones y enfrentan a un cazador de dragones despiadado.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/f/f2/How_to_Train_Your_Dragon_The_Hidden_World.jpg"
+    },
+    {
+        "name": "El diario de la princesa",
+        "year": 2001,
+        "synopsis": "Una adolescente de San Francisco descubre que es la princesa heredera de un pequeño país europeo y debe aprender a comportarse como royalty bajo la tutela de su estricta abuela.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Princess_Diaries_poster.jpg"
+    },
+    {
+        "name": "El diario de la princesa 2: Compromiso real",
+        "year": 2004,
+        "synopsis": "La princesa Mia debe encontrar un esposo antes de asumir el trono de Genovia, mientras lidia con su corazón dividido entre un noble inglés y su ex novio de la escuela.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Princess_Diaries_2_Royal_Engagement.jpg"
+    },
+    {
+        "name": "El emperador y sus locuras",
+        "year": 2000,
+        "synopsis": "El egocéntrico emperador Kuzco es convertido en llama por su ex consejera Yzma y debe depender del campesino Pacha para recuperar su trono, aprendiendo lecciones de humildad.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Emperor%27s_New_Groove_poster.jpg"
+    },
+    {
+        "name": "Las locuras de Kronk",
+        "year": 2005,
+        "synopsis": "Kronk, el ex secuaz de Yzma, intenta impresionar a su padre y manejar su propio restaurante, mientras ayuda a Kuzco con sus propias locuras.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Kronk%27s_New_Groove_poster.jpg"
+    },
+    {
+        "name": "El libro de la selva",
+        "year": 1967,
+        "synopsis": "Un niño llamado Mowgli es criado por lobos en la jungla y, con la ayuda de sus amigos Baloo y Bagheera, evade al temible tigre Shere Khan mientras aprende la ley de la selva.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Jungle_Book_%281967_film%29_poster.jpg"
+    },
+    {
+        "name": "El libro de la selva 2",
+        "year": 2003,
+        "synopsis": "Mowgli, ahora viviendo en la aldea humana, extraña la jungla y regresa para visitar a sus amigos, pero Shere Khan aún lo busca para vengarse.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Jungle_Book_2_poster.jpg"
+    },
+    {
+        "name": "El libro de la selva",
+        "year": 2016,
+        "synopsis": "Remake de acción real del clásico animado, donde Mowgli, un niño criado por lobos, embarca on a journey of self-discovery while evading the threat of Shere Khan.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Jungle_Book_%282016_film%29_poster.jpg"
+    },
+    {
+        "name": "El rey león",
+        "year": 1994,
+        "synopsis": "El joven león Simba huye de su reino después de la muerte de su padre, solo para regresar años después para reclamar su trono de su malvado tío Scar.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Lion_King_%281994_film%29_poster.jpg"
+    },
+    {
+        "name": "El rey león 2: El tesoro de Simba",
+        "year": 1998,
+        "synopsis": "Simba y Nala tienen una cachorra llamada Kiara, quien se enamora de Kovu, un león criado por los seguidores de Scar, testing Simba's ability to forgive.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Lion_King_II_Simba%27s_Pride.jpg"
+    },
+    {
+        "name": "El rey león 3: Hakuna Matata",
+        "year": 2004,
+        "synopsis": "Timón y Pumba cuentan la historia de cómo se conocieron y ayudaron a Simba a derrotar a Scar, desde su perspectiva cómica.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Lion_King_1%C2%BD_poster.jpg"
+    },
+    {
+        "name": "El rey león",
+        "year": 2019,
+        "synopsis": "Remake fotorealista del clásico animado, donde Simba huye después de la muerte de su padre y debe regresar para reclamar su trono y restaurar el ciclo de la vida.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Lion_King_%282019_film%29_poster.jpg"
+    },
+    {
+        "name": "El zorro y el sabueso",
+        "year": 1981,
+        "synopsis": "Un zorro llamado Tod y un sabueso llamado Toby se hacen amigos cuando son jóvenes, pero su amistad es tested cuando Toby es entrenado para cazar zorros como adulto.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Fox_and_the_Hound_poster.jpg"
+    },
+    {
+        "name": "El zorro y el sabueso 2",
+        "year": 2006,
+        "synopsis": "Tod y Toby se reúnen años después para ayudar a un perro perdido llamado Dixie a encontrar a su dueño, mientras evadan a un cazador malvado.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Fox_and_the_Hound_2_poster.jpg"
+    },
+    {
+        "name": "Frozen",
+        "year": 2013,
+        "synopsis": "La princesa Elsa, con el poder de crear hielo y nieve, huye de su reino después de accidentally sumergirlo en un invierno eterno, y su hermana Anna emprende un viaje peligroso para encontrarla y salvar a su pueblo.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Frozen_%282013_film%29_poster.jpg"
+    },
+    {
+        "name": "Frozen II",
+        "year": 2019,
+        "synopsis": "Elsa, Anna, Kristoff y Olaf se aventuran más allá de Arendelle para descubrir la verdad sobre el pasado de Elsa y el origen de sus poderes, enfrentando desafíos mágicos.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Frozen_II_poster.jpg"
+    },
+    {
+        "name": "Una aventura de Goofy",
+        "year": 1995,
+        "synopsis": "Goofy lleva a su hijo Max on a road trip para pescar, pero Max solo quiere impresionar a su crush en un concierto, leading to father-son bonding and chaos.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/A_Goofy_Movie_poster.jpg"
+    },
+    {
+        "name": "An Extremely Goofy Movie",
+        "year": 2000,
+        "synopsis": "Max va a la universidad, pero Goofy, que ha perdido su trabajo, también se inscribe en la misma universidad, causing embarrassment for Max and comedic situations.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/An_Extremely_Goofy_Movie_poster.jpg"
+    },
+    {
+        "name": "Happy Feet",
+        "year": 2006,
+        "synopsis": "Mumble, un pingüino que no puede cantar pero baila tap, es exiliado de su colonia y descubre que la pesca humana está agotando sus recursos alimenticios, leading him to take action.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Happy_Feet_poster.jpg"
+    },
+    {
+        "name": "Happy Feet Two",
+        "year": 2011,
+        "synopsis": "Mumble debe ayudar a su hijo Erik, que no quiere bailar, mientras la colonia de pingüinos enfrenta una amenaza existencial por un iceberg atrapado.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Happy_Feet_Two_poster.jpg"
+    },
+    {
+        "name": "Hermano Oso",
+        "year": 2003,
+        "synopsis": "Un joven indio llamado Kenai es transformado en oso después de matar uno por venganza, y must learn to see the world from a new perspective with the help of a bear cub named Koda.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Brother_Bear_poster.jpg"
+    },
+    {
+        "name": "Hermano Oso 2",
+        "year": 2006,
+        "synopsis": "Kenai, ahora un oso, debe ayudar a su amigo humano Nita a llegar a su boda, mientras lidia con su transformación y la aceptación de su nueva vida.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Brother_Bear_2_poster.jpg"
+    },
+    {
+        "name": "Hotel Transylvania",
+        "year": 2012,
+        "synopsis": "Drácula opera un hotel para monstruos donde humanos no son bienvenidos, pero su mundo se vuelve caótico cuando un humano accidentalmente entra y se enamora de su hija Mavis.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Hotel_Transylvania_poster.jpg"
+    },
+    {
+        "name": "Hotel Transylvania 2",
+        "year": 2015,
+        "synopsis": "Drácula intenta hacer que su medio humano nieto Dennis muestre sus poderes vampíricos, mientras lidia con su estricto suegro Vlad.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Hotel_Transylvania_2_poster.jpg"
+    },
+    {
+        "name": "Hotel Transylvania 3: Summer Vacation",
+        "year": 2018,
+        "synopsis": "Drácula se enamora de una capitán de barco humana durante unas vacaciones en crucero, sin saber que ella es una descendiente de Van Helsing que planea vengarse.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Hotel_Transylvania_3_Summer_Vacation_poster.jpg"
+    },
+    {
+        "name": "Hotel Transylvania: Transformanía",
+        "year": 2022,
+        "synopsis": "Johnny accidentally transforms a Drac and his friends into humans, and they must travel to South America to reverse the spell before it becomes permanent.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Hotel_Transylvania_Transformania_poster.jpg"
+    },
+    {
+        "name": "Huevitos en fuga",
+        "year": 2004,
+        "synopsis": "Toto y su amigos huevos deben rescatar a su papá gallina después de que es secuestrado por una corporación malvada que quiere robar su receta secreta de salsa.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Huevitos_en_fuga_poster.jpg"
+    },
+    {
+        "name": "Huevitos congelados",
+        "year": 2008,
+        "synopsis": "Toto y sus amigos viajan a la Antártida para salvar a su amigo pingüino, enfrentándose a cazadores y condiciones extremas.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Huevitos_congelados_poster.jpg"
+    },
+    {
+        "name": "Huevitos a la mexicana",
+        "year": 2017,
+        "synopsis": "Toto y sus amigos se embarcan en una aventura en México para salvar su granja de un developer que quiere construir un resort.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Huevitos_a_la_mexicana_poster.jpg"
+    },
+    {
+        "name": "Los Increíbles",
+        "year": 2004,
+        "synopsis": "Una familia de superhéroes que vive en la clandestinidad debe salir del anonimato para enfrentar una amenaza que podría destruir la ciudad, mientras lidia con los desafíos de la vida familiar y sus poderes únicos.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Incredibles_poster.jpg"
+    },
+    {
+        "name": "Los Increíbles 2",
+        "year": 2018,
+        "synopsis": "Helen Parr (Elastigirl) lidera una campaña para que los superhéroes vuelvan a ser legales, mientras Bob (Mr. Incredible) se queda en casa cuidando a los niños, who are developing their own powers.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Incredibles_2_poster.jpg"
+    },
+    {
+        "name": "La dama y el vagabundo",
+        "year": 1955,
+        "synopsis": "Una perra cocker spaniel de clase alta llamada Lady y un mestizo callejero llamado Tramp se enamoran durante una aventura romántica en la ciudad, including a famous spaghetti dinner.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Lady_and_the_Tramp_poster.jpg"
+    },
+    {
+        "name": "La dama y el vagabundo II: Las aventuras de Scamp",
+        "year": 2001,
+        "synopsis": "Scamp, el hijo rebelde de Lady y Tramp, se une a una jauría de perros callejeros y must choose between la vida domesticada y la libertad de las calles.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Lady_and_the_Tramp_II_Scamp%27s_Adventure_poster.jpg"
+    },
+    {
+        "name": "La dama y el vagabundo",
+        "year": 2019,
+        "synopsis": "Remake de acción real del clásico animado, donde una perra de raza y un mestizo callejero se enamoran durante una aventura que cambia sus vidas.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Lady_and_the_Tramp_%282019_film%29_poster.jpg"
+    },
+    {
+        "name": "La era de hielo",
+        "year": 2002,
+        "synopsis": "Un mamut lanudo, un perezoso y un tigre dientes de sable se unen para devolver un bebé humano a su tribu, while avoiding natural disasters and forming an unlikely friendship.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Ice_Age_%282002_film%29_poster.jpg"
+    },
+    {
+        "name": "La era de hielo 2: El deshielo",
+        "year": 2006,
+        "synopsis": "Manny, Sid y Diego descubren que el valle donde viven se está inundando debido al deshielo, y must evacuate to avoid drowning, meeting new friends along the way.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Ice_Age_The_Meltdown_poster.jpg"
+    },
+    {
+        "name": "La era de hielo 3: El origen de los dinosaurios",
+        "year": 2009,
+        "synopsis": "La pandilla se aventura en un mundo subterráneo habitado por dinosaurios para rescatar a Sid, quien ha sido capturado por una madre T-Rex.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Ice_Age_Dawn_of_the_Dinosaurs_poster.jpg"
+    },
+    {
+        "name": "La era de hielo 4: La formación de los continentes",
+        "year": 2012,
+        "synopsis": "La deriva continental separa a Manny de su familia, y must reunirse con ellos mientras enfrentan piratas y un mundo cambiante.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Ice_Age_Continental_Drift_poster.jpg"
+    },
+    {
+        "name": "La era de hielo: Choque de gigantes",
+        "year": 2016,
+        "synopsis": "Scrat's acorn obsession accidentally triggers an asteroid shower that threatens the world, forcing the herd to embark on a quest to save themselves.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Ice_Age_Collision_Course_poster.jpg"
+    },
+    {
+        "name": "La familia Addams",
+        "year": 1991,
+        "synopsis": "La macabra y excéntrica familia Addams must deal with a lawyer who claims to be their long-lost uncle Fester, while protecting their fortune from a scam.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Addams_Family_%281991_film%29_poster.jpg"
+    },
+    {
+        "name": "La familia Addams 2: La tradición continúa",
+        "year": 1993,
+        "synopsis": "The Addams family visits a summer camp for families, where they are targeted by a coach who wants to steal their wealth, leading to chaotic and darkly comedic situations.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Addams_Family_Values_poster.jpg"
+    },
+    {
+        "name": "La familia Addams",
+        "year": 2019,
+        "synopsis": "Versión animada de la familia Addams, where they prepare for a visit from relatives while dealing with a reality TV host who wants to expose their secrets.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Addams_Family_%282019_film%29_poster.jpg"
+    },
+    {
+        "name": "La familia Addams 2: La gran escapada",
+        "year": 2021,
+        "synopsis": "The Addams family embarks on a road trip for a family reunion, but must evade a mysterious host who is hunting them for a reward.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Addams_Family_2_poster.jpg"
+    },
+    {
+        "name": "La vida secreta de las mascotas",
+        "year": 2016,
+        "synopsis": "Un perro llamado Max se celosa cuando su dueña trae a casa un nuevo perro llamado Duke, leading to an adventure through New York City with a group of pets.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Secret_Life_of_Pets_poster.jpg"
+    },
+    {
+        "name": "La vida secreta de las mascotas 2",
+        "year": 2019,
+        "synopsis": "Max enfrenta nuevas ansiedades cuando su familia tiene un hijo, while Gidget must rescue his favorite toy from a cat apartment, and Snowball becomes a superhero.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Secret_Life_of_Pets_2_poster.jpg"
+    },
+    {
+        "name": "Lilo y Stitch",
+        "year": 2002,
+        "synopsis": "Una niña hawaiana llamada Lilo adopta a un perro que en realidad es un experimento alienígena fugitivo llamado Stitch, and they form an unlikely family while avoiding intergalactic capture.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Lilo_%26_Stitch_poster.jpg"
+    },
+    {
+        "name": "Lilo y Stitch 2: Stitch tiene un defecto",
+        "year": 2005,
+        "synopsis": "Stitch's battery begins to fail, causing him to malfunction, and Lilo must perform a hula to recharge him before it's too late.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Lilo_%26_Stitch_2_Stitch_Has_a_Glitch_poster.jpg"
+    },
+    {
+        "name": "Stitch! La película",
+        "year": 2003,
+        "synopsis": "Stitch's creator, Dr. Jumba, arrives on Earth to reclaim him, but Lilo must prove that Stitch has changed and deserves to stay with her.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Stitch!_The_Movie_poster.jpg"
+    },
+    {
+        "name": "Locos por el surf",
+        "year": 2007,
+        "synopsis": "Un pingüino surfista llamado Cody Maverick viaja a una competencia de surf para probar su valía, making friends and learning about true courage along the way.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Surf%27s_Up_poster.jpg"
+    },
+    {
+        "name": "Locos por el surf 2: Ola mental",
+        "year": 2017,
+        "synopsis": "Cody Maverick and his friends discover a new surf spot with perfect waves, but must protect it from a developer who wants to exploit it.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Surf%27s_Up_2_WaveMania_poster.jpg"
+    },
+    {
+        "name": "Los Croods",
+        "year": 2013,
+        "synopsis": "Una familia prehistórica must leave their cave after it's destroyed, embarking on a journey through a dangerous world with the help of a innovative boy named Guy.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Croods_poster.jpg"
+    },
+    {
+        "name": "Los Croods 2: Una nueva era",
+        "year": 2020,
+        "synopsis": "The Croods meet the Bettermans, a family with modern amenities, leading to a culture clash and a threat that forces them to work together.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Croods_A_New_Age_poster.jpg"
+    },
+    {
+        "name": "Madagascar",
+        "year": 2005,
+        "synopsis": "Cuatro animales del zoológico de Nueva York accidentally are shipped to Madagascar, where they must adapt to the wild and deal with the quirky lemurs.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Madagascar_%282005_film%29_poster.jpg"
+    },
+    {
+        "name": "Madagascar 2: Escape de África",
+        "year": 2008,
+        "synopsis": "The animals try to return to New York but crash-land in Africa, where Alex meets his parents and must prove himself to the pride.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Madagascar_Escape_2_Africa_poster.jpg"
+    },
+    {
+        "name": "Madagascar 3: Europe's Most Wanted",
+        "year": 2012,
+        "synopsis": "The animals join a circus to escape animal control officer Capitaine Chantel DuBois, and travel through Europe to get back to New York.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Madagascar_3_Europe%27s_Most_Wanted_poster.jpg"
+    },
+    {
+        "name": "Penguins of Madagascar",
+        "year": 2014,
+        "synopsis": "Los pingüinos Skipper, Kowalski, Rico y Private se embarcan en una aventura independiente para detener a un pulpo villano llamado Dave que busca vengarse de los pingüinos.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Penguins_of_Madagascar_poster.jpg"
+    },
+    {
+        "name": "Minions",
+        "year": 2015,
+        "synopsis": "Los Minions buscan a un villano para servir, leading them to Scarlet Overkill in the 1960s, and must save London from her evil plans.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Minions_%282015_film%29_poster.jpg"
+    },
+    {
+        "name": "Minions: The Rise of Gru",
+        "year": 2022,
+        "synopsis": "Un joven Gru dreams of becoming a supervillain, and with the help of his Minions, tries to join the Vicious 6, leading to chaotic adventures.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Minions_The_Rise_of_Gru_poster.jpg"
+    },
+    {
+        "name": "Mi villano favorito",
+        "year": 2010,
+        "synopsis": "Gru, un supervillano, plans to steal the moon, but his life changes when he adopts three orphan girls who see him as a potential father.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Despicable_Me_poster.jpg"
+    },
+    {
+        "name": "Mi villano favorito 2",
+        "year": 2013,
+        "synopsis": "Gru is recruited by the Anti-Villain League to stop a powerful villain called El Macho, while trying to be a good father to his daughters.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Despicable_Me_2_poster.jpg"
+    },
+    {
+        "name": "Mi villano favorito 3",
+        "year": 2017,
+        "synopsis": "Gru faces off against his long-lost twin brother Dru, and must stop a former child star named Balthazar Bratt from destroying Hollywood.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Despicable_Me_3_poster.jpg"
+    },
+    {
+        "name": "Mulan",
+        "year": 1998,
+        "synopsis": "Una joven china se disfraza de hombre para tomar el lugar de su padre enfermo en el ejército, and must prove herself to save China from invaders.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Mulan_%281998_film%29_poster.jpg"
+    },
+    {
+        "name": "Mulan II",
+        "year": 2004,
+        "synopsis": "Mulan and Shang are tasked with escorting three princesses to their wedding, but they must choose between duty and love when the princesses fall for their guards.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Mulan_II_poster.jpg"
+    },
+    {
+        "name": "Mulan",
+        "year": 2020,
+        "synopsis": "Remake de acción real del clásico animado, donde una joven guerrera se disfraza de hombre para servir en el ejército y proteger a su familia y país.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Mulan_%282020_film%29_poster.jpg"
+    },
+    {
+        "name": "Peter Pan",
+        "year": 1953,
+        "synopsis": "Peter Pan lleva a Wendy y sus hermanos to Neverland, where they have adventures with pirates, lost boys, and fairies, while facing Captain Hook.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Peter_Pan_%281953_film%29_poster.jpg"
+    },
+    {
+        "name": "Peter Pan: Return to Never Land",
+        "year": 2002,
+        "synopsis": "Wendy's daughter Jane is taken to Neverland by Captain Hook, and must believe in Peter Pan to save herself and the magic of Neverland.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Peter_Pan_Return_to_Never_Land_poster.jpg"
+    },
+    {
+        "name": "Pocahontas",
+        "year": 1995,
+        "synopsis": "La princesa nativa americana Pocahontas se enamora del colonizador John Smith, and must prevent war between her tribe and the English settlers.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Pocahontas_%281995_film%29_poster.jpg"
+    },
+    {
+        "name": "Pocahontas II: Viaje a un nuevo mundo",
+        "year": 1998,
+        "synopsis": "Pocahontas travels to England to negotiate peace between her tribe and the English, while dealing with court intrigue and her feelings for John Rolfe.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Pocahontas_II_Journey_to_a_New_World_poster.jpg"
+    },
+    {
+        "name": "Ralph el demoledor",
+        "year": 2012,
+        "synopsis": "Un personaje de videojuego villain called Ralph wants to become a hero, and jumps into other games to win a medal, but accidentally releases a threat that could destroy all games.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Wreck-It_Ralph_poster.jpg"
+    },
+    {
+        "name": "Ralph rompe Internet",
+        "year": 2018,
+        "synopsis": "Ralph and Vanellope venture into the internet to save Sugar Rush, encountering modern web culture and facing a viral threat.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Ralph_Breaks_the_Internet_poster.jpg"
+    },
+    {
+        "name": "Rio",
+        "year": 2011,
+        "synopsis": "Un guacamayo domesticado llamado Blu travels to Rio de Janeiro to mate with the last female of his species, but gets caught up in a bird smuggling ring.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Rio_%282011_film%29_poster.jpg"
+    },
+    {
+        "name": "Rio 2",
+        "year": 2014,
+        "synopsis": "Blu and his family discover a hidden tribe of blue macaws in the Amazon, but must protect them from loggers and a rival bird.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Rio_2_poster.jpg"
+    },
+    {
+        "name": "Las aventuras de Sammy",
+        "year": 2010,
+        "synopsis": "Una tortuga marina called Sammy recounts his 50-year journey across the ocean to reunite with his love Shelly, facing natural dangers and human threats.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Sammy%27s_Adventures_The_Secret_Passage_poster.jpg"
+    },
+    {
+        "name": "Las aventuras de Sammy 2",
+        "year": 2012,
+        "synopsis": "Sammy and his friends embark on a new adventure to find a hidden paradise for turtles, while avoiding predators and pollution.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Sammy%27s_Adventures_2_poster.jpg"
+    },
+    {
+        "name": "Shrek",
+        "year": 2001,
+        "synopsis": "Un ogro llamado Shrek must rescue Princess Fiona for Lord Farquaad to get his swamp back, but falls in love with her and discovers her secret.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Shrek_%28film%29_poster.jpg"
+    },
+    {
+        "name": "Shrek 2",
+        "year": 2004,
+        "synopsis": "Shrek and Fiona visit her parents in Far Far Away, but must deal with the Fairy Godmother who wants her son Prince Charming to marry Fiona.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Shrek_2_poster.jpg"
+    },
+    {
+        "name": "Shrek Tercero",
+        "year": 2007,
+        "synopsis": "Shrek must find a heir to the throne of Far Far Away after King Harold dies, or else he will have to become king himself.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Shrek_the_Third_poster.jpg"
+    },
+    {
+        "name": "Shrek Forever After",
+        "year": 2010,
+        "synopsis": "Shrek signs a contract with Rumpelstiltskin to relive a day as a real ogre, but ends up in an alternate reality where he never existed.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Shrek_Forever_After_poster.jpg"
+    },
+    {
+        "name": "Las aventuras de Tadeo Jones",
+        "year": 2012,
+        "synopsis": "Un albañil llamado Tadeo accidentally is mistaken for an archaeologist and embarks on an adventure to Peru to find a lost Inca city.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Tad_The_Lost_Explorer_poster.jpg"
+    },
+    {
+        "name": "Tadeo Jones 2: El secreto del rey Midas",
+        "year": 2017,
+        "synopsis": "Tadeo must find the legendary King Midas's tomb to save his friend from a curse, facing dangerous traps and rivals.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Tad_The_Lost_Explorer_2_poster.jpg"
+    },
+    {
+        "name": "Tadeo Jones 3: La tabla esmeralda",
+        "year": 2022,
+        "synopsis": "Tadeo travels to Mexico to discover the secrets of the Emerald Tablet, which has the power to control nature, while avoiding a villain who wants it for evil.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Tad_The_Lost_Explorer_3_poster.jpg"
+    },
+    {
+        "name": "Tarzan",
+        "year": 1999,
+        "synopsis": "Un niño raised by gorillas in the jungle must choose between his human heritage and his animal family when explorers arrive, including Jane Porter.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Tarzan_%281999_film%29_poster.jpg"
+    },
+    {
+        "name": "Tarzan & Jane",
+        "year": 2002,
+        "synopsis": "Tarzan and Jane celebrate their first anniversary, with Jane recalling their adventures together through flashbacks.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Tarzan_%26_Jane_poster.jpg"
+    },
+    {
+        "name": "Tarzan II",
+        "year": 2005,
+        "synopsis": "A young Tarzan feels out of place in his gorilla family and runs away, meeting new friends and learning about his identity.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Tarzan_II_poster.jpg"
+    },
+    {
+        "name": "The Boss Baby",
+        "year": 2017,
+        "synopsis": "Un bebé wearing a suit teams up with his older brother to stop a plot by puppies to steal all the love from babies, using corporate espionage tactics.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Boss_Baby_poster.jpg"
+    },
+    {
+        "name": "The Boss Baby 2: Negocios de familia",
+        "year": 2021,
+        "synopsis": "Los hermanos Templeton are now adults with kids of their own, but must reunite when a new boss baby reveals a conspiracy that threatens the world.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Boss_Baby_2_poster.jpg"
+    },
+    {
+        "name": "The Grinch",
+        "year": 2018,
+        "synopsis": "El Grinch, a misántropo green creature, plans to steal Christmas from the cheerful town of Whoville, but his heart is changed by a young girl's kindness.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Grinch_%282018_film%29_poster.jpg"
+    },
+    {
+        "name": "Campanilla",
+        "year": 2008,
+        "synopsis": "Campanilla, a fairy in Neverland, must find her talent after accidentally putting the fairy kingdom in jeopardy before spring.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Tinker_Bell_%28film%29_poster.jpg"
+    },
+    {
+        "name": "Campanilla y el tesoro perdido",
+        "year": 2009,
+        "synopsis": "Campanilla must restore a magical sceptre to save the fairies' autumn festivities, learning about friendship and responsibility along the way.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Tinker_Bell_and_the_Lost_Treasure_poster.jpg"
+    },
+    {
+        "name": "Campanilla y el gran rescate",
+        "year": 2010,
+        "synopsis": "Campanilla is captured by a little girl who collects fairies, and her friends must rescue her before she is exposed to the human world.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Tinker_Bell_and_the_Great_Fairy_Rescue_poster.jpg"
+    },
+    {
+        "name": "Campanilla: hadas al rescate",
+        "year": 2012,
+        "synopsis": "Campanilla and her friends travel to the mainland to change the seasons, but must avoid being seen by humans.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Secret_of_the_Wings_poster.jpg"
+    },
+    {
+        "name": "Campanilla y la bestia de Nunca Jamás",
+        "year": 2014,
+        "synopsis": "Campanilla embarks on an adventure to find a mysterious beast that is threatening Neverland, discovering new fairies and secrets.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Tinker_Bell_and_the_Legend_of_the_NeverBeast_poster.jpg"
+    },
+    {
+        "name": "Toy Story",
+        "year": 1995,
+        "synopsis": "Los juguetes de Andy cobran vida when humans are not around, and Woody, a cowboy doll, feels threatened when a new space ranger action figure, Buzz Lightyear, arrives.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Toy_Story_poster.jpg"
+    },
+    {
+        "name": "Toy Story 2",
+        "year": 1999,
+        "synopsis": "Woody is stolen by a collector who wants to sell him to a museum, and Buzz leads a rescue mission to bring him back before Andy returns from camp.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Toy_Story_2_poster.jpg"
+    },
+    {
+        "name": "Toy Story 3",
+        "year": 2010,
+        "synopsis": "Los juguetes de Andy face an uncertain future when he goes to college, and end up in a daycare center run by a tyrannical bear, Lotso.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Toy_Story_3_poster.jpg"
+    },
+    {
+        "name": "Toy Story 4",
+        "year": 2019,
+        "synopsis": "Woody embarks on a journey to rescue a new toy called Forky, and reunites with Bo Peep, discovering a new purpose beyond being a child's toy.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Toy_Story_4_poster.jpg"
+    },
+    {
+        "name": "Trolls",
+        "year": 2016,
+        "synopsis": "La princesa Poppy and the grumpy Branch must rescue their friends from the Bergens, creatures who eat trolls to be happy.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Trolls_%28film%29_poster.jpg"
+    },
+    {
+        "name": "Trolls 2: Gira mundial",
+        "year": 2020,
+        "synopsis": "Poppy and Branch discover that there are other troll tribes beyond their own, and must unite them to save their world from a threat.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Trolls_World_Tour_poster.jpg"
+    },
+    {
+        "name": "Trolls 3: Todos juntos",
+        "year": 2023,
+        "synopsis": "Poppy and Branch face a new challenge when Branch's past comes back to haunt them, testing their relationship and the harmony of the trolls.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Trolls_Band_Together_poster.jpg"
+    },
+    {
+        "name": "Superman: La película",
+        "year": 1978,
+        "synopsis": "Superman, el último hijo de Krypton, protects Earth from threats, including the villainous Lex Luthor, while living as reporter Clark Kent.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Superman_%281978_film%29_poster.jpg"
+    },
+    {
+        "name": "Superman II",
+        "year": 1980,
+        "synopsis": "Superman must face three Kryptonian villains who threaten Earth, while giving up his powers to be with Lois Lane.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Superman_II_poster.jpg"
+    },
+    {
+        "name": "Superman III",
+        "year": 1983,
+        "synopsis": "Superman faces a corrupted version of himself created by a flawed computer genius, while dealing with comedic situations in Smallville.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Superman_III_poster.jpg"
+    },
+    {
+        "name": "Superman IV: En busca de la paz",
+        "year": 1987,
+        "synopsis": "Superman fights Nuclear Man, a villain created by Lex Luthor, and campaigns for nuclear disarmament.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Superman_IV_The_Quest_for_Peace_poster.jpg"
+    },
+    {
+        "name": "Superman Returns",
+        "year": 2006,
+        "synopsis": "Superman returns to Earth after a long absence to find Lois Lane moved on and Lex Luthor plotting to create a new continent that will destroy existing countries.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Superman_Returns_poster.jpg"
+    },
+    {
+        "name": "El hombre de acero",
+        "year": 2013,
+        "synopsis": "Un reboot de la historia de Superman, exploring his origins on Krypton and his journey to become Earth's protector against General Zod.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Man_of_Steel_poster.jpg"
+    },
+    {
         "name": "Arcane",
         "year": "2021",
         "seasons": "2",
         "chapters": "18",
         "synopsis": "Ambientada en el universo de League of Legends, sigue los orígenes de Vi y Jinx, dos hermanas separadas por la guerra entre las ciudades gemelas de Piltover y Zaun.",
         "photo": "https://m.media-amazon.com/images/M/MV5BYmU5OWM5ZTAtNjUzOC00NmUyLTgyOWMtMjlkNjdlMDAzMzU1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg"
-
+    },
+    {
+        "name": "Dani y el club de los berracos",
+        "year": "2009",
+        "seasons": "1",
+        "chapters": "6",
+        "synopsis": "Trata sobre la vida habitual de Dany tratando de conseguir chicas",
+        "photo": "https://www.ecured.cu/images/thumb/5/50/Dannyberracos.jpg/300px-Dannyberracos.jpg"
+    },
+    {
+        "name": "Hazbin Hotel",
+        "year": "2024",
+        "seasons": "1",
+        "chapters": "8",
+        "synopsis": "La princesa del Infierno, Charlie Morningstar, abre un hotel de rehabilitación para dar a los demonios una oportunidad de redención y reducir la sobrepoblación infernal, enfrentándose al escepticismo y la oposición.",
+        "photo": ""
+    },
+    {
+        "name": "Helluva Boss",
+        "year": "2021",
+        "seasons": "2",
+        "chapters": "18",
+        "synopsis": "Sigue las miseras de I.M.P., una agencia de asesinatos dirigida por el diablo Blitzo y su dispar equipo, que viaja entre el Infierno y la Tierra para eliminar objetivos humanos, often con resultados caóticos y cómicos.",
+        "photo": ""
+    },
+    {
+        "name": "Iron Man",
+        "year": "2008",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "El genio inventor Tony Stark construye un traje tecnológico avanzado después de ser secuestrado, usándolo para combatir amenazas globales como Iron Man mientras lidia con sus demonios personales y enemigos como Obadiah Stane.",
+        "photo": ""
+    },
+    {
+        "name": "RESIDENT EVIL Infinite Darkness",
+        "year": "2021",
+        "seasons": "1",
+        "chapters": "4",
+        "synopsis": "Leon S. Kennedy y Claire Redfield investigan misteriosos incidentes zombie en la Casa Blanca y en un país extranjero, descubriendo una conspiración global que involucra bioterrorismo y secretos gubernamentales.",
+        "photo": ""
+    },
+    {
+        "name": "Spider-Man",
+        "year": "1994",
+        "seasons": "5",
+        "chapters": "65",
+        "synopsis": "Peter Parker equilibra su vida como estudiante y fotógrafo mientras lucha contra el crimen como Spider-Man, enfrentándose a villanos icónicos como el Duende Verde, el Doctor Octopus y Venom en una serie que define al personaje.",
+        "photo": ""
+    },
+    {
+        "name": "Spider-Man 1994",
+        "year": "1994",
+        "seasons": "5",
+        "chapters": "65",
+        "synopsis": "La serie animada clásica de Spider-Man que sigue las aventuras de Peter Parker mientras protege Nueva York de villanos como el Duende Verde y el Doctor Octopus. :cite[2]:cite[4]",
+        "photo": ""
+    },
+    {
+        "name": "The Batman",
+        "year": "2004",
+        "seasons": "5",
+        "chapters": "65",
+        "synopsis": "Una versión más joven de Bruce Wayne en sus primeros años como Batman protege Gotham City de villanos clásicos y nuevos, utilizando su ingenio y tecnología para combatir el crimen mientras forma alianzas clave.",
+        "photo": ""
+    },
+    {
+        "name": "Una Sonrisa Roja Como La Sangre: Cuentos De Los Hermanos Grimm",
+        "year": "2021",
+        "seasons": "1",
+        "chapters": "No especificado",
+        "synopsis": "Hansel y Gretel dejan atrás su propia historia para adentrarse en un retorcido cuento lleno de sorpresas extrañas... y aterradoras. :cite[3]:cite[5]",
+        "photo": ""
     }
 ]

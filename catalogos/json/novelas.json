@@ -1,9 +1,79 @@
 [
     {
+        "name": "Amores Cruzados",
+        "year": "2006",
+        "chapters": "120",
+        "synopsis": "Historia de enredos amorosos y cambio de identidades entre Alejandro, un heredero mexicano, y Diego, su amigo, quienes intercambian sus vidas entre México y Colombia. Alejandro se hace pasar por Diego en Ciudad de México y se enamora de María, mientras Diego en Colombia asume la identidad de Alejandro y atrae el interés de Elisa, la hermana de María. La trama se complica con compromisos matrimoniales cruzados y la visita sorpresa del padre de Alejandro a Cartagena.",
+        "photo": "https://pics.filmaffinity.com/amores_cruzados-879048082-large.jpg"
+    },
+    {
+        "name": "Amor Obstinado",
+        "year": "2015",
+        "chapters": "32",
+        "synopsis": "Comedia romántica que sigue los enfrentamientos y el romance entre Defne, una ingeniera informática recién graduada, y Yalın, el CEO de una empresa de tecnología. A pesar de un inicio turbulento debido a un engaño y la sobreprotección del hermano de Defne, ambos desarrollan una relación amorosa en un entorno laboral lleno de malentendidos y situaciones cómicas, mientras lidian con conflictos familiares y personales.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZDI0Zjc0YjAtZGVkNC00N2M4LThhYjItN2Y2OWU0MWI2OTVkXkEyXkFqcGc@._V1_QL75_UY266_CR18,0,180,266_.jpg"
+    },
+    {
+        "name": "Amor y Castigo",
+        "year": "2022",
+        "chapters": "No especificados",
+        "synopsis": "Drama que explora temas de tradición, matrimonio arreglado y infidelidad a través de la historia de Çiçek, una joven sometida a un matrimonio sin amor con Savas, quien mantiene una relación extramatrimonial con Yasemin. La serie critica las dobles morales y la opresión femenina, mostrando el sufrimiento de Çiçek atrapada entre expectativas familiares y la falta de libertad, mientras Savas divide su lealtad entre su esposa y su amante.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTc5Mjg5MjI3NF5BMl5BanBnXkFtZTgwNjc0NTA0MjE@._V1_QL75_UY266_CR18,0,180,266_.jpg"
+    },
+    {
         "name": "Pájaro Soñador",
         "year": "2018",
-        "chapters": "75",
-        "synopsis": "Una cantante de pueblo lucha por alcanzar el éxito en la ciudad grande, enfrentando traiciones y un triángulo amoroso con dos hombres opuestos.",
+        "chapters": "38",
+        "synopsis": "Una joven soñadora llamada Sanem trabaja en una agencia de publicidad familiar para evitar una boda arreglada. Allí se enamora de Can, el hijo del dueño, mientras persigue su sueño de convertirse en escritora. La serie combina comedia, romance y conflictos familiares en un entorno laboral dinámico, destacando por su química protagonista y su tono ligero.",
         "photo": "https://pics.filmaffinity.com/erkenci_kus-874802895-large.jpg"
+    },
+    {
+        "name": "Identidad Oculta",
+        "year": "2016",
+        "chapters": "18",
+        "synopsis": "Drama de identidad y venganza donde Efe, un pescador que olvidó su pasado, descubre que es gemelo de Mete, el director de una empresa. Tras una tragedia, Efe asume la identidad de su hermano para enfrentar a quienes destruyeron su familia, mientras se reencuentra con Nisan, su amor de infancia ahora casada con Mete. Adaptación del drama coreano 'Resurrection'.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZGQ2ZDg5ZTAtODJmYS00ZDA1LWIyZjItN2Y2OWU0MWI2OTVkXkEyXkFqcGc@._V1_QL75_UY266_CR18,0,180,266_.jpg"
+    },
+    {
+        "name": "Entre Sombras",
+        "year": "2022",
+        "chapters": "60",
+        "synopsis": "Es la historia de Julia y Magdalena, miembros de un grupo de élite que se esfuerza por resolver los crímenes más desconcertantes en un tiempo récord.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Entre_sombras_Colombian_TV_series_poster.jpg/250px-Entre_sombras_Colombian_TV_series_poster.jpg"
+    },
+    {
+        "name": "Kuzgun",
+        "year": "2019",
+        "chapters": "21",
+        "synopsis": "La vida familiar de Kuzgun cambia por completo cuando su padre, un policía, es amenazado.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Kuzgun_series_poster.jpg/250px-Kuzgun_series_poster.jpg"
+    },
+    {
+        "name": "Mi fortuna es amarte",
+        "year": "2021",
+        "chapters": "110",
+        "synopsis": "Las vidas de Natalia y Chente cambian para siempre cuando el esposo de Natalia, Adrián, estafa a Chente con una gran suma de dinero. Mientras Natalia intenta hacer las cosas bien, ella y Chente comienzan a enamorarse inesperadamente.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/a/a3/Mi_fortuna_es_amarte_poster.jpg"
+    },
+    {
+        "name": "Palpito",
+        "year": "2022",
+        "chapters": "24",
+        "synopsis": "La mujer de Simón es asesinada para extraerle el corazón y trasplantárselo a Camila, la mujer de un hombre rico. En su búsqueda de venganza, se sumerge en el peligroso mundo del tráfico de órganos.",
+        "photo": "https://media.glamour.mx/photos/62682944d6fcaf1b8b1dde60/16:9/w_1920,c_limit/P%C3%A1lpito.jpg"
+    },
+    {
+        "name": "Quién es quién",
+        "year": "2015",
+        "chapters": "120",
+        "synopsis": "Sigue a dos gemelos, uno rico y otro pobre, separados al nacer y reunidos varios años después por el destino. Sin embargo, sus vidas se intercambian. A través de este viaje se buscan y se descubren a sí mismos.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/%C2%BFQui%C3%A9n_es_qui%C3%A9n%3F.jpg/250px-%C2%BFQui%C3%A9n_es_qui%C3%A9n%3F.jpg"
+    },
+    {
+        "name": "Rayito de luz",
+        "year": "2000",
+        "chapters": "20",
+        "synopsis": "Un chico llamado Abel Ventura llega a un tranquilo pueblo llamado San Pedro de las Montañas para iniciar su carrera dentro del sacerdocio en el seminario de los Hermanos Reutilicos.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Rayitodeluzposter.jpg/250px-Rayitodeluzposter.jpg"
     }
 ]

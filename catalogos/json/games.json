@@ -1,18 +1,362 @@
 [
     {
+        "name": "Battlefield 4",
+        "year": 2013,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
         "name": "Blur",
         "year": 2010,
-        "size": "4.6 GB",
+        "size": "14 GB",
         "platform": "PC",
-        "requirements": "SO: Windows XP/Vista/7. Procesador: Intel Core 2 Duo 2.0 GHz o AMD equivalente. RAM: 2 GB. GPU: NVIDIA GeForce 8600 GT / ATI Radeon HD 2600 XT (256 MB VRAM). Almacenamiento: 5 GB.",
+        "requirements": "SO: Windows XP/Vista/7. Procesador: Intel Pentium D Dual Core 3.4 GHz o AMD Athlon 64 x2 3800+. RAM: 1 GB (XP) / 2 GB (Vista/7). GPU: NVIDIA GeForce 6600 GT o ATI Radeon 1600XT (256 MB VRAM). Almacenamiento: 14 GB.",
         "photo": "https://upload.wikimedia.org/wikipedia/en/c/c8/Blur_%28video_game%29.jpg"
     },
     {
-        "name": "Naruto Shippuden - Ultimate Ninja Impact",
+        "name": "DELTARUNE v1.01C",
+        "year": 2018,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Elden Ring",
+        "year": 2022,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Broforce",
+        "year": 2015,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Cult of the Lamb",
+        "year": 2022,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Hades",
+        "year": 2020,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Hades II",
+        "year": 2023,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "It Takes Two",
+        "year": 2021,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Kenshi",
+        "year": 2018,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Killing Floor",
+        "year": 2009,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Need for Speed Rivals",
+        "year": 2013,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "NieR Replicant ver.1.22474487139",
+        "year": 2021,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Overcooked 2",
+        "year": 2018,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "PEAK",
+        "year":2025,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Prototype 2",
+        "year": 2012,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Rayman Legends",
+        "year": 2013,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Red Faction",
+        "year": 2001,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "REPO",
+        "year":2025,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Len's Island",
+        "year":2021,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Spore",
+        "year": 2008,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Street Fighter X Tekken",
+        "year": 2012,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Super Smash Bros. Ultimate",
+        "year": 2018,
+        "size": "",
+        "platform": "Nintendo Switch",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Terraria",
         "year": 2011,
-        "size": "1 GB",
-        "plataform": "Emulado (PPSSPP)",
-        "requirements": "No especificados.",
-        "photo": "https://media.vandal.net/t200/14361/201172121556_1.jpg"
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "World of Warcraft: Mists of Pandaria",
+        "year": 2012,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Call of Duty: Black Ops",
+        "year": 2010,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Call of Duty 4: Modern Warfare",
+        "year": 2007,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Resident Evil 5 Gold Edition",
+        "year": 2010,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Resident Evil 2",
+        "year": 2019,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Assassin's Creed Brotherhood",
+        "year": 2010,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Assassin's Creed II",
+        "year": 2009,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Assassin's Creed Odyssey",
+        "year": 2018,
+        "size": "74 GB",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Assassin's Creed Origins",
+        "year": 2017,
+        "size": "",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Assassin's Creed Revelations",
+        "year": 2011,
+        "size": "8.40 GB",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Assassin's Creed III",
+        "year": 2012,
+        "size": "9.72 GB",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Assassin's Creed IV: Black Flag",
+        "year": 2013,
+        "size": "7.26 GB",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Assassin's Creed Rogue",
+        "year": 2014,
+        "size": "7.72 GB",
+        "platform": "PC",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Monster Hunter 3",
+        "year": 2009,
+        "size": "",
+        "platform": "Emulado (PPSSPP)",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Gods Eater Burst",
+        "year": 2010,
+        "size": "",
+        "platform": "Emulado (PPSSPP)",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Tekken 6",
+        "year": 2007,
+        "size": "",
+        "platform": "Emulado (PPSSPP)",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Kingdom Hearts Birth by Sleep",
+        "year": 2010,
+        "size": "",
+        "platform": "Emulado (PPSSPP)",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Yu-Gi-Oh! 5D's Tag Force 5",
+        "year": 2010,
+        "size": "",
+        "platform": "Emulado (PPSSPP)",
+        "requirements": ".",
+        "photo": ""
+    },
+    {
+        "name": "Mario Kart 8",
+        "year": 2014,
+        "size": "",
+        "platform": "Emulado (Cemu)",
+        "requirements": "SO: Windows 7 (x64) o superior. OpenGL 4.5 o Vulkan 1.2. RAM: 4 GB mínimo, 8 GB recomendado. GPU: NVIDIA o AMD con al menos 2 GB de VRAM.",
+        "photo": ""
+    },
+    {
+        "name": "Super Smash Bros. for Wii U",
+        "year": 2014,
+        "size": "",
+        "platform": "Emulado (Cemu)",
+        "requirements": "SO: Windows 7 (x64) o superior. OpenGL 4.5 o Vulkan 1.2. RAM: 4 GB mínimo, 8 GB recomendado. GPU: NVIDIA o AMD con al menos 2 GB de VRAM.",
+        "photo": ""
+    },
+    {
+        "name": "Ultimate Marvel vs Capcom 3",
+        "year": 2011,
+        "size": "",
+        "platform": "Emulado (PS2)",
+        "requirements": ".",
+        "photo": ""
     }
 ]

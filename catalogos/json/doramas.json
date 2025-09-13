@@ -1,11 +1,34 @@
 [
     {
+        "name": "Business Proposal",
+        "year": "2022",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Una empleada se hace pasar por una cita a ciegas de su amiga para sacarla de un compromiso, pero descubre que su cita es el director ejecutivo de su empresa, quien luego le propone un falso compromiso.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZWE1NmZjMmYtM2ExOS00ZDY0LWJhMjktNDgwZjMzN2E2OWU4XkEyXkFqcGc@._V1_QL75_UX180_CR0,0,180,266_.jpg"
+    },
+    {
         "name": "Marry My Husband",
         "year": "2024",
         "seasons": "1",
         "chapters": "16",
         "synopsis": "Una historia sobre Ji-won, quien después de ser asesinada por su esposo que tuvo un romance con su mejor amiga, se remonta a 10 años atrás y tiene la oportunidad de cambiar su destino.",
         "photo": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_QL75_UX180_CR0,2,180,266_.jpg"
-
+    },
+    {
+        "name": "Marry My Husband: Japan",
+        "year": "2024",
+        "seasons": "1",
+        "chapters": "10",
+        "synopsis": "Adaptación japonesa del drama coreano. Misa Kanbe regresa en el tiempo después de ser traicionada y asesinada, buscando cambiar su destino al reescribir su vida y vengarse de aquellos que la dañaron, combinando elementos emocionales de ambas culturas.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZGQ2Mjg5YzAtZmNmYi00YjRiLWIyZjItNTJkZDU5OTVlOTI1XkEyXkFqcGc@._V1_QL75_UX180_CR0,0,180,266_.jpg"
+    },
+    {
+        "name": "The Judge from Hell",
+        "year": "2024",
+        "seasons": "1",
+        "chapters": "14",
+        "synopsis": "Una jueza de élite que en realidad es un demonio del infierno llega a la Tierra con la misión de castigar a aquellos que no sienten remordimiento por sus crímenes, mientras forma una relación inesperada con un detective humano que esconde sus propias heridas emocionales.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZjhkNDE0OTEtZmM0YS00MjA0LTk5NGItY2JiOTVmMTJlYmJiXkEyXkFqcGc@._V1_QL75_UX180_CR0,0,180,266_.jpg"
     }
 ]

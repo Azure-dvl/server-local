@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-c_hft$lt=xmyzstq(sld+)-a1l^z7$fzgf2$8!f0g8m4w5l7ce
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '192.168.1.106',
+    '192.168.1.10',
     '127.0.0.1'
 ]
 
@@ -124,8 +124,8 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 
-DATA_UPLOAD_MAX_MEMORY_SIZE = 9242880
-DATA_UPLOAD_MAX_NUMBER_FIELDS = 9242880
+DATA_UPLOAD_MAX_MEMORY_SIZE = 19242880
+DATA_UPLOAD_MAX_NUMBER_FIELDS = 19242880
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
