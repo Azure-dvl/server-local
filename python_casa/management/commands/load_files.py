@@ -14,6 +14,9 @@ folders = [
 	'/media/azuredvl/ALMACEN/Games/',
 	'/media/azuredvl/618AE8FD102A7379/Emuladores/',
 	'/media/azuredvl/618AE8FD102A7379/Novelas/',
+ 	'/media/azuredvl/618AE8FD102A7379/Pedidos/',
+  	'/home/azuredvl/PQT/',
+   	'/home/azuredvl/Others/',
 ]
 
 class FSMapper:
@@ -83,7 +86,7 @@ class Command(BaseCommand):
 	def handle(self, *args, **options):
 		# Obtener archivos existentes en la base de datos
 		try:
-			response = requests.get('http://192.168.1.10:8000/api/files/list/')
+			response = requests.get('http://192.168.1.10:80/api/files/list/')
 			existing_files = response.json() if response.status_code == 200 else []
 			existing_paths = {f['path'] for f in existing_files}
 		except requests.exceptions.RequestException as e:
@@ -109,7 +112,7 @@ class Command(BaseCommand):
 		if new_files:
 			print(f"Encontrados {len(new_files)} nuevos archivos. Subiendo...")
 			response = requests.post(
-				'http://192.168.1.10:8000/api/files/create/',
+				'http://192.168.1.10:80/api/files/create/',
 				json={
 					'server': "192.168.1.10",
 					"files": r  # Enviamos la estructura completa, no solo los nuevos

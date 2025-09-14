@@ -1,28 +1,25 @@
 {% load static %}
 <title>Catalogos</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+
 <link rel="stylesheet" href="{% static 'css/catalogos.css' %}">
 
 <div class="container_body">
     <div class="container">
         <div class="header">
-            <h1><i class="fas fa-book-open"></i> Catálogos Multimedia</h1>
+            <h1>Catálogos Multimedia</h1>
             <p>Explora nuestra colección de animados, anime, doramas, juegos, películas, novelas y series</p>
         </div>
         
         <div class="navigation">
             <div class="nav-buttons">
-                <a href="{% url 'files.index' %}" class="btn btn-secondary">
-                    <i class="fas fa-arrow-left"></i> Volver a Archivos
-                </a>
                 <a href="/" class="btn btn-primary">
-                    <i class="fas fa-home"></i> Inicio
+                    </i> Inicio
                 </a>
             </div>
             
             <div class="search-container">
                 <div class="search-box">
-                    <i class="fas fa-search"></i>
+                    </i>
                     <input type="text" id="searchInput" placeholder="Buscar en catálogos...">
                 </div>
             </div>
@@ -147,7 +144,6 @@
             if (currentItems.length === 0) {
                 container.innerHTML = `
                     <div class="no-results">
-                        <i class="fas fa-search"></i>
                         <p>No se encontraron resultados</p>
                     </div>
                 `;
@@ -213,7 +209,7 @@
             
             // Botón anterior
             if (currentPage > 1) {
-                paginationHTML += `<button class="page-btn" onclick="changePage(${currentPage - 1})"><i class="fas fa-chevron-left"></i></button>`;
+                paginationHTML += `<button class="page-btn" onclick="changePage(${currentPage - 1})"></button>`;
             }
             
             // Páginas
@@ -227,7 +223,7 @@
             
             // Botón siguiente
             if (currentPage < totalPages) {
-                paginationHTML += `<button class="page-btn" onclick="changePage(${currentPage + 1})"><i class="fas fa-chevron-right"></i></button>`;
+                paginationHTML += `<button class="page-btn" onclick="changePage(${currentPage + 1})"></button>`;
             }
             
             paginationContainer.innerHTML = paginationHTML;
