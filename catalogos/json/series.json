@@ -1,10 +1,322 @@
 [
     {
+        "name": "3 Body Problem",
+        "year": "2024",
+        "seasons": "1",
+        "chapters": "8",
+        "synopsis": "Un grupo de científicos se enfrenta a la mayor amenaza de la humanidad cuando descubren una conspiración alienígena que se remonta a décadas en la China de la Revolución Cultural.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTc0NTY5ODMtMTAwMy00ODNhLWExZDEtY2RiMzMyYTE4N2M1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "A Discovery of Witches",
+        "year": "2018",
+        "seasons": "3",
+        "chapters": "25",
+        "synopsis": "Una historiadora y bruja descubre un manuscrito alquímico encantado que la lleva a una relación con un vampiro genético mientras intentan proteger el mundo sobrenatural.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZTI4YzZjMzMtZDM2Yi00Zjc4LWE0ZDYtNmJmYmMwM2Q3NGYyXkEyXkFqcGdeQXVyMjkyMzIzMDM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Atypical",
+        "year": "2017",
+        "seasons": "4",
+        "chapters": "38",
+        "synopsis": "Un adolescente con trastorno del espectro autista decide que es momento de encontrar una novia, lo que desata una journey de autodescubrimiento para toda su familia.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNzQ1MDlkMTMtMWY1YS00YzM1LWExYmYtZTJhYjMyM2VlNmZmXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Bones",
+        "year": "2005",
+        "seasons": "12",
+        "chapters": "246",
+        "synopsis": "Una antropóloga forense y un agente del FBI forman un equipo improbable para resolver crímenes analizando restos óseos y evidencias científicas.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMjE4NDVjMjMtM2RlYS00MjZmLWE3YjktMGM2YzY5Y2JjY2VlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Celda 211",
+        "year": "2025",
+        "seasons": "1",
+        "chapters": "6",
+        "synopsis": "Adaptación televisiva del famoso thriller español sobre un guardia de prisión que queda atrapado durante un motín y debe hacerse pasar por un recluso para sobrevivir.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTk2MzY0NjEtMmJlYy00ZjhmLWE1MzctZDE0NDU5MjY5N2E4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Chernobyl",
+        "year": "2019",
+        "seasons": "1",
+        "chapters": "5",
+        "synopsis": "Drama histórico que narra los eventos del desastre nuclear de Chernobyl de 1986 y los sacrificios heroicos para mitigar el daño sin precedentes.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZGQ2MWFhYjQtODRlMi00N2Q5LTlmMGUtM2E0MTM2NDZhYjAwXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Da Vinci's Demons",
+        "year": "2013",
+        "seasons": "3",
+        "chapters": "28",
+        "synopsis": "Una versión ficticia de la juventud de Leonardo da Vinci mientras usa su ingenio e inventiva para navegar por la corrupción política y la intriga en el Renacimiento italiano.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTg1Mjk5NDY0N15BMl5BanBnXkFtZTgwMjI3NDc1MTE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Dexter: Pecado Original",
+        "year": "2021",
+        "seasons": "1",
+        "chapters": "10",
+        "synopsis": "Precuela de la serie original que explora los años de formación de Dexter Morgan y cómo su padre Harry lo entrenó para canalizar sus impulsos asesinos.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZGE5YjM3YmMtMDE1OC00Y2I4LWE0NjItYjI4ZGI4YzcxN2E3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Doctor House",
+        "year": "2004",
+        "seasons": "8",
+        "chapters": "177",
+        "synopsis": "Un genio médico misántropo y su equipo diagnostican enfermedades inexplicables mientras enfrentan conflictos personales y éticos en un hospital universitario.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMDA4NjQzN2ItZDhhNC00ZjVlLWFjNTgtMTEyNDQyOGNjMDE1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Falling Skies",
+        "year": "2011",
+        "seasons": "5",
+        "chapters": "52",
+        "synopsis": "Un grupo de supervivientes se une para luchar contra una invasión alienígena que ha devastado la Tierra y esclavizado a la mayoría de la población humana.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTQ2NjgzODE0N15BMl5BanBnXkFtZTcwMjU2MTA2Nw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
         "name": "Friends",
         "year": "1994",
         "seasons": "10",
         "chapters": "236",
         "synopsis": "Las vidas, amores y locuras de seis amigos inseparables que viven en Manhattan, compartiendo risas y lecciones de vida.",
         "photo": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Game of Thrones",
+        "year": "2011",
+        "seasons": "8",
+        "chapters": "73",
+        "synopsis": "Nobles familias luchan por el control del Trono de Hierro en los Siete Reinos de Westeros, mientras una antigua amenaza se despierta en el norte.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Grimm",
+        "year": "2011",
+        "seasons": "6",
+        "chapters": "123",
+        "synopsis": "Un detective descubre que es un Grimm, un cazador de criaturas sobrenaturales, y debe proteger a la humanidad de seres mitológicos que viven entre nosotros.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTkyODg2MzctY2Q3Yy00MmI0LTkxNDgtN2Q4Y2FmZWE0N2FjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "H2O: Just Add Water",
+        "year": "2006",
+        "seasons": "3",
+        "chapters": "78",
+        "synopsis": "Tres chicas adolescentes se transforman en sirenas después de quedar atrapadas en una isla mágica, y deben mantener su secreto mientras navegan por la vida cotidiana.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTcwNjI5MzctYWNkNS00MzM2LTliMDYtNWYyMWMyZTVhYzUwXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Happy Face: Asesino en serie",
+        "year": "2025",
+        "seasons": "1",
+        "chapters": "8",
+        "synopsis": "Basada en hechos reales, sigue la historia de un notorio asesino en serie y la investigación que lleva a su captura, explorando la mente criminal y el impacto en las víctimas.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZjhkNDE0OTEtZmM0YS00MjA0LTk5NGItY2JiOTVmMTJlYmJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "La casa del dragón",
+        "year": "2022",
+        "seasons": "1",
+        "chapters": "10",
+        "synopsis": "Precuela de Game of Thrones que narra la historia de la Casa Targaryen y la danza de los dragones, una guerra civil por el control del Trono de Hierro.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Lucifer",
+        "year": "2016",
+        "seasons": "6",
+        "chapters": "93",
+        "synopsis": "El Diablo abandona el infierno para dirigir un club nocturno en Los Ángeles, donde se convierte en consultor del LAPD y se enfrenta a desafíos celestiales y terrenales.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNDJjMzc4NGYtZmFmNS00YWY3LThjMzQtYzJlNGFkZGRiOWI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Maxton Hall",
+        "year": "2024",
+        "seasons": "1",
+        "chapters": "6",
+        "synopsis": "Una estudiante de clase trabajadora en una exclusiva universidad británica se ve envuelta en un romance prohibido con el hijo de una familia adinerada.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZDI0Zjc0YjAtZGVkNC00N2M4LThhYjItN2Y2OWU0MWI2OTVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Medici: Masters of Florence",
+        "year": "2016",
+        "seasons": "3",
+        "chapters": "24",
+        "synopsis": "La saga de la familia Medici, que gobernó Florencia durante el Renacimiento, y su ascenso al poder a través de la banca, el arte y la intriga política.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTg5NzkzMzE3MF5BMl5BanBnXkFtZTgwNTgyMzk0MDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Memento Mori",
+        "year": "2023",
+        "seasons": "1",
+        "chapters": "6",
+        "synopsis": "Thriller psicológico que sigue a un detective obsesionado con un caso sin resolver que lo lleva a enfrentar sus propios demonios y secretos del pasado.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZGQ2ZDg5ZTAtODJmYS00ZDA1LWIyZjItN2Y2OWU0MWI2OTVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Monstruos: La Historia de Lyle y Erik Menendez",
+        "year": "2024",
+        "seasons": "1",
+        "chapters": "8",
+        "synopsis": "Drama true crime que explora el caso de los hermanos Menendez, quienes fueron condenados por el asesinato de sus padres en un juicio que capturó la atención mediática.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZjhkNDE0OTEtZmM0YS00MjA0LTk5NGItY2JiOTVmMTJlYmJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Mr. Robot",
+        "year": "2015",
+        "seasons": "4",
+        "chapters": "45",
+        "synopsis": "Un hacker con ansiedad social se une a un grupo de hacktivistas para cancelar la deuda global y derrocar a las corporaciones corruptas, pero su mente se convierte en su peor enemigo.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTYzMDE2MzI2M15BMl5BanBnXkFtZTgwNTkxODg0OTE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Once Upon a Time",
+        "year": "2011",
+        "seasons": "7",
+        "chapters": "155",
+        "synopsis": "Personajes de cuentos de hadas son maldecidos a vivir en el mundo real sin memoria de sus verdaderas identidades, hasta que una salvadora llega para romper el hechizo.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTc1MDY5Mjc3NF5BMl5BanBnXkFtZTgwNjA5Mzc5NjE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Ragnarok",
+        "year": "2020",
+        "seasons": "3",
+        "chapters": "18",
+        "synopsis": "Un adolescente descubre que es la reencarnación de Thor y debe enfrentar a gigantes que disfrazados de empresarios están destruyendo ecológicamente su pueblo noruego.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNDY5YjFhNDAtZmMwMi00Y2I1LWEzNGItMGQ5NmY5NDBlM2NkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Sense8",
+        "year": "2015",
+        "seasons": "2",
+        "chapters": "24",
+        "synopsis": "Ocho extraños de diferentes partes del mundo se conectan mentalmente y deben aprender a navegar sus vidas mientras son perseguidos por una organización que quiere destruirlos.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BYjZmYTQ1MTItOTY1MC00OGM1LWI0MWMtM2Q0Mjg4NGYzY2U4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Shameless",
+        "year": "2011",
+        "seasons": "11",
+        "chapters": "134",
+        "synopsis": "La disfuncional familia Gallagher intenta sobrevivir en el South Side de Chicago, lidando con pobreza, alcoholismo y relaciones complicadas mientras se apoyan mutuamente.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZDgxNjQ2MjMtMjk2Yi00MDMyLWI4ODAtNTE5YzM4ZGVkMDhhXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Sin miedo a la verdad",
+        "year": "2018",
+        "seasons": "4",
+        "chapters": "48",
+        "synopsis": "Un periodista investigativo se infiltra en organizaciones criminales y corruptas para exponer la verdad, arriesgando su vida en cada misión.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZDI0Zjc0YjAtZGVkNC00N2M4LThhYjItN2Y2OWU0MWI2OTVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Sleepy Hollow",
+        "year": "2013",
+        "seasons": "4",
+        "chapters": "62",
+        "synopsis": "Ichabod Crane despierta en el siglo XXI después de ser congelado en el tiempo y se une a una sheriff para combatir fuerzas sobrenaturales y cumplir una profecía apocalíptica.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTU5Nzg2OTk2NF5BMl5BanBnXkFtZTgwNTc2NTY0MTE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Squid Game",
+        "year": "2021",
+        "seasons": "1",
+        "chapters": "9",
+        "synopsis": "Cientos de personas con deudas económicas son invitadas a participar en juegos infantiles mortales para tener la oportunidad de ganar un premio millonario.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliZmYtM2RmMWQwYWRjYTZkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Stranger Things",
+        "year": "2016",
+        "seasons": "4",
+        "chapters": "34",
+        "synopsis": "Un grupo de niños en los años 80 se enfrenta a fuerzas sobrenaturales y experimentos gubernamentales secretos cuando su amigo desaparece y aparece una niña con poderes.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMDZkYmVhNjMtNWU4MC00MDQxLWE3MjYtZGMzZWI1ZjhlOWJmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "The Big Bang Theory",
+        "year": "2007",
+        "seasons": "12",
+        "chapters": "279",
+        "synopsis": "Dos físicos geniales pero socialmente torpes y sus amigos científicos navegan por la vida cotidiana, el trabajo y las relaciones en Pasadena, California.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BY2FmZTY5YTktOWRlYy00NmIyLWE0ZmQtZDg2YjlmMzczZDZiXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "The Last of Us",
+        "year": "2023",
+        "seasons": "1",
+        "chapters": "9",
+        "synopsis": "En un mundo postapocalíptico devastado por una infección fúngica, un hombre endurecido debe escoltar a una niña inmune a través de Estados Unidos para encontrar una cura.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "The Lord of the Rings: The Rings of Power",
+        "year": "2022",
+        "seasons": "1",
+        "chapters": "8",
+        "synopsis": "Ambientada en la Segunda Edad de la Tierra Media, miles de años antes de El Hobbit, sigue el ascenso de Sauron y la forja de los Anillos de Poder.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNTg3NjcxYzgtYjljNC00Y2I2LWE3YmMtOTliZTkwYTE1MmZiXkEyXkFqcGdeQXVyNTY4NDc5MDE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "The Secret Life of the American Teenager",
+        "year": "2008",
+        "seasons": "5",
+        "chapters": "121",
+        "synopsis": "Una adolescente queda embarazada después de su primer encuentro sexual y debe navegar por las consecuencias mientras mantiene su vida escolar y familiar.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTg5MjgyNDYxMl5BMl5BanBnXkFtZTcwMDU0ODg5Nw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "The Vampire Diaries",
+        "year": "2009",
+        "seasons": "8",
+        "chapters": "171",
+        "synopsis": "Una adolescente se ve atrapada en un triángulo amoroso entre dos hermanos vampiros centenarios mientras descubre un mundo sobrenatural lleno de peligros.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMDk3YzgxNDQtNTEzOS00NDMyLWFlYmYtYTZlMDk1NDkxNmMyXkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "The Witcher",
+        "year": "2019",
+        "seasons": "3",
+        "chapters": "24",
+        "synopsis": "Un cazador de monstruos mutante viaja por el continente buscando su lugar en un mundo donde las personas often resultan más malvadas que las bestias que combate.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BN2NhOWE2ODgtN2ExNi00Y2JkLWI2ODEtZmQzYjM2MGU1M2NmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Vikings",
+        "year": "2013",
+        "seasons": "6",
+        "chapters": "89",
+        "synopsis": "La saga de Ragnar Lothbrok, un granjero que se convierte en rey vikingo, y sus hijos mientras exploran, comercian y saquean a través de Europa y más allá.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BODk4ZjU0NDUtYjdlOS00OTljLTgwZTUtYjkyZjk1NzExZGIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Warrior Nun",
+        "year": "2020",
+        "seasons": "2",
+        "chapters": "18",
+        "synopsis": "Una joven muerta resucita con poderes sobrenaturales y se une a una orden secreta de monjas cazadoras de demonios que protegen el mundo del mal.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZTdmZGY2Y2ItNGU4OS00YjY0LTliNDYtN2U2MjE2Y2ViM2RlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Wednesday",
+        "year": "2022",
+        "seasons": "2",
+        "chapters": "16",
+        "synopsis": "Wednesday Addams es enviada a la academia Nevermore para inadaptados sobrenaturales, donde intenta dominar sus poderes psíquicos mientras investiga una ola de misteriosos asesinatos.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNDBjYTllY2EtMjM0Ny00MDIyLWJhYzItYmFlMDc3Y2M2YmFjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Wynonna Earp",
+        "year": "2016",
+        "seasons": "4",
+        "chapters": "49",
+        "synopsis": "La tataranieta del legendario Wyatt Earp uses su arma mágica para combatir demonios y criaturas sobrenaturales que aterrorizan su pueblo natal.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZDk2YjVlN2ItYjExNi00MWE5LWIxYzAtOGI5N2E5M2U1Y2Y1XkEyXkFqcGdeQXVyMjkwOTIyMDU@._V1_FMjpg_UX1000_.jpg"
     }
 ]

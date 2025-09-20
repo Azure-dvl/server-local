@@ -1,16 +1,949 @@
 [
     {
+        "name": "Akame Ga Kill",
+        "year": "2014",
+        "seasons": "1",
+        "chapters": "24",
+        "synopsis": "Tatsumi, un joven guerrero, se une a un grupo de assassinos llamado Night Raid para luchar contra un imperio corrupto. Utilizan armas legendarias llamadas Teigu para eliminar a los corruptos y cambiar el país.",
+        "photo": ""
+    },
+    {
+        "name": "Ao no Exorcist",
+        "year": "2011",
+        "seasons": "2",
+        "chapters": "37",
+        "synopsis": "Rin Okumura descubre que es hijo de Satanás y decide convertirse en exorcista para vencer a su padre. Se une a la Academia True Cross para entrenar y proteger el mundo humano de demonios.",
+        "photo": "https://cdn.myanimelist.net/images/anime/10/75195.jpg"
+    },
+    {
+        "name": "Arcana Famiglia",
+        "year": "2012",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Felicita, hija del líder de una organización que protege una isla, debe participar en un torneo para decidir el próximo líder. Los participantes usan poderes basados en cartas del tarot.",
+        "photo": "https://cdn.myanimelist.net/images/anime/13/39773.jpg"
+    },
+    {
+        "name": "Avatar: The Last Airbender",
+        "year": "2005",
+        "seasons": "3",
+        "chapters": "61",
+        "synopsis": "Aang, el último maestro del aire y Avatar, debe dominar los cuatro elementos para restaurar el equilibrio en un mundo en guerra contra la Nación del Fuego. Viaja con sus amigos Katara and Sokka.",
+        "photo": ""
+    },
+    {
+        "name": "Black Clover",
+        "year": "2017",
+        "seasons": "4",
+        "chapters": "170",
+        "synopsis": "Asta y Yuno son huérfanos que dreams de convertirse en el Rey Mago. Aunque Asta no tiene magia, obtiene un grimorio de trébol de cinco hojas y usa espadas antimagia para luchar.",
+        "photo": "https://cdn.myanimelist.net/images/anime/2/88336.jpg"
+    },
+    {
+        "name": "Blood Lad",
+        "year": "2013",
+        "seasons": "1",
+        "chapters": "10",
+        "synopsis": "Staz, un vampiro otaku que gobierna un distrito en el mundo demoníaco, se obsesiona con una humana llamada Fuyumi. Cuando ella muere, se embarca en una aventura para revivirla.",
+        "photo": ""
+    },
+    {
+        "name": "Campione!",
+        "year": "2012",
+        "seasons": "1",
+        "chapters": "13",
+        "synopsis": "Kusanagi Godou se convierte en un Campione, un asesino de dioses, después de derrotar al dios de la guerra Verethragna. Debe luchar contra otros dioses y Campiones para proteger el mundo.",
+        "photo": "https://cdn.myanimelist.net/images/anime/4/39459.jpg"
+    },
+    {
+        "name": "Cannon Busters",
+        "year": "2019",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "S.A.M, un robot de alto valor, y su amigo mecánico Casey, buscan al heredero de un reino perdido. Se unen a un forajido immortal en un viaje a través de un mundo de fantasía steampunk.",
+        "photo": "https://cdn.myanimelist.net/images/anime/1536/103414.jpg"
+    },
+    {
+        "name": "Chainsaw Man",
+        "year": "2022",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Denji, un joven pobre, se fusiona con su demonio mascota Pochita y se convierte en Chainsaw Man. Se une a los cazadores de demonios para vivir una vida mejor y cumplir sus sueños.",
+        "photo": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg"
+    },
+    {
+        "name": "Clevatess",
+        "year": "2023",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "En un mundo donde los humanos conviven con criaturas mágicas, un joven descubre un antiguo secreto que podría cambiar el equilibrio de poder. Aventuras y batallas épicas le esperan.",
+        "photo": "https://example.com/clevatess.jpg"
+    },
+    {
+        "name": "Cyberpunk Edgerunners",
+        "year": "2022",
+        "seasons": "1",
+        "chapters": "10",
+        "synopsis": "David Martínez, un joven en la distópica Night City, se convierte en un edgerunner después de implantarse un cyberware militar. Lucha por sobrevivir en un mundo de corrupción y violencia.",
+        "photo": "https://cdn.myanimelist.net/images/anime/1824/126434.jpg"
+    },
+    {
+        "name": "Dakaretai Otoko 1-i ni Odosarete Imasu",
+        "year": "2018",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Takato Saijyo, un actor premiado, es seducido por Junta Azumaya, el actor más sexy del mundo. Una relación romántica y complicada se desarrolla entre ellos en el mundo del espectáculo.",
+        "photo": "https://cdn.myanimelist.net/images/anime/1092/95053.jpg"
+    },
+    {
+        "name": "DanDaDan",
+        "year": "2024",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Momoyo Ayase y Okarun, dos estudiantes con intereses en lo sobrenatural, se embarcan en aventuras para investigar fenómenos extraños, encontrándose con aliens y fantasías.",
+        "photo": "https://cdn.myanimelist.net/images/anime/1015/134151.jpg"
+    },
+    {
+        "name": "Dark Gathering",
+        "year": "2023",
+        "seasons": "1",
+        "chapters": "25",
+        "synopsis": "Keitaro Gentoga, un medium que atrae fantasmas, se une a Yayoi Houzuki, una niña prodigio que busca espíritus para rescatar el alma de su madre. Juntos exploran lugares embrujados.",
+        "photo": "https://cdn.myanimelist.net/images/anime/1296/134585.jpg"
+    },
+    {
+        "name": "Densetsu no Yusha no Densetsu",
+        "year": "2010",
+        "seasons": "1",
+        "chapters": "24",
+        "synopsis": "Ryner Lute, un estudiante de magia perezoso, busca artefactos legendarios en un continente devastado por la guerra. Posee los ojos alpha stigma que le dan poderes especiales.",
+        "photo": "https://cdn.myanimelist.net/images/anime/9/75195.jpg"
+    },
+    {
+        "name": "FREEZING",
+        "year": "2011",
+        "seasons": "2",
+        "chapters": "24",
+        "synopsis": "En un futuro donde humanity lucha contra aliens, las Pandoras y sus partners Limiters protegen la Tierra. Kazuya Aoi se une a la academia para convertirse en Limiter y luchar junto a las Pandoras.",
+        "photo": "https://cdn.myanimelist.net/images/anime/12/29778.jpg"
+    },
+    {
+        "name": "Full Metal Alchemist: Brotherhood",
+        "year": "2009",
+        "seasons": "1",
+        "chapters": "64",
+        "synopsis": "Los hermanos Edward y Alphonse Elric buscan la Piedra Filosofal para restaurar sus cuerpos después de un fallido intento de resucitar a su madre. Descubren una conspiración gubernamental.",
+        "photo": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg"
+    },
+    {
+        "name": "Gachiakuta",
+        "year": "2025",
+        "seasons": "1",
+        "chapters": "?",
+        "synopsis": "Rudo vive en un mundo donde la basura es desechada en un abismo. Tras ser acusado de un crimen que no cometió, se convierte en un recolector de basura y descubre secretos ocultos.",
+        "photo": "https://example.com/gachiakuta.jpg"
+    },
+    {
+        "name": "High School DxD",
+        "year": "2012",
+        "seasons": "4",
+        "chapters": "48",
+        "synopsis": "Issei Hyodo, un estudiante pervertido, es asesinado por un ángel y revivido como un demonio por Rias Gremory. Se une a su grupo de demonios para luchar en batallas sobrenaturales.",
+        "photo": "https://cdn.myanimelist.net/images/anime/5/39715.jpg"
+    },
+    {
         "name": "Inuyasha",
         "year": "2000",
         "seasons": "7",
         "chapters": "167",
-        "synopsis": "Kagome, una estudiante de secundaria, es transportada al Japón feudal donde conoce al medio demonio Inuyasha. Juntos buscan los fragmentos de la Esfera de las Cuatro Almas.",
+        "synopsis": "Kagome Higurashi es transportada al Japón feudal donde conoce al medio demonio Inuyasha. Juntos buscan los fragmentos de la Esfera de las Cuatro Almas para evitar que caigan en malas manos.",
         "photo": "https://cdn.myanimelist.net/images/anime/1589/95329.jpg"
+    },
+    {
+        "name": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu",
+        "year": "2020",
+        "seasons": "2",
+        "chapters": "24",
+        "synopsis": "Kaede Honjo, una jugadora novata, maximiza su defensa en un juego de realidad virtual. Conocida como Maple, se hace famosa por su estilo de juego único y invencible.",
+        "photo": "https://cdn.myanimelist.net/images/anime/1615/104242.jpg"
+    },
+    {
+        "name": "Jigoku Sensei Nube",
+        "year": "1996",
+        "seasons": "1",
+        "chapters": "49",
+        "synopsis": "Nube, un profesor de primaria, también es un exorcista que lucha contra fantasmas y demonios que amenazan a sus estudiantes. Usa su mano demoníaca para sellar espíritus malvados.",
+        "photo": "https://cdn.myanimelist.net/images/anime/7/20472.jpg"
+    },
+    {
+        "name": "Jujutsu Kaisen",
+        "year": "2020",
+        "seasons": "2",
+        "chapters": "47",
+        "synopsis": "Yuji Itadori se traga un dedo maldito y se convierte en el anfitrión de Sukuna, el Rey de las Maldiciones. Se une a la escuela de hechicería Jujutsu para localizar y eliminar todos los dedos.",
+        "photo": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg"
+    },
+    {
+        "name": "Kaiju no8",
+        "year": "2024",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Kafka Hibino obtiene la capacidad de transformarse en un kaiju después de un accidente. Se une a la Fuerza de Defensa para combatir monstruos gigantes mientras oculta su secreto.",
+        "photo": "https://cdn.myanimelist.net/images/anime/1015/134151.jpg"
+    },
+    {
+        "name": "Kono Subarashii Sekai ni Shukufuku wo!",
+        "year": "2016",
+        "seasons": "2",
+        "chapters": "20",
+        "synopsis": "Kazuma Satou muere y es reencarnado en un mundo de fantasía con la diosa Aqua. Forma un grupo disfuncional con una magista explosiva y una caballera masoquista para luchar contra el Rey Demonio.",
+        "photo": "https://cdn.myanimelist.net/images/anime/8/77831.jpg"
+    },
+    {
+        "name": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO",
+        "year": "2019",
+        "seasons": "1",
+        "chapters": "26",
+        "synopsis": "Takuya Arima investiga la desaparición de su padre y descubre un dispositivo que le permite viajar entre dimensiones. Debe resolver misterios para salvar el mundo.",
+        "photo": "https://cdn.myanimelist.net/images/anime/1624/95053.jpg"
+    },
+    {
+        "name": "La leyenda de Box Machine",
+        "year": "2023",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "En un mundo steampunk, un joven inventor descubre una máquina antigua que puede cambiar el destino de la humanidad. Aventuras y misterios le esperan.",
+        "photo": "https://example.com/box_machine.jpg"
+    },
+    {
+        "name": "Magi: The Labyrinth of Magic",
+        "year": "2012",
+        "seasons": "2",
+        "chapters": "50",
+        "synopsis": "Aladdin, un joven mago, se une a Alibaba para explorar dunones mágicos y reclutar aliados. Descubren secretos sobre los Magi y enfrentan amenazas a varios reinos.",
+        "photo": "https://cdn.myanimelist.net/images/anime/11/42773.jpg"
+    },
+    {
+        "name": "Mashle: Magic and Muscles",
+        "year": "2023",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Mash Burnedead, un joven sin magia pero con fuerza sobrehumana, ingresa a una academia mágica para convertirse en un Divine Visionary y proteger su vida pacífica.",
+        "photo": "https://cdn.myanimelist.net/images/anime/1296/134585.jpg"
+    },
+    {
+        "name": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+        "year": "2021",
+        "seasons": "2",
+        "chapters": "36",
+        "synopsis": "Rudeus Greyrat es reencarnado en un mundo de magia y espadas. Utiliza su conocimiento de su vida anterior para convertirse en un poderoso mago y vivir una vida plena.",
+        "photo": "https://cdn.myanimelist.net/images/anime/1296/134585.jpg"
+    },
+    {
+        "name": "Netsuzou TRap",
+        "year": "2017",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Yuma y Hotaru, dos amigas de la infancia, inician una relación secreta a espaldas de sus novios. Exploren sus sentimientos y los complexities del amor y la traición.",
+        "photo": "https://cdn.myanimelist.net/images/anime/6/86772.jpg"
+    },
+    {
+        "name": "Sasayaku You ni Koi wo Utau",
+        "year": "2024",
+        "seasons": "1",
+        "chapters": "1",
+        "synopsis": "Una historia de romance y música donde dos jóvenes encuentran el amor a través de sus canciones. Basado en una novela popular.",
+        "photo": "https://example.com/sasayaku.jpg"
+    },
+    {
+        "name": "Secrets of the Silent Witch",
+        "year": "2023",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Una bruja silenciosa con un pasado misterioso debe proteger a un príncipe de fuerzas oscuras mientras oculta sus poderes y identidad.",
+        "photo": "https://example.com/silent_witch.jpg"
+    },
+    {
+        "name": "Solo Leveling",
+        "year": "2024",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Sung Jin-Woo, el cazador más débil, obtiene un sistema que le permite level up como en un videojuego. Debe volverse más fuerte para sobrevivir en un mundo de mazmorras y monstruos.",
+        "photo": "https://cdn.myanimelist.net/images/anime/1015/134151.jpg"
+    },
+    {
+        "name": "Special A",
+        "year": "2008",
+        "seasons": "1",
+        "chapters": "24",
+        "synopsis": "Hikari Hanazono siempre ha sido superada por Kei Takishima. Se une a la clase Special A para vencerlo, pero descubre que sus sentimientos hacia él van más allá de la rivalidad.",
+        "photo": "https://cdn.myanimelist.net/images/anime/5/75587.jpg"
+    },
+    {
+        "name": "Spy x Family",
+        "year": "2022",
+        "seasons": "2",
+        "chapters": "37",
+        "synopsis": "Twilight, un espía, forma una familia ficticia con una assassina y una niña telepática para completar una misión. Juntos viven comedia y aventuras mientras ocultan sus secretos.",
+        "photo": "https://cdn.myanimelist.net/images/anime/1441/122795.jpg"
+    },
+    {
+        "name": "Tate no Yuusha no Nariagari",
+        "year": "2019",
+        "seasons": "2",
+        "chapters": "37",
+        "synopsis": "Naofumi Iwatani es convocado como el Héroe del Escudo en un mundo de fantasía. Traicionado y despreciado, debe luchar para demostrar su valía y salvar el mundo.",
+        "photo": "https://cdn.myanimelist.net/images/anime/1490/101365.jpg"
+    },
+    {
+        "name": "Tekken: Bloodline",
+        "year": "2022",
+        "seasons": "1",
+        "chapters": "6",
+        "synopsis": "Jin Kazama entrena con su madre hasta que un demonio destruye su hogar. Busca venganza participando en el Torneo King of Iron Fist para enfrentar a los responsables.",
+        "photo": "https://cdn.myanimelist.net/images/anime/1810/124474.jpg"
+    },
+    {
+        "name": "Tensei Kenja no Isekai Life",
+        "year": "2022",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Un oficinista es reencarnado en un mundo de fantasía como un sabio con habilidades de invocación. Utiliza sus conocimientos para vivir una vida tranquila pero se ve envuelto en aventuras.",
+        "photo": "https://cdn.myanimelist.net/images/anime/1836/125047.jpg"
+    },
+    {
+        "name": "Tensei Kizoku, Kantei Skill de Nariagaru",
+        "year": "2024",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Reencarnado como un noble en un mundo de fantasía, utiliza su habilidad de appraisar para detectar talentos y construir una vida próspera.",
+        "photo": "https://example.com/tensei_kizoku.jpg"
+    },
+    {
+        "name": "Tensei Kizoku no Isekai Boukenroku: Jichou o Shiranai Kamigami no Shito",
+        "year": "2024",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Reencarnado como un noble, descubre que es el enviado de los dioses. Debe usar sus poderes para proteger su nuevo mundo de amenazas oscuras.",
+        "photo": "https://example.com/tensei_kizoku_boukenroku.jpg"
+    },
+    {
+        "name": "Tensei Oujo to Tensai Reijou no Mahou Kakumei",
+        "year": "2023",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Una princesa reencarnada y una genio de la magia colaboran para revolucionar el mundo mágico con inventos innovadores y romper las normas sociales.",
+        "photo": "https://cdn.myanimelist.net/images/anime/1960/131525.jpg"
+    },
+    {
+        "name": "Tensei Shitara Ken Deshita",
+        "year": "2022",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Reencarnado como una espada, se convierte en el compañero de una chica gato y juntos se embarcan en aventuras en un mundo de fantasía.",
+        "photo": "https://cdn.myanimelist.net/images/anime/1812/124474.jpg"
+    },
+    {
+        "name": "Tensei shitara Slime Datta Ken",
+        "year": "2018",
+        "seasons": "2",
+        "chapters": "48",
+        "synopsis": "Satoru Mikami es reencarnado como un slime en un mundo de fantasía. Nombrado Rimuru, construye una nación de monstruos y se convierte en un líder poderoso.",
+        "photo": "https://cdn.myanimelist.net/images/anime/1624/95053.jpg"
+    },
+    {
+        "name": "Toradora!",
+        "year": "2008",
+        "seasons": "1",
+        "chapters": "25",
+        "synopsis": "Ryuuji Takasu y Taiga Aisaka forman una alianza para ayudarse mutuamente a conquistar a sus amores. Sin embargo, desarrollan sentimientos el uno por el otro.",
+        "photo": "https://cdn.myanimelist.net/images/anime/13/22128.jpg"
+    },
+    {
+        "name": "Tougen Anki",
+        "year": "2024",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Un joven descubre que es descendiente de oni y debe luchar contra demonios mientras busca venganza por la muerte de su padre.",
+        "photo": "https://example.com/tougen_anki.jpg"
+    },
+    {
+        "name": "Tsubasa Reservoir Chronicle",
+        "year": "2005",
+        "seasons": "2",
+        "chapters": "52",
+        "synopsis": "Syaoran viaja a través de dimensiones para recuperar los recuerdos de Sakura, que se han dispersado como plumas. Se une a Kurogane y Fai en una aventura épica.",
+        "photo": "https://cdn.myanimelist.net/images/anime/8/20088.jpg"
+    },
+    {
+        "name": "Tsuujou Kougeki ga Zentai Kougeki de Niikai Kougeki no Okaa-san wa Suki Desu ka?",
+        "year": "2024",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Un jugador se encuentra con una madre sobreprotectora en un juego de realidad virtual. Comedia y aventuras en un mundo de fantasía.",
+        "photo": "https://example.com/tsuujou_kougeki.jpg"
+    },
+    {
+        "name": "Valkyrie Drive Mermaid",
+        "year": "2015",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "En una isla misteriosa, las chicas pueden transformarse en armas cuando son excitadas. Deben luchar para sobrevivir y escapar.",
+        "photo": "https://cdn.myanimelist.net/images/anime/10/76418.jpg"
+    },
+    {
+        "name": "Vinland Saga",
+        "year": "2019",
+        "seasons": "2",
+        "chapters": "48",
+        "synopsis": "Thorfinn busca venganza contra Askeladd por matar a his padre. Ambientada en la era vikinga, explora la violencia, la redención y el significado de un verdadero guerrero.",
+        "photo": "https://cdn.myanimelist.net/images/anime/1500/103005.jpg"
+    },
+    {
+        "name": "Violet Evergarden",
+        "year": "2018",
+        "seasons": "1",
+        "chapters": "13",
+        "synopsis": "Violet, una ex soldado, se convierte en una Auto Memory Doll para entender las emociones humanas. Escribe cartas para otros mientras busca el significado de 'te quiero'.",
+        "photo": "https://cdn.myanimelist.net/images/anime/1795/95088.jpg"
+    },
+    {
+        "name": "Voltus 5",
+        "year": "1977",
+        "seasons": "1",
+        "chapters": "54",
+        "synopsis": "Un equipo de pilotos controla el robot Voltus 5 para proteger la Tierra de invasores alienígenas. Serie mecha clásica.",
+        "photo": "https://example.com/voltus5.jpg"
+    },
+    {
+        "name": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri!",
+        "year": "2023",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Una comedia romántica sobre una chica que cree que no puede tener novio y sus divertidas desventuras en el amor.",
+        "photo": "https://example.com/watashi_ga_koibito.jpg"
+    },
+    {
+        "name": "Watashi no Oshi wa Akuyaku Reijou",
+        "year": "2023",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Una fan se reencarna en el mundo de su juego favorito y decide proteger a su idolatrada villana para evitar su destino trágico.",
+        "photo": "https://cdn.myanimelist.net/images/anime/1960/131525.jpg"
+    },
+    {
+        "name": "Wind Breaker",
+        "year": "2024",
+        "seasons": "1",
+        "chapters": "13",
+        "synopsis": "Un joven ciclista se une a un club de ciclismo y compite en carreras llenas de acción y camaradería.",
+        "photo": "https://example.com/wind_breaker.jpg"
+    },
+    {
+        "name": "Yagate Kimi ni Naru",
+        "year": "2018",
+        "seasons": "1",
+        "chapters": "13",
+        "synopsis": "Yuu Koito se cuestiona sobre el amor después de que Nanami Touko le confiesa sus sentimientos. Exploren una relación romántica lenta y thoughtful en la escuela.",
+        "photo": "https://cdn.myanimelist.net/images/anime/1092/95053.jpg"
+    },
+    {
+        "name": "Yuri on Ice",
+        "year": "2016",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Yuri Katsuki, un patinador artístico en crisis, es entrenado por el campeón Viktor Nikiforov. Juntos buscan ganar la Grand Prix Final mientras su relación evoluciona.",
+        "photo": "https://cdn.myanimelist.net/images/anime/6/81149.jpg"
+    },
+    {
+        "name": "Zero no Tsukaima",
+        "year": "2006",
+        "seasons": "4",
+        "chapters": "49",
+        "synopsis": "Louise Françoise invoca a Saito Hiraga como su familiar en una academia de magia. Aunque ella es conocida como 'Zero' por su magia fallida, juntos enfrentan desafíos.",
+        "photo": "https://cdn.myanimelist.net/images/anime/3/52659.jpg"
+    },
+    {
+        "name": "Against the Gods",
+        "year": "2022",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Yun Che, un discípulo de artes marciales, es traicionado y reencarnado en un mundo de cultivación. Busca venganza y convertirse en el más fuerte.",
+        "photo": "https://example.com/against_the_gods.jpg"
+    },
+    {
+        "name": "Against the Sky Supreme",
+        "year": "2023",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Un joven cultivador desafía el cielo y los dioses para alcanzar la inmortalidad y proteger a sus seres queridos.",
+        "photo": "https://example.com/against_the_sky.jpg"
+    },
+    {
+        "name": "Alquimia Suprema",
+        "year": "2022",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Un alquimista busca la piedra filosofal para salvar a su hermana, pero se ve envuelto en una conspiración que amenaza al mundo.",
+        "photo": "https://example.com/alquimia_suprema.jpg"
+    },
+    {
+        "name": "A Paragon of Wuhun",
+        "year": "2023",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Un joven con un espíritu martial único se embarca en un journey para convertirse en el paragon de su clan y proteger su mundo.",
+        "photo": "https://example.com/paragon_wuhun.jpg"
+    },
+    {
+        "name": "Apotheosis",
+        "year": "2020",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Luo Zheng, un discípulo despreciado, obtiene un artefacto que le permite cultivar y alcanzar la apoteosis para vengar a su familia.",
+        "photo": "https://example.com/apotheosis.jpg"
+    },
+    {
+        "name": "A record of a mortal’s journey to immortality",
+        "year": "2020",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Han Li, un mortal, se embarca en el camino de la cultivación para alcanzar la inmortalidad. Enfrenta desafíos y conspiraciones en su journey.",
+        "photo": "https://example.com/record_mortal.jpg"
+    },
+    {
+        "name": "Charm Of Soul Pets",
+        "year": "2018",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "En un mundo donde las personas crían y luchan con soul pets, un joven busca convertirse en el mejor entrenador.",
+        "photo": "https://example.com/charm_soul_pets.jpg"
+    },
+    {
+        "name": "Combat Continent",
+        "year": "2018",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Tang San se reencarna en un mundo de espíritus martiales y debe cultivarse para convertirse en el más fuerte y proteger a sus seres queridos.",
+        "photo": "https://example.com/combat_continent.jpg"
+    },
+    {
+        "name": "Doupo Cangqiong",
+        "year": "2017",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Xiao Yan, un genio que perdió sus poderes, busca recuperar su fuerza y vengar a su familia con la ayuda de un maestro espiritual.",
+        "photo": "https://example.com/doupo_cangqiong.jpg"
+    },
+    {
+        "name": "Dragon Prince Yuan",
+        "year": "2021",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Zhou Yuan, el príncipe de un reino caído, busca recuperar su trono y vengar a su familia through la cultivación.",
+        "photo": "https://example.com/dragon_prince_yuan.jpg"
+    },
+    {
+        "name": "Dragon Star Lord",
+        "year": "2022",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Un lord dragón protege su reino de invasores y descubre secretos ancestrales sobre su linaje.",
+        "photo": "https://example.com/dragon_star_lord.jpg"
+    },
+    {
+        "name": "Eternal Strife",
+        "year": "2023",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "En un mundo de conflictos eternos, un guerrero busca la paz pero debe luchar contra fuerzas oscuras que amenazan con destruir todo.",
+        "photo": "https://example.com/eternal_strife.jpg"
+    },
+    {
+        "name": "Eudemon Quest",
+        "year": "2022",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Un cazador de demonios se embarca en una quest para sellar a los eudemons que amenazan al mundo.",
+        "photo": "https://example.com/eudemon_quest.jpg"
+    },
+    {
+        "name": "Feng Ling Yu Xiu",
+        "year": "2023",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Una historia de romance y cultivación donde dos jóvenes deben superar obstáculos para estar juntos.",
+        "photo": "https://example.com/feng_ling_yu_xiu.jpg"
+    },
+    {
+        "name": "Full-Time Magister",
+        "year": "2016",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Mo Fan se reencarna en un mundo de magia y debe convertirse en un mago de tiempo completo para proteger a su familia y amigos.",
+        "photo": "https://example.com/full_time_magister.jpg"
+    },
+    {
+        "name": "Headmaster of the Hidden Sect",
+        "year": "2023",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Un joven se convierte en el headmaster de un secto oculto y debe entrenar a discípulos para enfrentar amenazas externas.",
+        "photo": "https://example.com/headmaster_hidden_sect.jpg"
+    },
+    {
+        "name": "Hitori No Shita: The Outcast",
+        "year": "2016",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Zhang Chulan descubre que es un outcast con habilidades especiales y se ve envuelto en una guerra entre grupos sobrenaturales.",
+        "photo": "https://example.com/hitori_no_shita.jpg"
+    },
+    {
+        "name": "Immortality",
+        "year": "2022",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Un cultivador busca la inmortalidad pero descubre que el camino está lleno de sacrificios y peligros.",
+        "photo": "https://example.com/immortality.jpg"
+    },
+    {
+        "name": "Jade Dynasty",
+        "year": "2019",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Zhang Xiaofan se une a un secto de cultivación y descubre un secreto que podría cambiar el mundo.",
+        "photo": "https://example.com/jade_dynasty.jpg"
+    },
+    {
+        "name": "Law Of Devil",
+        "year": "2023",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Un joven sigue la ley del diablo para gain poder y vengar la muerte de su familia.",
+        "photo": "https://example.com/law_of_devil.jpg"
+    },
+    {
+        "name": "Lord of Mysteries",
+        "year": "2022",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Zhou Mingrui se transporta a un mundo de misterio y culto, donde debe ascender para convertirse en el Lord of Mysteries.",
+        "photo": "https://example.com/lord_of_mysteries.jpg"
+    },
+    {
+        "name": "Lord of the Universe",
+        "year": "2023",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Un cultivador aims to become the lord of the universe through hard work and battles against powerful enemies.",
+        "photo": "https://example.com/lord_of_universe.jpg"
+    },
+    {
+        "name": "Martial God Asura",
+        "year": "2022",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Chu Feng, un joven con un bloodline especial, busca venganza y convertirse en el Martial God Asura.",
+        "photo": "https://example.com/martial_god_asura.jpg"
+    },
+    {
+        "name": "Martial Universe",
+        "year": "2018",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Lin Dong, un joven de un pueblo pequeño, se embarca en el camino de la cultivación para proteger a su familia y convertirse en el más fuerte.",
+        "photo": "https://example.com/martial_universe.jpg"
+    },
+    {
+        "name": "Myriad Realms Supreme",
+        "year": "2023",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Un supreme being reincarnates in a lower realm and must regain his power to protect the myriad realms.",
+        "photo": "https://example.com/myriad_realms_supreme.jpg"
+    },
+    {
+        "name": "Nirvana of Storm Rider",
+        "year": "2022",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Un storm rider busca el nirvana through battles and self-discovery in a world of martial arts.",
+        "photo": "https://example.com/nirvana_storm_rider.jpg"
+    },
+    {
+        "name": "Quanzhi Fashi",
+        "year": "2016",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Mo Fan, un joven de un mundo moderno, obtiene poderes mágicos y debe convertirse en un mago full-time para salvar el mundo.",
+        "photo": "https://example.com/quanzhi_fashi.jpg"
+    },
+    {
+        "name": "Renegade Immortal",
+        "year": "2022",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Wang Lin, un cultivator renegade, seeks immortality and power while facing numerous challenges and enemies.",
+        "photo": "https://example.com/renegade_immortal.jpg"
+    },
+    {
+        "name": "Spirit Sword Sovereign",
+        "year": "2023",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Un joven sovereign wields a spirit sword to protect his kingdom and uncover the truth about his heritage.",
+        "photo": "https://example.com/spirit_sword_sovereign.jpg"
+    },
+    {
+        "name": "Spiritual Lord",
+        "year": "2022",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Un lord espiritual protege su reino de fuerzas oscuras usando sus poderes espirituales.",
+        "photo": "https://example.com/spiritual_lord.jpg"
+    },
+    {
+        "name": "Swallowed Star",
+        "year": "2020",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Luo Feng, un young warrior, explores the universe and faces alien threats in his journey to become the strongest.",
+        "photo": "https://example.com/swallowed_star.jpg"
+    },
+    {
+        "name": "The Age Of Cosmos Exploration",
+        "year": "2023",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Humanity explores the cosmos in search of new worlds and resources, facing unknown dangers.",
+        "photo": "https://example.com/age_cosmos_exploration.jpg"
+    },
+    {
+        "name": "The Daily Life of the Immortal King",
+        "year": "2020",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Wang Ling, un immortal king, tries to live a normal life but his powers constantly cause chaos.",
+        "photo": "https://example.com/daily_life_immortal_king.jpg"
+    },
+    {
+        "name": "The Demon Hunter",
+        "year": "2022",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Un cazador de demonios protege a la humanidad de criaturas oscuras while hiding his own secret.",
+        "photo": "https://example.com/demon_hunter.jpg"
+    },
+    {
+        "name": "The First Order",
+        "year": "2023",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "En un post-apocalyptic world, a young leader establishes the first order to restore civilization.",
+        "photo": "https://example.com/first_order.jpg"
+    },
+    {
+        "name": "The Great Ruler",
+        "year": "2016",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Mu Chen, un young cultivator, aims to become the Great Ruler and protect his loved ones.",
+        "photo": "https://example.com/great_ruler.jpg"
+    },
+    {
+        "name": "The Legend Of Sword Domain",
+        "year": "2022",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Un joven swordmaster explores a domain filled with ancient swords and secrets.",
+        "photo": "https://example.com/legend_sword_domain.jpg"
+    },
+    {
+        "name": "The Legend of the Taiyi Sword Immortal",
+        "year": "2023",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Un sword immortal busca surpass the limits of his art and become a legend.",
+        "photo": "https://example.com/taiyi_sword_immortal.jpg"
+    },
+    {
+        "name": "The Nine Heaven Of Mystic Emperor",
+        "year": "2022",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Un mystic emperor ascends through the nine heavens to achieve ultimate power.",
+        "photo": "https://example.com/nine_heaven_mystic_emperor.jpg"
+    },
+    {
+        "name": "The Westward: Asura",
+        "year": "2023",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Un asura journeys westward to find redemption and power in a land of demons and gods.",
+        "photo": "https://example.com/westward_asura.jpg"
+    },
+    {
+        "name": "Three Thousand Roads",
+        "year": "2022",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Un cultivator explores three thousand roads to find the path to immortality.",
+        "photo": "https://example.com/three_thousand_roads.jpg"
+    },
+    {
+        "name": "Tomb of Fallen Gods",
+        "year": "2023",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Adventurers explore a tomb filled with fallen gods and ancient treasures.",
+        "photo": "https://example.com/tomb_fallen_gods.jpg"
+    },
+    {
+        "name": "Wonderland",
+        "year": "2022",
+        "seasons": "1",
+        "chapters": "12",
+        "synopsis": "Un grupo de jóvenes descubre un wonderland mágico y debe protegerlo de fuerzas oscuras.",
+        "photo": "https://example.com/wonderland.jpg"
+    },
+    {
+        "name": "Heavenly Sword",
+        "year": "2007",
+        "synopsis": "Una princesa guerrera utiliza una espada celestial para proteger su reino de invasores oscuros.",
+        "photo": "https://example.com/heavenly_sword.jpg"
+    },
+    {
+        "name": "Jiang Ziya",
+        "year": "2020",
+        "synopsis": "El cazador de demonios Jiang Ziya es desterrado por salvar a una niña demonio. Debe redimirse y descubrir la verdad.",
+        "photo": "https://example.com/jiang_ziya.jpg"
+    },
+    {
+        "name": "Solo Leveling: ReAwakening",
+        "year": "2024",
+        "synopsis": "Sung Jin-Woo continúa su journey como el cazador más fuerte, enfrentando nuevos desafíos y enemigos tras su despertar.",
+        "photo": "https://example.com/solo_leveling_reawakening.jpg"
+    },
+    {
+        "name": "Soul Land Movie",
+        "year": "2022",
+        "synopsis": "Tang San y sus amigos enfrentan una crisis que amenaza Soul Land en esta aventura cinematográfica.",
+        "photo": "https://example.com/soul_land_movie.jpg"
+    },
+    {
+        "name": "El Castillo en el Cielo",
+        "year": "1986",
+        "synopsis": "Pazu y Sheeta buscan la legendaria ciudad flotante de Laputa, escapando de piratas y agentes gubernamentales que codician su cristal mágico y la tecnología antigua.",
+        "photo": "https://pics.filmaffinity.com/laputa_castle_in_the_sky-976309527-large.jpg"
+    },
+    {
+        "name": "Mi Vecino Totoro",
+        "year": "1988",
+        "synopsis": "Dos hermanas se mudan al campo y descubren espíritus forestales, incluido Totoro, un gigante y gentil criatura que las lleva en aventuras mágicas.",
+        "photo": "https://pics.filmaffinity.com/my_neighbor_totoro-195414359-large.jpg"
+    },
+    {
+        "name": "La Princesa Mononoke",
+        "year": "1997",
+        "synopsis": "Ashitaka, maldito por un dios jabalí, viaja para encontrar una cura y se ve atrapado en una guerra entre los dioses del bosque y humanos que explotan la naturaleza.",
+        "photo": "https://pics.filmaffinity.com/princess_mononoke-285223517-large.jpg"
+    },
+    {
+        "name": "El Viaje de Chihiro",
+        "year": "2001",
+        "synopsis": "Chihiro queda atrapada en un mundo de espíritus y debe trabajar en un baño termal para liberar a sus padres, transformados en cerdos, y encontrar el camino a casa.",
+        "photo": "https://pics.filmaffinity.com/spirited_away-912783218-large.jpg"
+    },
+    {
+        "name": "Haru en el Reino de los Gatos",
+        "year": "2002",
+        "synopsis": "Haru salva a un gato y es invitada al Reino de los Gatos, donde debe aceptar casarse con el Príncipe Gato o encontrar una manera de escapar.",
+        "photo": "https://pics.filmaffinity.com/the_cat_returns-554257894-large.jpg"
+    },
+    {
+        "name": "El Castillo Ambulante",
+        "year": "2004",
+        "synopsis": "Sophie es maldecida con el cuerpo de una anciana y busca la ayuda del mago Howl, quien vive en un castillo ambulante, para romper el hechizo.",
+        "photo": "https://pics.filmaffinity.com/howl_s_moving_castle-912840335-large.jpg"
+    },
+    {
+        "name": "Ponyo",
+        "year": "2008",
+        "synopsis": "Sosuke, un niño, se hace amigo de Ponyo, una pez dorada que quiere convertirse en humana. Su amistad desata magia y desequilibrio en el mundo.",
+        "photo": "https://pics.filmaffinity.com/ponyo_on_the_cliff_by_the_sea-166488139-large.jpg"
     },
     {
         "name": "Suzume no Tojimari",
         "year": "2022",
-        "synopsis": "Una historia moderna de aventuras y acción donde una chica de 17 años llamada Suzume ayuda a un misterioso joven a cerrar puertas desde el otro lado que están liberando desastres por todo Japón.",
+        "synopsis": "Suzume ayuda a cerrar puertas dimensionales que liberan desastres en Japón, acompañada de un joven convertido en silla y un gato mágico, enfrentando traumas del pasado.",
         "photo": "https://pics.filmaffinity.com/suzume_no_tojimari-813023859-large.jpg"
+    },
+    {
+        "name": "El Niño y la Garza",
+        "year": "2023",
+        "synopsis": "Mahito, un niño que pierde a su madre, explora un mundo fantástico a través de una torre misteriosa, donde enfrenta sus miedos y encuentra su camino.",
+        "photo": "https://pics.filmaffinity.com/the_boy_and_the_heron-557683218-large.jpg"
+    },
+    {
+        "name": "Spy x Family Code: White",
+        "year": "2023",
+        "synopsis": "La familia Forger se embarca en unas vacaciones que se convierten en una misión para salvar la paz mundial, involucrando espionaje, acción y comedia.",
+        "photo": "https://pics.filmaffinity.com/spy_x_family_code_white-519384848-large.jpg"
+    },
+    {
+        "name": "Jujutsu Kaisen 0",
+        "year": "2021",
+        "synopsis": "Yuta Okkotsu controla el espíritu maldito de su amiga Rika y se une a la escuela Jujutsu para enfrentar a Suguru Geto, quien planea un genocidio.",
+        "photo": "https://pics.filmaffinity.com/jujutsu_kaisen_0-232317945-large.jpg"
+    },
+    {
+        "name": "Ne Zha",
+        "year": "2019",
+        "synopsis": "Ne Zha, un niño demonio destinado a destruir el mundo, lucha contra su destino y busca ser aceptado mientras protege a la humanidad de amenazas.",
+        "photo": "https://pics.filmaffinity.com/ne_zha-654991144-large.jpg"
+    },
+    {
+        "name": "Godzilla: King of the Monsters",
+        "year": "2019",
+        "synopsis": "Godzilla se enfrenta a monstruos como King Ghidorah y Mothra para restaurar el equilibrio natural y proteger la Tierra de la destrucción.",
+        "photo": "https://pics.filmaffinity.com/godzilla_king_of_the_monsters-548795021-large.jpg"
+    },
+    {
+        "name": "Inuyasha: Affections Touching Across Time",
+        "year": "2001",
+        "synopsis": "Inuyasha y Kagome deben detener a un demonio que viaja en el tiempo para alterar el pasado y evitar que Inuyasha conozca a Kikyo.",
+        "photo": "https://pics.filmaffinity.com/inuyasha_the_movie_affections_touching_across_time-558936548-large.jpg"
+    },
+    {
+        "name": "Tekken: Blood Vengeance",
+        "year": "2011",
+        "synopsis": "Jin Kazama y Ling Xiaoyu investigan una conspiración involving clones y experimentos genéticos en una escuela, leading to enfrentamientos con Heihachi Mishima.",
+        "photo": "https://pics.filmaffinity.com/tekken_blood_vengeance-722341035-large.jpg"
+    },
+    {
+        "name": "Tensei shitara Slime Datta Ken: Guren no Kizuna-hen",
+        "year": "2022",
+        "synopsis": "Rimuru Tempest investiga la misteriosa aparición de un ogro que claims ser el hermano de Benimaru, leading to una aventura que prueba sus lazos con sus amigos.",
+        "photo": "https://pics.filmaffinity.com/that_time_i_got_reincarnated_as_a_slime_the_movie_scarlet_bond-691028843-large.jpg"
+    },
+    {
+        "name": "Tsubasa Reservoir Chronicle: The Princess in the Birdcage Kingdom",
+        "year": "2005",
+        "synopsis": "Syaoran y sus amigos visitan un reino donde la princesa está prisionera en una jaula. Deben resolver el misterio para obtener una pluma de Sakura.",
+        "photo": "https://pics.filmaffinity.com/tsubasa_reservoir_chronicle_the_princess_in_the_birdcage_kingdom-194421783-large.jpg"
+    },
+    {
+        "name": "Violet Evergarden: The Movie",
+        "year": "2020",
+        "synopsis": "Violet continúa su journey como Auto Memory Doll mientras busca a Gilbert, su comandante perdido, y enfrenta sus sentimientos más profundos.",
+        "photo": "https://pics.filmaffinity.com/violet_evergarden_the_movie-515336443-large.jpg"
+    },
+    {
+        "name": "Dakaretai Otoko 1-i ni Odosarete Imasu: Movie",
+        "year": "2021",
+        "synopsis": "Takato viaja a España para mejorar sus habilidades. Higashiya lidia con una relación pasada. Se desarrolla su viaje para transmitir pasión en el escenario.",
+        "photo": "https://ramenparados.com/wp-content/uploads/2021/04/Picture2-2-300x423.jpg"
     }
+
 ]

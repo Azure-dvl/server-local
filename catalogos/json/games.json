@@ -1,5 +1,125 @@
 [
     {
+        "name": "Sword Art Online: Lost Song",
+        "year": 2015,
+        "size": "5.34 GB",
+        "platform": "PC",
+        "requirements": "SO: Windows 7/8/10 (64-bit). Procesador: Intel Core i5-2300 or AMD A8-5600K. RAM: 4 GB. GPU: GeForce GTS 450 or Radeon HD 6870. DirectX: Version 11. Almacenamiento: 6 GB.",
+        "photo": "https://cdn.akamai.steamstatic.com/steam/apps/365800/header.jpg"
+    },
+    {
+        "name": "Fear and Hunger",
+        "year": 2018,
+        "size": "500 MB",
+        "platform": "PC",
+        "requirements": "SO: Windows 7 or above. Procesador: 1.2 GHz. RAM: 1 GB. GPU: DirectX 9 compatible graphics card. Almacenamiento: 500 MB.",
+        "photo": "https://cdn.akamai.steamstatic.com/steam/apps/1003290/header.jpg"
+    },
+    {
+        "name": "Portal Knights",
+        "year": 2017,
+        "size": "2 GB",
+        "platform": "PC",
+        "requirements": "SO: Windows 7. Procesador: Intel Core i5 2.0 GHz. RAM: 4 GB. GPU: NVIDIA GeForce GTX 660 / AMD Radeon HD 7870. Almacenamiento: 2 GB.",
+        "photo": "https://cdn.akamai.steamstatic.com/steam/apps/374040/header.jpg"
+    },
+    {
+        "name": "Samurai Gunn 2",
+        "year": 2020,
+        "size": "200 MB",
+        "platform": "PC",
+        "requirements": "SO: Windows 10. Procesador: 2.0 GHz. RAM: 2 GB. GPU: DirectX 9 compatible. Almacenamiento: 200 MB.",
+        "photo": "https://cdn.akamai.steamstatic.com/steam/apps/1302740/header.jpg"
+    },
+    {
+        "name": "Sniper Ghost Warrior Contracts 2",
+        "year": 2021,
+        "size": "20 GB",
+        "platform": "PC",
+        "requirements": "SO: Windows 10. Procesador: Intel Core i5-7400 / AMD Ryzen 5 1600. RAM: 8 GB. GPU: NVIDIA GeForce GTX 1060 6GB / AMD Radeon RX 580 8GB. Almacenamiento: 20 GB.",
+        "photo": "https://cdn.akamai.steamstatic.com/steam/apps/1338770/header.jpg"
+    },
+    {
+        "name": "Subnautica",
+        "year": 2018,
+        "size": "6 GB",
+        "platform": "PC",
+        "requirements": "SO: Windows Vista SP2 or newer. Procesador: Intel Haswell 2 cores / 4 threads @ 2.5Ghz or equivalent. RAM: 4 GB. GPU: Intel HD 4600 or equivalent. Almacenamiento: 6 GB.",
+        "photo": "https://cdn.akamai.steamstatic.com/steam/apps/264710/header.jpg"
+    },
+    {
+        "name": "Subnautica Below Zero",
+        "year": 2021,
+        "size": "6 GB",
+        "platform": "PC",
+        "requirements": "SO: Windows 7 64-bit. Procesador: Intel Core i3 / AMD Ryzen 3 2.6ghz. RAM: 8 GB. GPU: Intel HD 530 or equivalent. Almacenamiento: 6 GB.",
+        "photo": "https://cdn.akamai.steamstatic.com/steam/apps/848450/header.jpg"
+    },
+    {
+        "name": "The Pale Beyond",
+        "year": 2023,
+        "size": "2 GB",
+        "platform": "PC",
+        "requirements": "SO: Windows 10. Procesador: 2.0 GHz. RAM: 4 GB. GPU: DirectX 11 compatible. Almacenamiento: 2 GB.",
+        "photo": "https://cdn.akamai.steamstatic.com/steam/apps/1650540/header.jpg"
+    },
+    {
+        "name": "Zoo Tycoon Ultimate Animal Collection",
+        "year": 2017,
+        "size": "4 GB",
+        "platform": "PC",
+        "requirements": "SO: Windows 10. Procesador: Intel i5-4460 or AMD FX-6300. RAM: 8 GB. GPU: NVIDIA GTX 750 or AMD R7 250. Almacenamiento: 4 GB.",
+        "photo": "https://store-images.s-microsoft.com/image/apps.46987.13510798887603001.687c4b95-00a6-4c33-b5ab-0dc254c52394.3c5c26e6-2bad-42b3-9450-d45b4c2c25c3"
+    },
+    {
+        "name": "Baldur's Gate: Enhanced Edition",
+        "year": 2012,
+        "size": "3 GB",
+        "platform": "PC",
+        "requirements": "SO: Windows XP, Vista, 7, 8. Procesador: 1 GHz. RAM: 512 MB. GPU: DirectX 9 compatible. Almacenamiento: 3 GB.",
+        "photo": "https://cdn.akamai.steamstatic.com/steam/apps/228280/header.jpg"
+    },
+    {
+        "name": "Fear and Hunger 2: Termina",
+        "year": 2022,
+        "size": "1 GB",
+        "platform": "PC",
+        "requirements": "SO: Windows 7 or above. Procesador: 1.2 GHz. RAM: 1 GB. GPU: DirectX 9 compatible. Almacenamiento: 1 GB.",
+        "photo": "https://cdn.akamai.steamstatic.com/steam/apps/1371980/header.jpg"
+    },
+    {
+        "name": "Human Resource Machine",
+        "year": 2015,
+        "size": "100 MB",
+        "platform": "PC",
+        "requirements": "SO: Windows Vista or newer. Procesador: 1.2 GHz. RAM: 512 MB. GPU: DirectX 9 compatible. Almacenamiento: 100 MB.",
+        "photo": "https://cdn.akamai.steamstatic.com/steam/apps/375820/header.jpg"
+    },
+    {
+        "name": "Starbound",
+        "year": 2016,
+        "size": "3 GB",
+        "platform": "PC",
+        "requirements": "SO: Windows XP or newer. Procesador: Core 2 Duo. RAM: 2 GB. GPU: 256 MB VRAM. Almacenamiento: 3 GB.",
+        "photo": "https://cdn.akamai.steamstatic.com/steam/apps/211820/header.jpg"
+    },
+    {
+        "name": "There Is No Game: Wrong Dimension",
+        "year": 2020,
+        "size": "500 MB",
+        "platform": "PC",
+        "requirements": "SO: Windows 7. Procesador: 1.5 GHz. RAM: 1 GB. GPU: DirectX 9 compatible. Almacenamiento: 500 MB.",
+        "photo": "https://cdn.akamai.steamstatic.com/steam/apps/1240210/header.jpg"
+    },
+    {
+        "name": "Uplink: Hacker Elite",
+        "year": 2001,
+        "size": "200 MB",
+        "platform": "PC",
+        "requirements": "SO: Windows 98/ME/2000/XP. Procesador: 500 MHz. RAM: 64 MB. GPU: DirectX 7 compatible. Almacenamiento: 200 MB.",
+        "photo": "https://cdn.akamai.steamstatic.com/steam/apps/1510/header.jpg"
+    },
+    {
         "name": "Battlefield 4",
         "year": 2013,
         "size": "",
@@ -113,7 +233,7 @@
     },
     {
         "name": "PEAK",
-        "year":2025,
+        "year": 2025,
         "size": "",
         "platform": "PC",
         "requirements": ".",
@@ -145,7 +265,7 @@
     },
     {
         "name": "REPO",
-        "year":2025,
+        "year": 2025,
         "size": "",
         "platform": "PC",
         "requirements": ".",
@@ -153,7 +273,7 @@
     },
     {
         "name": "Len's Island",
-        "year":2021,
+        "year": 2021,
         "size": "",
         "platform": "PC",
         "requirements": ".",

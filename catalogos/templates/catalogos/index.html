@@ -152,7 +152,7 @@
             
             // Generar HTML para cada elemento
             container.innerHTML = currentItems.map(item => {
-                const badgeText = getCategoryBadge(item.tipo);
+                const badgeText = getCategoryBadge(item.type);
                 
                 return `
                     <div class="catalog-card">
@@ -173,6 +173,11 @@
                             ${item.synopsis ? `
                                 <div class="card-synopsis">
                                     <p>${item.synopsis}</p>
+                                </div>
+                            ` : ''}
+                            ${item.requirements ? `
+                                <div class="card-synopsis">
+                                    <p>${item.requirements}</p>
                                 </div>
                             ` : ''}
                         </div>

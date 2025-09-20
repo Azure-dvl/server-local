@@ -1,9 +1,1094 @@
 [
     {
+        "name": "Schindler's List",
+        "year": 1993,
+        "synopsis": "Oskar Schindler, un empresario alemán, salva la vida de más de mil refugiados judíos durante el Holocausto empleándolos en su fábrica.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "The Green Mile",
+        "year": 1999,
+        "synopsis": "Un guardia de prisión durante la Gran Depresión presencia eventos sobrenaturales cuando un preso con habilidades curativas es condenado a muerte.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "The Pursuit of Happyness",
+        "year": 2006,
+        "synopsis": "Un hombre desempleado y en bancarrota lucha por sacar adelante a su hijo mientras persigue una pasantía no remunerada en una firma de corretaje.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "War Dogs",
+        "year": 2016,
+        "synopsis": "Dos jóvenes se convierten en traficantes de armas para el gobierno de EE. UU., pero su ambición los lleva a un peligroso contrato en la guerra de Irak.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNjk2ODQ4Njg0OF5BMl5BanBnXkFtZTgwNTY3NTA4OTE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Crush",
+        "year": 2022,
+        "synopsis": "Una estudiante de arte se une al equipo de atletismo para acercarse a su crush, pero termina enamorándose de su hermana menor.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZWI1M2E1YzItODk2ZC00MzM3LWEyYzItODJlMjI2YTE2YTM1XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Red, White and Royal Blue",
+        "year": 2023,
+        "synopsis": "El hijo de la presidenta de EE. UU. y un príncipe británico desarrollan una relación romántica que podría convertirse en un escándalo internacional.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZDMxZjY1ZGQtNTM2OS00M2VmLWE3ZTUtNmM2YmEyNDY4YjVhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Wynonna Earp Vengeance",
+        "year": 2024,
+        "synopsis": "",
+        "photo": ""
+    },
+    {
+        "name": "The Gorge",
+        "year": 2025,
+        "synopsis": "",
+        "photo": ""
+    },
+    {
+        "name": "Abraham Lincoln: Vampire Hunter",
+        "year": 2012,
+        "synopsis": "El presidente Abraham Lincoln lleva una doble vida como cazador de vampiros mientras lucha por salvar a la nación de las fuerzas sobrenaturales.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNjY2Mzc0Mzc5NV5BMl5BanBnXkFtZTcwMzg4MDg5Nw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Traffik",
+        "year": 2018,
+        "synopsis": "Una pareja se ve atrapada en una red de tráfico humano mientras se aloja en una casa remota.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMjE5MjY5NTg1MF5BMl5BanBnXkFtZTgwODU2NjMyNDM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "A Cinderella Story: Once Upon a Song",
+        "year": 2011,
+        "synopsis": "Una talentosa cantante es explotada por su madrastra y hermanastras hasta que consigue una oportunidad en la industria musical.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTc0MjA5MzY0Nl5BMl5BanBnXkFtZTcwODk0Nzc3NQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "A Few Good Men",
+        "year": 1992,
+        "synopsis": "Abogados militares defienden a dos marines acusados de asesinato, descubriendo una conspiración en la base de Guantánamo.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMmRlZDQ1MmUtMzE2Yi00YTkxLTk1MGMtYmIyYWQwODcxYzRlXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Air Force One Down",
+        "year": 2024,
+        "synopsis": "",
+        "photo": ""
+    },
+    {
+        "name": "Alice Through the Looking Glass",
+        "year": 2016,
+        "synopsis": "Alicia regresa al País de las Maravillas y viaja en el tiempo para salvar al Sombrerero Loco.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTc2MDE4MTY0OV5BMl5BanBnXkFtZTgwNDE4MjU1ODE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "American Made",
+        "year": 2017,
+        "synopsis": "Un piloto se convierte en contrabandista para la CIA y el cartel de Medellín durante los años 80.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTUxNzUwMjk1Nl5BMl5BanBnXkFtZTgwNDkwODI1MjE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Am I Ok?",
+        "year": 2024,
+        "synopsis": "",
+        "photo": ""
+    },
+    {
+        "name": "Love & Other Drugs",
+        "year": 2010,
+        "synopsis": "Un vendedor farmacéutico y una mujer con Parkinson inician una relación complicada.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTgxOTczODEyMF5BMl5BanBnXkFtZTcwMDc0NDY4Mw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "What's Eating Gilbert Grape",
+        "year": 1993,
+        "synopsis": "Un joven lucha con las responsabilidades de cuidar a su hermano discapacitado y su madre obesamórbida.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZWE1YzNhYzEtMTk5YS00NzFhLWJjMmUtODlkNWJhNzM1MmY3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Austin Powers in Goldmember",
+        "year": 2002,
+        "synopsis": "El agente Austin Powers viaja en el tiempo para rescatar a su padre y enfrentar a su némesis Goldmember.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTIxMDI1MDc1M15BMl5BanBnXkFtZTYwNTM2MzQ3._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Avengers Grimm: Time Wars",
+        "year": 2018,
+        "synopsis": "",
+        "photo": ""
+    },
+    {
+        "name": "The Golden Compass",
+        "year": 2007,
+        "synopsis": "Una niña viaja al Ártico para rescatar a sus amigos de experimentos oscuros en un mundo paralelo.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTM2NDkxMjQxMV5BMl5BanBnXkFtZTcwMDkyMzEzMw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Babylon",
+        "year": 2022,
+        "synopsis": "Un reparto de personas navega por la decadencia y excesos de Hollywood durante los años 20.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNjlkYzBkNmQtMDBhMS00Y2VmLWE1MTYtZmFmMWQ5ZDZiMGYzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Back to Black",
+        "year": 2024,
+        "synopsis": "Biografía de la cantante Amy Winehouse, centrada en su ascenso a la fama y sus luchas personales.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZjQxY2U3ZDAtYjE2Mi00ZWI0LWE1MWYtM2Y2YjdmODJkNDU0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Barbie",
+        "year": 2023,
+        "synopsis": "Barbie abandona Barbieland para descubrir el mundo real en una aventura existencial.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNjU3N2QxNzYtMjk1NC00MTc4LTk1NTQtMmUxNTljM2I0NDA5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Bastion 36",
+        "year": 2025,
+        "synopsis": "",
+        "photo": ""
+    },
+    {
+        "name": "Beetlejuice",
+        "year": 1988,
+        "synopsis": "Una pareja fallecida contrata a un espíritu travieso para ahuyentar a los nuevos dueños de su casa.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZDdmNjBlYTctNWU0MC00ODQxLWEzNDQtZGY1NmRhYjNmNDczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Below Her Mouth",
+        "year": 2016,
+        "synopsis": "Una historia de amor lésbico que explora la pasión y la autodescubrimiento.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTg0MjE0Njk3N15BMl5BanBnXkFtZTgwMzQ4MjE4MDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Birds of Prey",
+        "year": 2020,
+        "synopsis": "Harley Quinn se une a otras heroínas para salvar a una joven del crimen organizado de Gotham.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMzQ3NTQxMjItODBjYi00YzUzLWE1NzQtZTg3MWAxM2M2YzkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Bloodshot",
+        "year": 2020,
+        "synopsis": "Un marine resucitado con poderes sobrenaturales busca venganza contra quienes lo mataron.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BYjA5YjA2YjUtMGRlNi00ZTU4LThhZmMtNDc0OTg4ZWU5ZmRhXkEyXkFqcGdeQXVyNjUyNjI3NzU@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Bloomington",
+        "year": 2010,
+        "synopsis": "Una ex actriz infantil tiene una relación con su profesora universitaria.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTM2Nzc1ODU3N15BMl5BanBnXkFtZTcwNjE5ODU3NA@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Bride Wars",
+        "year": 2009,
+        "synopsis": "Dos mejores amigas declaran la guerra cuando sus bodas son programadas el mismo día.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTUyNTgzMjA3M15BMl5BanBnXkFtZTcwOTU0MTk1Mg@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Carol",
+        "year": 2015,
+        "synopsis": "Una joven fotógrafa y una mujer mayor en proceso de divorcio inician una relación en los años 50.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTM1MzYzNDg0N15BMl5BanBnXkFtZTcwNzg5MjEwMw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Catwoman",
+        "year": 2004,
+        "synopsis": "Una mujer obtiene poderes felinos después de ser asesinada y busca venganza.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMjA4MzM0NDAzOF5BMl5BanBnXkFtZTcwMDY3MDYyMQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Chef",
+        "year": 2014,
+        "synopsis": "Un chef renuncia a su trabajo y comienza un food truck para reconectar con su familia.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTY5MDU0MDk4Nl5BMl5BanBnXkFtZTgwODc4MTMzMTE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Camp Rock",
+        "year": 2008,
+        "synopsis": "Una joven cantante asiste a un campamento musical y se enamora de una estrella pop.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTU4OTY2Njc2MV5BMl5BanBnXkFtZTcwMDE0Nzk1MQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
         "name": "Cincuenta Sombras de Grey",
         "year": 2015,
         "synopsis": "La ingenua Anastasia Steele conoce al enigmático magnate Christian Grey y descubre su oscuro mundo de fetiches sexuales.",
         "photo": "https://m.media-amazon.com/images/M/MV5BMjE1MTM4NDAzOF5BMl5BanBnXkFtZTgwNTMwNjI0MzE@._V1_FMjpg_UX1000_.jpg"
-
+    },
+    {
+        "name": "Cincuenta Sombras Más Oscuras",
+        "year": 2017,
+        "synopsis": "Anastasia acepta la propuesta de Christian Grey, pero su pasado regresa para atormentarlos.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTY0MjEzODQ3Nl5BMl5BanBnXkFtZTgwNDE4MDgxMDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Cincuenta Sombras Liberadas",
+        "year": 2018,
+        "synopsis": "Christian y Anastasia se casan, pero una antigua amenaza regresa para destruir su relación.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTY5MDMzODg5NF5BMl5BanBnXkFtZTgwMzk0MDIxNDM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "El Señor de los Anillos: La Comunidad del Anillo",
+        "year": 2001,
+        "synopsis": "Un hobbit es tasked con destruir un anillo malévolo en el Monte del Destino.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "El Señor de los Anillos: Las Dos Torres",
+        "year": 2002,
+        "synopsis": "La Comunidad se separa mientras Frodo y Sam se acercan a Mordor con la guía de Gollum.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "El Señor de los Anillos: El Retorno del Rey",
+        "year": 2003,
+        "synopsis": "Las fuerzas de Gondor se preparan para la batalla final mientras Frodo llega al Monte del Destino.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Hannibal Lecter: El Dragón Rojo",
+        "year": 2002,
+        "synopsis": "El agente del FBI Will Graham busca ayuda de Hannibal Lecter para atrapar a un asesino en serie.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTQ4ODQ5NDkyOV5BMl5BanBnXkFtZTYwNzk0Mzc3._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Hannibal",
+        "year": 2001,
+        "synopsis": "Hannibal Lecter vive en Florencia mientras una de sus víctimas planea venganza.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTg4NDk2MDc1N15BMl5BanBnXkFtZTcwNDEwMzYyMQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "El Silencio de los Inocentes",
+        "year": 1991,
+        "synopsis": "Una agente del FBI busca la ayuda de Hannibal Lecter para atrapar a un asesino en serie.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Jurassic Park",
+        "year": 1993,
+        "synopsis": "Científicos clonan dinosaurios para un parque temático, pero el sistema de seguridad falla.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "El Mundo Perdido: Jurassic Park",
+        "year": 1997,
+        "synopsis": "Un equipo viaja a una isla para estudiar dinosaurios, pero enfrentan peligros inesperados.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMDFlMmM4Y2QtNDg1ZS00MWVlLTlmODgtZDdhYjY5YjdhN2M0XkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Jurassic Park III",
+        "year": 2001,
+        "synopsis": "Un equipo de rescate busca a un niño desaparecido en una isla habitada por dinosaurios.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZDMyZmJmN2YtOGZlYi00NGNhLWFjMzktMTQ2NWZhYzJiYmZkXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Jurassic World",
+        "year": 2015,
+        "synopsis": "Un nuevo parque temático de dinosaurios abre, pero un dinosaurio genéticamente modificado escapa.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNzQ3OTY4NjAtNzM5NS00N2ZhLWJhM2YtZGQ2Mjg0ZDRiMDJjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Jurassic World: El Reino Caído",
+        "year": 2018,
+        "synopsis": "Los dinosaurios enfrentan la extinción cuando un volcán entra en erupción en la isla.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Jurassic World: Dominio",
+        "year": 2022,
+        "synopsis": "Los dinosaurios coexisten con los humanos, pero una nueva amenaza genética emerge.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BOTBjMjA4NmYtN2RjMi00YWZlLTliYTktOTIwMmNkYjYxYmE1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Piratas del Caribe: La Maldición del Perla Negra",
+        "year": 2003,
+        "synopsis": "Un herrero se une al pirata Jack Sparrow para rescatar a su amor de una tripulación maldita.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Piratas del Caribe: El Cofre del Hombre Muerto",
+        "year": 2006,
+        "synopsis": "Jack Sparrow debe pagar una deuda de sangre al legendario Davy Jones mientras evade al Kraken.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTcwODc1MTMxM15BMl5BanBnXkFtZTYwMDg1NzY3._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Piratas del Caribe: En el Fin del Mundo",
+        "year": 2007,
+        "synopsis": "Jack Sparrow y su equipo deben rescatar a Barbossa y enfrentarse a Davy Jones y la Compañía de las Indias Orientales.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMjIyNjkxNzEyMl5BMl5BanBnXkFtZTYwMjc3MDE3._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Piratas del Caribe: Navegando Aguas Misteriosas",
+        "year": 2011,
+        "synopsis": "Jack Sparrow busca la Fuente de la Juventud mientras compite con el capitán Barbossa y Blackbeard.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMjE5MjkwODI3Nl5BMl5BanBnXkFtZTcwNjcwMDk4NA@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Piratas del Caribe: La Venganza de Salazar",
+        "year": 2017,
+        "synopsis": "Jack Sparrow enfrenta a fantasmas vengativos liderados por el capitán Salazar.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Las Crónicas de Narnia: El León, la Bruja y el Ropero",
+        "year": 2005,
+        "synopsis": "Cuatro hermanos descubren un mundo mágico a través de un ropero y luchan contra una bruja malvada.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTc0NTUwMTU5OV5BMl5BanBnXkFtZTcwNjAwNzQzMw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Las Crónicas de Narnia: El Príncipe Caspian",
+        "year": 2008,
+        "synopsis": "Los hermanos Pevensie regresan a Narnia para ayudar al príncipe Caspian a reclaimar su trono.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMDE0Y2VlMmItYWE3YS00YjBiLTllYTctYjJjODRlODBhM2E0XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Las Crónicas de Narnia: La Travesía del Viajero del Alba",
+        "year": 2010,
+        "synopsis": "Lucy y Edmund se unen a Caspian en un viaje para encontrar a los siete lores perdidos de Narnia.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTM3OTU2OTI0Ml5BMl5BanBnXkFtZTcwMzQxMTc4Mw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "El Código Da Vinci",
+        "year": 2006,
+        "synopsis": "Un simbólogo investiga un asesinato en el Louvre y descubre una conspiración religiosa.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMjIxMjQyMTc3Nl5BMl5BanBnXkFtZTcwMTA1MDUzMw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Ángeles y Demonios",
+        "year": 2009,
+        "synopsis": "Robert Langdon intenta evitar un ataque terrorista contra el Vaticano por la Illuminati.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMjEzNzM2OTM2MF5BMl5BanBnXkFtZTcwNjI3Mzg3Mg@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Inferno",
+        "year": 2016,
+        "synopsis": "Robert Langdon busca una plaga diseñada para reducir la población mundial.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTUzNTE2NTkzMV5BMl5BanBnXkFtZTgwMDAzOTUyMDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "El Hobbit: Un Viaje Inesperado",
+        "year": 2012,
+        "synopsis": "Bilbo Bolsón se une a Thorin y su compañía para reclaimar la Montaña Solitaria de Smaug.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "El Hobbit: La Desolación de Smaug",
+        "year": 2013,
+        "synopsis": "La compañía llega a la Montaña Solitaria y despierta al dragón Smaug.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "El Hobbit: La Batalla de los Cinco Ejércitos",
+        "year": 2014,
+        "synopsis": "Dwarves, elves y hombres luchan por el control de la Montaña Solitaria.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTYzNDE3OTQ3MF5BMl5BanBnXkFtZTgwODczMTg4MDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Underworld",
+        "year": 2003,
+        "synopsis": "Vampiros y licántropos libran una guerra secreta mientras una vampira se enamora de un humano.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTk1MDU5MzQxNF5BMl5BanBnXkFtZTcwNTEzMzQ3Mw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Underworld: Evolution",
+        "year": 2006,
+        "synopsis": "Selene y Michael descubren los orígenes de la guerra entre vampiros y licántropos.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMjEzNDY1OTQwOV5BMl5BanBnXkFtZTcwNjcxMTIzMw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Underworld: El Levantamiento de los Lycans",
+        "year": 2009,
+        "synopsis": "Origen de la guerra entre vampiros y licántropos a través de la historia de Lucian.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTQwMjkyNTA3Ml5BMl5BanBnXkFtZTcwMDkyODI3Mg@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Underworld: Awakening",
+        "year": 2012,
+        "synopsis": "Selene despierta después de 12 años para descubrir que los humanos conocen a los inmortales.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTQ0MTA3Mjg0NF5BMl5BanBnXkFtZTcwMzk2ODM5Ng@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Underworld: Blood Wars",
+        "year": 2016,
+        "synopsis": "Selene lucha para proteger a su hija mientras vampiros y lycans libran una guerra final.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTg0NjE1OTI4NV5BMl5BanBnXkFtZTgwMzU2Mzk4MDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Vanilla Sky",
+        "year": 2001,
+        "synopsis": "Un magnate editorial ve su vida privilegiada truncada después de un accidente vehicular con una amante resentida. Debe navegar entre sueños y realidad mientras enfrenta las consecuencias de sus acciones.:cite[1]:cite[4]",
+        "photo": "https://m.media-amazon.com/images/M/MV5BYzE3ZTM3YmUtY2Q2Ny00Y2VjLTk2YzktYjBlOGM3NjdiNWFkXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Wicked",
+        "year": 2024,
+        "synopsis": "Elphaba, una joven ridiculizada por su piel verde, y Galinda, una chica popular, se hacen amigas en la Universidad de Shiz en la Tierra de Oz. Después de un encuentro con el Maravilloso Mago de Oz, su amistad llega a un punto de inflexión.:cite[2]:cite[5]",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZGQ2ZDg5ZTAtODJmYS00ZDA1LWIyZjItN2Y2OWU0MWI2OTVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "You Can Live Forever",
+        "year": 2022,
+        "synopsis": "Cuando la adolescente lesbiana Jaime es enviada a vivir en una comunidad de Testigos de Jehová, se enamora profundamente de una devota chica Testigo y ambas se embarcan en una intensa aventura con consecuencias que remodelarán el resto de sus vidas.:cite[3]:cite[6]",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZDI0Zjc0YjAtZGVkNC00N2M4LThhYjItN2Y2OWU0MWI2OTVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "City Lights",
+        "year": 1931,
+        "synopsis": "Un hombre ciego vende flores en las calles y confunde a un millonario ebrio con un hombre rico. Charles Chaplin dirige y protagoniza esta comedia romántica silente.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Código Traje Rojo",
+        "year": 2024,
+        "synopsis": "",
+        "photo": ""
+    },
+    {
+        "name": "Collateral",
+        "year": 2004,
+        "synopsis": "Un taxista de Los Ángeles se convierte en rehén de un asesino a sueldo que lo obliga a conducirlo por la ciudad para completar una serie de asesinatos.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTQ5NTA1MTAxM15BMl5BanBnXkFtZTcwNzM5MjQyMQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Colmillo Blanco",
+        "year": 1991,
+        "synopsis": "Un lobo híbrido perro-lobo es domesticado por un hombre bondadoso durante la fiebre del oro en Alaska, pero enfrenta abusos y desafíos hasta encontrar su lugar.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZDQ0MjcyYjctYjNkYi00MWViLWI2MmYtZDMwZDI1N2IwMzU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Cómo Entrenar a Tu Dragón 2025",
+        "year": 2025,
+        "synopsis": "",
+        "photo": ""
+    },
+    {
+        "name": "Days of Thunder",
+        "year": 1990,
+        "synopsis": "Un conductor novato de NASCAR se une a un equipo de carreras y compite en la Copa Winston mientras se enamora de una neurocirujana.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZDdiMjRlN2YtYTk0NS00YjQ2LWJkN2ItYjU1NzI0OTMwOTJlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Death of a Unicorn",
+        "year": 2025,
+        "synopsis": "",
+        "photo": ""
+    },
+    {
+        "name": "DEBS",
+        "year": 2004,
+        "synopsis": "Una estudiante de una academia de espías se enamora de una criminal internacional, lo que complica su misión y lealtades.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTIyNTA3NTAwMF5BMl5BanBnXkFtZTcwNjk5Nzc2NA@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Dirty Dancing",
+        "year": 1987,
+        "synopsis": "Una joven de familia adinerada se enamora de un instructor de baile durante sus vacaciones en un resort de los años 60, desatando pasión y controversia.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTc5Mzg0ODgyNF5BMl5BanBnXkFtZTgwNzA1MDQxMTE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Dirty Dancing: Havana Nights",
+        "year": 2004,
+        "synopsis": "Una adolescente estadounidense en Cuba durante la revolución se enamora de un local y descubren el baile y el romance a pesar de las tensiones políticas.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTU2NTgyOTkyNV5BMl5BanBnXkFtZTcwMDA2MDUyMQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Dolittle",
+        "year": 2020,
+        "synopsis": "Un médico que puede hablar con los animales se embarca en una aventura para encontrar una cura para la reina de Inglaterra.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMDNkODA5ZGQtODczOS00OTQxLThhMTItMjk0ZmM3MWFjNzAwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Dreamland",
+        "year": 2020,
+        "synopsis": "Un joven durante la Gran Depresión descubre a una fugitiva bancaria herida y debe elegir entre entregarla por la recompensa o ayudarla a escapar.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BOTY0ZTM4MmItM2I1YS00M2Q3LTk2ZDQtODgzMWQ3Nzg1NDE4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Dune",
+        "year": 2021,
+        "synopsis": "Paul Atreides se une a los Fremen en el desértico planeta Arrakis para vengar la traición contra su familia y controlar el recurso más valioso del universo, la especia.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Dune: Part Two",
+        "year": 2024,
+        "synopsis": "Paul Atreides se une a Chani y los Fremen mientras busca venganza contra los conspiradores que destruyeron su familia, enfrentando una elección entre el amor y el destino del universo.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZTczY2M2NzktNWM5MS00ZmYzLWI3YjMtNjA4ZWRkMjQ2N2FhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Edge of Tomorrow",
+        "year": 2014,
+        "synopsis": "Un oficial de relaciones públicas sin experiencia en combate queda atrapado en un bucle temporal mientras lucha contra aliens invasores, mejorando sus habilidades cada vez que muere.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Edward Scissorhands",
+        "year": 1990,
+        "synopsis": "Un inventor crea a un joven con tijeras en lugar de manos, pero muere antes de completarlo. Edward es adoptado por una familia suburbana y descubre el amor y la incomprensión.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNDUxN2I5NDUtZjdlMC00NjJlLTgxMTItN2VhNDcxODdmMjlmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "El Diablo Viste a La Moda",
+        "year": 2006,
+        "synopsis": "Una joven periodista consigue un trabajo como asistente de una temible editora de moda, aprendiendo lecciones sobre la industria y sobre sí misma.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZjQ4ZGRlNTItYjA0NC00N2ExLWE0ZWUtM2ZkYjIyZDA5ZDJlXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Elena Undone",
+        "year": 2010,
+        "synopsis": "La esposa de un pastor y una escritora lesbiana desarrollan una conexión inesperada que desafía sus vidas y creencias.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTc2MjQ5NjA5M15BMl5BanBnXkFtZTcwMjA2Njg0NA@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Ella Enchanted",
+        "year": 2004,
+        "synopsis": "Una joven está maldecida con la obediencia eterna y debe embarcarse en una aventura para romper el hechizo y controlar su propio destino.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTIzNDUyMjA0MV5BMl5BanBnXkFtZTcwNTc3ODcyMQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Colossal",
+        "year": 2016,
+        "synopsis": "Una mujer descubre que está misteriosamente conectada a un monstruo gigante que ataca Seúl, y debe averiguar por qué para detener la destrucción.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTQ5NzkzNTIyN15BMl5BanBnXkFtZTgwNzkzMjI0OTE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "El Piso 13",
+        "year": 1999,
+        "synopsis": "Un hombre descubre una realidad virtual que simula 1937, pero cuando es acusado de asesinato, debe encontrar la verdad entre lo real y lo simulado.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZTk1YzcyYTMtMWVlYS00NGQ4LTg3ZDgtNjAyYjgwN2E2N2YyXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "El Secreto de las Abejas",
+        "year": 2008,
+        "synopsis": "Una joven blanca en los años 60 es criada por tres hermanas afroamericanas apicultoras después de escapar de su abusivo padre, aprendiendo sobre el amor y la racial.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTU4NTE2Mjk4OV5BMl5BanBnXkFtZTcwMzI4Mzc5MQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "El Ultimo Heroe",
+        "year": 2019,
+        "synopsis": "",
+        "photo": ""
+    },
+    {
+        "name": "Enterrando a la Ex",
+        "year": 2024,
+        "synopsis": "",
+        "photo": ""
+    },
+    {
+        "name": "Eragon",
+        "year": 2006,
+        "synopsis": "Un joven granjero descubre un huevo de dragón y se convierte en Jinete de Dragón, destinado a liderar la rebelión against un rey malvado.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTM1MjAzMDg1N15BMl5BanBnXkFtZTcwNjE2NDYyMQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Eyes Wide Shut",
+        "year": 1999,
+        "synopsis": "Un médico de Manhattan se embarca en un viaje sexual y psicológico después de que su esposa admita sus fantasías adulteras, leading a encuentros peligrosos.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMDc4ZGFjNzItN2M2Ny00Y2ExLTkyZTItNzk2M2Q0OWQ3MGZkXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Fantastic Beasts and Where to Find Them",
+        "year": 2016,
+        "synopsis": "El mago Newt Scamander llega a Nueva York con un maletín lleno de criaturas mágicas que escapan, causing caos en la comunidad muggle y magical.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMjMxOTM1OTI4MV5BMl5BanBnXkFtZTgwODE5OTYxMDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Fantastic Beasts: The Crimes of Grindelwald",
+        "year": 2018,
+        "synopsis": "Newt Scamander es reclutado por Albus Dumbledore para enfrentar a Gellert Grindelwald, who busca dominar el mundo muggle.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZjFiMGUzMTAtNDAwMC00ZjRhLTk0OTUtMmJiMzM5ZmVjODQxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Fantastic Beasts: The Secrets of Dumbledore",
+        "year": 2022,
+        "synopsis": "Albus Dumbledore encarga a Newt Scamander y sus aliados una misión para frustrar los planes de Grindelwald de desatar la guerra en el mundo muggle.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZGQ1NjQyNDMtNzFlZS00ZGIzLTliMWUtNGJkMGMzNTBjNDg0XkEyXkFqcGdeQXVyMTE1NDI5MDQx@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Far and Away",
+        "year": 1992,
+        "synopsis": "Un granjero irlandés y una mujer de clase alta emigran a América en el siglo XIX para participar en la Carrera de Tierra de Oklahoma y perseguir el sueño americano.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BOWIzZGE4N2EtNGY1MS00MTRkLTkyYTMtYTQ5ZDEwMjBiZWM3XkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Fight Or Flight",
+        "year": 2025,
+        "synopsis": "",
+        "photo": ""
+    },
+    {
+        "name": "Finding Neverland",
+        "year": 2004,
+        "synopsis": "El escritor J.M. Barrie encuentra inspiración para Peter Pan a través de su amistad con una viuda y sus cuatro hijos en Londres.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTg5NzY0MzA2MV5BMl5BanBnXkFtZTYwNDM5MDc2._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Fire and Ice",
+        "year": 2008,
+        "synopsis": "",
+        "photo": ""
+    },
+    {
+        "name": "First Kill",
+        "year": 2017,
+        "synopsis": "Un ejecutivo lleva a su familia de vacaciones y se ve envuelto en un robo que sale mal, forcing him to usar sus habilidades de caza para protegerlos.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMjE4NTAzMTA3Nl5BMl5BanBnXkFtZTgwNjE0Mjc4MjI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Focus",
+        "year": 2015,
+        "synopsis": "Un estafador experimentado toma bajo su wing a una novata, pero su relación se complica cuando los sentimientos se interponen en sus estafas.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTUwODg2OTA4OF5BMl5BanBnXkFtZTgwOTE5MTE4MzE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Forrest Gump",
+        "year": 1994,
+        "synopsis": "Forrest Gump, un hombre con discapacidad intelectual, vive una vida extraordinaria influyendo en eventos históricos de EE. UU. mientras persigue a su amor de la infancia.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Friends with Benefits",
+        "year": 2011,
+        "synopsis": "Dos amigos deciden agregar sexo a su relación sin compromiso emocional, pero soon desarrollan sentimientos que complican todo.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTQ2MzQ0NTk4N15BMl5BanBnXkFtZTcwMDc2NDYzNQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Gigantes de Acero",
+        "year": 2011,
+        "synopsis": "En un futuro donde robots de boxeo son populares, un promotor y su hijo construyen un robot campeón from chatarra.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTk5MjM4NDU4OV5BMl5BanBnXkFtZTcwNjg2NjI5Ng@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Hacksaw Ridge",
+        "year": 2016,
+        "synopsis": "La historia real de Desmond Doss, un médico militar que sirvió en la Segunda Guerra Mundial sin portar arma, salvando a 75 hombres en la batalla de Okinawa.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Hotel Bitcoin",
+        "year": 2024,
+        "synopsis": "",
+        "photo": ""
+    },
+    {
+        "name": "I Can't Think Straight",
+        "year": 2008,
+        "synopsis": "Una mujer jordana de familia palestina se enamora de una británica de origen indio, leading to una relación que desafía expectativas culturales y familiares.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTY5Nzc0ODU2N15BMl5BanBnXkFtZTcwNTQxMTc3Mg@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Inception",
+        "year": 2010,
+        "synopsis": "Un ladrón que roba secretos through los sueños es tasked con la misión inversa: plantar una idea en la mente de alguien, but faces peligros inesperados.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Blow",
+        "year": 2001,
+        "synopsis": "La vida de George Jung, how se convirtió en un traficante de cocaína en los años 70 y 80, leading to su caída y arresto.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTQ5ODQ5NDc3MV5BMl5BanBnXkFtZTcwMzg2NDAzMQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Instintos Asesinos",
+        "year": 2024,
+        "synopsis": "",
+        "photo": ""
+    },
+    {
+        "name": "Interview with the Vampire",
+        "year": 1994,
+        "synopsis": "Un vampiro cuenta su historia de 200 años a un reportero, including su transformación, loves, y losses mientras lucha con su naturaleza immortal.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNzNlZDc5MGUtZGM2ZC00OWY0LWI0YjEtYmU5N2JkNDZhZDVkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Tristan and Isolde",
+        "year": 2006,
+        "synopsis": "Un caballero inglés y una princesa irlandesa se enamoran en secreto, but su romance threatens la paz entre sus pueblos en la Edad Media.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTEwNjI1Mjg5MDJeQTJeQWpwZ15BbWU3MDA4NDI2Mjk@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Jerry Maguire",
+        "year": 1996,
+        "synopsis": "Un agente deportivo tiene una crisis de conciencia y es despedido, forcing him to empezar su propia agencia con un único cliente y su leal asistente.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BYTM0ZWNmZTUtOTNmZS00NDg0LWIwYjctYjZhM2JmN2E4NjJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "John Carter",
+        "year": 2012,
+        "synopsis": "Un veterano de la Guerra Civil es transportado a Marte, where se convierte en un héroe en medio de una guerra between razas marcianas.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMDEwZmIzNjYtNjUwNS00M2FjLWJiMGItNzIwM2NkY2QzY2JlXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Joker: Folie à Deux",
+        "year": 2024,
+        "synopsis": "Arthur Fleck, now incarcerated, forms a relationship with Harley Quinn, leading to a musical fantasy that challenges the norms of Arkham Asylum and Gotham.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZDQ4MjgyOGEtZmU0ZC00M2QyLWE0MGYtNmxkNjM4ZGI2Y2U0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Jumper",
+        "year": 2008,
+        "synopsis": "Un joven descubre que puede teletransportarse a cualquier lugar, pero es perseguido por una organización secreta que quiere eliminarlo.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZTZiYjI0YzItNDBjMC00MWM1LWE5ODctN2NhY2VkMTQ2MzE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "King Arthur",
+        "year": 2004,
+        "synopsis": "Una versión histórica de la leyenda de Arturo, donde él es un líder romano-británico que lucha contra los sajones y forma la Mesa Redonda.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTk4MTk1NjI0OV5BMl5BanBnXkFtZTcwNDQxMTcyMQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Kiss Kiss Bang Bang",
+        "year": 2005,
+        "synopsis": "Un ladrón se hace pasar por actor y se une a un detective privado para resolver un misterio de asesinato en Hollywood, con humor negro y twists.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTY5NDExMDA3M15BMl5BanBnXkFtZTYwMzU0Mjc2._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Kiss Mig",
+        "year": "2011",
+        "synopsis": "Una joven comprometida para casarse se encuentra en un romance con la hija lesbiana de su futura madrastra.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTc1ODY2NDk5OV5BMl5BanBnXkFtZTcwODQ2NDUxNw@@._V1_QL75_UY562_CR8,0,380,562_.jpg"
+    },
+    {
+        "name": "Knight and Day",
+        "year": 2010,
+        "synopsis": "Una mujer ordinary se ve envuelta en una misión de espionaje con un agente secreto, viajando por el mundo mientras huyen de peligros y desarrollan romance.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTM0Mzg0MzI3M15BMl5BanBnXkFtZTcwNjIyNzk1Mw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Lady Driver",
+        "year": 2020,
+        "synopsis": "Una joven se rebela contra su familia tradicional para perseguir su sueño de convertirse en una piloto de carreras profesional.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTU0MTU5Njg5N15BMl5BanBnXkFtZTgwMTE0MjU0NjM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "La Máquina del Tiempo",
+        "year": 2002,
+        "synopsis": "Un inventor viaja al futuro para cambiar el pasado después de una tragedia personal, but descubre una humanidad dividida en dos razas en guerra.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNDNiNTE0MjAtYmM5Yy00MjBiLTliNGYtNGQ5YjQzYjc4YWQ0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "La Sociedad de la Nieve",
+        "year": 2023,
+        "synopsis": "La historia real de los supervivientes del vuelo 571 de la Fuerza Aérea Uruguaya que se estrelló en los Andes en 1972, luchando por sobrevivir en condiciones extremas.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BOGY4Y2ZlZDItZDU1NC00MzcyLTg0ODItZDgzYjEyNzU3ZTU3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "La Vita è Bella",
+        "year": 1997,
+        "synopsis": "Un padre judío usa su imaginación para proteger a su hijo de los horrores de un campo de concentración nazi, transformándolo en un juego.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Lions for Lambs",
+        "year": 2007,
+        "synopsis": "Tres historias se entrelazan: un senador, un periodista, y dos soldados en Afganistán, explorando las consecuencias de la guerra y las decisiones políticas.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTcyMzc4Nzk3MV5BMl5BanBnXkFtZTcwNDU4MTU1MQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Looper",
+        "year": 2012,
+        "synopsis": "Asesinos called Loopers eliminan targets enviados from el futuro, pero cuando un Looper enfrenta su futuro self, must tomar una decisión que afecta su destino.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTg5NTA3NTg4NF5BMl5BanBnXkFtZTcwNTA0NDYzNw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Love Actually",
+        "year": 2003,
+        "synopsis": "Historias de amor entrelazadas en Londres durante las semanas previas a Navidad, showing las alegrías y tristezas del romance.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTY4NjQ5NDc0Nl5BMl5BanBnXkFtZTYwNjk5NDM3._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Loving Annabelle",
+        "year": 2006,
+        "synopsis": "Una estudiante de internado se enamora de su profesora, leading to una relación prohibida that desafía las reglas de la escuela y la sociedad.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTI5NDMyMjc2N15BMl5BanBnXkFtZTcwNTA1NjYzMQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "M3GAN 2.0",
+        "year": 2025,
+        "synopsis": "",
+        "photo": ""
+    },
+    {
+        "name": "Maestras del Engaño",
+        "year": 2019,
+        "synopsis": "",
+        "photo": ""
+    },
+    {
+        "name": "Magnolia",
+        "year": 1999,
+        "synopsis": "Las vidas de varios residentes de Los Ángeles se entrelazan inesperadamente en un día de lluvia, exploring el azar, la redención y las conexiones humanas.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTQ5MDU5MDg1NF5BMl5BanBnXkFtZTcwODI2MzcyMw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Me Before You",
+        "year": 2016,
+        "synopsis": "Una joven alegre es contratada como cuidadora de un hombre rico paralizado, y su relación transforma both sus vidas mientras enfrentan decisiones difíciles.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTQ2NjE4NDE2NV5BMl5BanBnXkFtZTgwOTcwNDE5NzE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Minority Report",
+        "year": 2002,
+        "synopsis": "En un futuro where los crímenes son prevenidos por precognitivos, el jefe de PreCrime es acusado de un futuro asesinato y debe huir para probar su inocencia.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZTI3YzZjZjEtMDJjYy00ZWQxLTk0MWYtMWQ1MWQ3NGQ2MWQ2XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "More Beautiful for Having Been Broken",
+        "year": 2019,
+        "synopsis": "Una agente del FBI se toma un descanso en un pequeño pueblo y se enamora de una mujer local, descubriendo secretos que cambian su vida.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZDI0Zjc0YjAtZGVkNC00N2M4LThhYjItN2Y2OWU0MWI2OTVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "My Best Friend's Wedding",
+        "year": 1997,
+        "synopsis": "Una mujer se da cuenta de que está enamorada de su mejor amigo cuando él anuncia su boda, y intenta sabotear la wedding para ganar su amor.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTU0MjgyNjQ0N15BMl5BanBnXkFtZTgwMTc4ODQ4MTI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Now You See Me",
+        "year": 2013,
+        "synopsis": "Un equipo de magos illusionistas roba bancos durante sus shows y distribuye el dinero a la audiencia, mientras un agente del FBI intenta descubrir how lo hacen.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTY0NDY3MDMxN15BMl5BanBnXkFtZTcwOTM5NzMzOQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Now You See Me 2",
+        "year": 2016,
+        "synopsis": "Los Four Horsemen regresan para exponer a un magnate tecnológico, pero son forced to realizar un robo imposible por un nuevo enemigo.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTc3Mzg1OTk0NF5BMl5BanBnXkFtZTgwODMzNjM0ODE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Origenes Secretos",
+        "year": 2020,
+        "synopsis": "",
+        "photo": ""
+    },
+    {
+        "name": "Passengers",
+        "year": 2016,
+        "synopsis": "Un pasajero en una nave espacial se despierta 90 años antes de lo previsto y decide despertar a una compañera, leading to romance y peligro cuando la nave falla.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZjk4ZTMwMTYtOTk1NC00OTA0LWFhMGYtZTBjMzViMDY2YWZjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Perdona si te llamo amor",
+        "year": 2014,
+        "synopsis": "Una estudiante de secundaria se enamora de un hombre mayor after un accidente, leading to una relación that enfrenta críticas y desafíos sociales.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTg0MjE0NDc3M15BMl5BanBnXkFtZTgwNTA0MjQ1MTE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Popeyes Revenge",
+        "year": 2025,
+        "synopsis": "",
+        "photo": ""
+    },
+    {
+        "name": "Pretty Woman",
+        "year": 1990,
+        "synopsis": "Un empresario rico contrata a una prostituta para que lo acompañe a eventos sociales, pero se enamoran and must superar sus diferencias sociales.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZjM4YjAzMjQtYjZiNS00NTBmLThlY2UtZWI2M2Y2Y2UxM2ZlXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Pride and Prejudice",
+        "year": 2005,
+        "synopsis": "Elizabeth Bennet y Mr. Darcy navegan por prejuicios y orgullo en la Inglaterra del siglo XIX, finding amor a pesar de sus diferencias sociales.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTA1NDQ3NTcyOTNeQTJeQWpwZ15BbWU3MDA0MzA4MzE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Imagine Me & You",
+        "year": "2005",
+        "synopsis": "Una novia recién casada se enamora de otra mujer que cuestiona su orientación sexual, lo que genera revuelo entre la familia y los amigos de la novia.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Imagine_me_and_you.PNG/250px-Imagine_me_and_you.PNG"
+    },
+    {
+        "name": "San Andreas",
+        "year": 2015,
+        "synopsis": "Un piloto de rescate vuela a través de California después de un masivo terremoto para salvar a su hija y ex esposa.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNzZhYmQ2NGMtZmRmYi00NzgzLTllNmUtNDQwZDAxMmE3NzI0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "She Came To Me",
+        "year": 2023,
+        "synopsis": "Un compositor con bloqueo creativo se inspira después de un encuentro con una capitana de barco, leading to comedia y drama familiar.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZDI0Zjc0YjAtZGVkNC00N2M4LThhYjItN2Y2OWU0MWI2OTVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Sherlock Holmes",
+        "year": 2009,
+        "synopsis": "Sherlock Holmes y Dr. Watson investigan una serie de murders linked to un lord que busca dominar el mundo through magia y ciencia.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTg0NjEwNjUxM15BMl5BanBnXkFtZTcwMzk0MjQ5Mg@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Sherlock Holmes: A Game of Shadows",
+        "year": 2011,
+        "synopsis": "Sherlock Holmes y Dr. Watson enfrentan a su némesis, Professor Moriarty, who planea desatar una guerra mundial para profit.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTQwMzQ2NzczN15BMl5BanBnXkFtZTcwNjIxNzIxNw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Small Things Like These",
+        "year": 2024,
+        "synopsis": "",
+        "photo": ""
+    },
+    {
+        "name": "Song One",
+        "year": 2014,
+        "synopsis": "Una woman returns home after her brother queda en coma and se enamora de su músico favorito, exploring el healing a través de la música.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTQ4Njc2NDM0N15BMl5BanBnXkFtZTgwMDA2NDc0MzE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Strangers",
+        "year": 2024,
+        "synopsis": "",
+        "photo": ""
+    },
+    {
+        "name": "The Suicide Squad",
+        "year": 2021,
+        "synopsis": "Un equipo de supervillanos es enviado a una isla remota para destruir un laboratorio secreto, but enfrentan monstruos y traiciones.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNGM3YzdlOWYtNjViZS00MTE2LWE1MWUtZmE2ZTcxZjcyMmU3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Sweet Girl",
+        "year": 2021,
+        "synopsis": "Un hombre busca venganza against las pharmaceutical companies responsables de la muerte de su esposa, protegiendo a su hija en el proceso.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BOTVlYmJmN2QtNzJlNC00Y2Q0LTk0ZGUtZGM0NDU3NDc4ZTE3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "The Beauty and the Briefcase",
+        "year": 2010,
+        "synopsis": "Una escritora se hace pasar por una profesional de negocios para investigar sobre el amor en el trabajo para un artículo, but se enamora de un ejecutivo.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTM2MjgyMzU1Ml5BMl5BanBnXkFtZTcwMjg0Njc3NA@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "The Chronicles of Riddick",
+        "year": 2004,
+        "synopsis": "El fugitivo Riddick es capturado y llevado a un planeta where enfrenta a una raza alienígena called Necromongers que busca convertirlo en su líder.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNzBjNmJkYjUtMTFjMC00ZWI5LWEyM2YtNzczOTczMmM1ODY5XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "The Electrical Life of Louis Wain",
+        "year": 2021,
+        "synopsis": "La vida del artista Louis Wain, conocido por sus pinturas de gatos con ojos grandes, mientras enfrenta problemas mentales y el amor por su familia.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZDQ0ODRlZjAtZjc4MS00M2VlLWIwMmEtYmZlZDI2YjAyNmMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "The Legion",
+        "year": 2020,
+        "synopsis": "",
+        "photo": ""
+    },
+    {
+        "name": "The Other Woman",
+        "year": 2014,
+        "synopsis": "Tres mujeres descubren que están saliendo con el mismo hombre y se alían para vengarse de él, leading to comedia y empoderamiento.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTg3MzY5NzQwM15BMl5BanBnXkFtZTgwNDAyNzEwMTE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "The Real West",
+        "year": 2024,
+        "synopsis": "",
+        "photo": ""
+    },
+    {
+        "name": "The Reluctant Royal",
+        "year": 2025,
+        "synopsis": "",
+        "photo": ""
+    },
+    {
+        "name": "The Spiderwick Chronicles",
+        "year": 2007,
+        "synopsis": "Tres hermanos descubren un mundo de hadas y criaturas mágicas después de mudarse a una mansión inherited, y must proteger un libro secreto.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BODFmMjUwMTMtYzU4Yy00NDg5LTliNjMtZDhiZmM4MWI5ODNmXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "The Wild Robot",
+        "year": 2024,
+        "synopsis": "Un robot naufraga en una isla deshabitada y debe aprender a adaptarse al entorno natural y criar a un ganso huérfano, forming una familia no tradicional.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZDI0Zjc0YjAtZGVkNC00N2M4LThhYjItN2Y2OWU0MWI2OTVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "The World to Come",
+        "year": 2020,
+        "synopsis": "Dos mujeres en una granja del siglo XIX desarrollan una relación íntima that provides escape de sus vidas aisladas y matrimonios infelices.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZGMxYzU0NWYtZDdlMS00OWQwLWE5NDEtM2JkN2VlY2JlYjVlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Tu Casa o la Mía",
+        "year": 2023,
+        "synopsis": "Dos mejores amigos con estilos de vida opuestos intercambian casas por una semana y descubren que sus vidas podrían mejorar con un cambio de perspectiva.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BOTk2MTk5NzUtNmMyOS00YjMwLTlkZjItZWU4NGY0NGYxMzhlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Una Película de Minecraft",
+        "year": 2025,
+        "synopsis": "",
+        "photo": ""
+    },
+    {
+        "name": "Valkyrie",
+        "year": 2008,
+        "synopsis": "Un grupo de oficiales alemanes planea asesinar a Hitler en 1944 usando un plan called Operación Valkyria, facing riesgos extremos.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTg3Njc2ODEyN15BMl5BanBnXkFtZTcwNTAwMzc3Mg@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Batman Begins",
+        "year": 2005,
+        "synopsis": "Bruce Wayne viaja por el mundo para entrenarse y convertirse en Batman, enfrentando al miedo y criminales like Ra's al Ghul para salvar Gotham City.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "The Dark Knight",
+        "year": 2008,
+        "synopsis": "Batman se alía con Jim Gordon y Harvey Dent para combatir el crimen organizado, but el Joker emerge para crear anarchy y probar sus límites.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "The Dark Knight Rises",
+        "year": 2012,
+        "synopsis": "Bruce Wayne sale de su retiro para enfrentar a Bane, un terrorista que busca destruir Gotham City, while lidia con su propio pasado y legado.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Percy Jackson & the Olympians: The Lightning Thief",
+        "year": 2010,
+        "synopsis": "Percy Jackson descubre que es un semidiós hijo de Poseidón y must embarcarse en una misión para encontrar el rayo de Zeus robado y prevenir una guerra entre dioses.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTUyNzg2NjYtYmE1Ni00MTM0LTkzNDctZGJkM2FhZDA1N2E4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Percy Jackson: Sea of Monsters",
+        "year": 2013,
+        "synopsis": "Percy y sus amigos buscan el Vellocino de Oro para salvar el árbol protector del Campamento Mestizo, enfrentando monstruos y traiciones.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTc0NjMzOTMwOV5BMl5BanBnXkFtZTcwNjg0ODc3OQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Saw",
+        "year": 2004,
+        "synopsis": "Dos hombres despiertan encadenados en un baño sucio y must seguir las instrucciones de un asesino serial called Jigsaw para sobrevivir.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BM2M1MzIyMWYtYzUyZS00OWViLWE0NGMtN2Y4Y2VjMDgxNGNlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "The Addams Family",
+        "year": 1991,
+        "synopsis": "La macabra familia Addams must deal with un lawyer que claims ser su long-lost uncle Fester, while protegiendo su fortuna de un scam.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZDQyMjNmMjAtMmZmOS00ZDAzLTgyZGYtZTM3ZjY5ZTk3NWJiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Addams Family Values",
+        "year": 1993,
+        "synopsis": "The Addams family visits a summer camp for families, where son targeted by un coach que wants robar su wealth, leading to caos y comedia oscura.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZTI2MDBkMjctZmFjOS00MDE0LTlkNmUtNzRiYjIxNDliZDQ5L2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Camp Rock",
+        "year": 2008,
+        "synopsis": "Una joven cantante asiste a un campamento musical y se enamora de una estrella pop, while enfrenta desafíos para encontrar su voz.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTU4OTY2Njc2MV5BMl5BanBnXkFtZTcwMDE0Nzk1MQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Camp Rock 2: The Final Jam",
+        "year": 2010,
+        "synopsis": "Los campistas de Camp Rock enfrentan a un campamento rival en una competencia musical, while Mitchie y Shane navegan su relación.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTk2NzQ5Mzk0NV5BMl5BanBnXkFtZTcwMDc0Nzk1Mw@@._V1_FMjpg_UX1000_.jpg"
     }
 ]

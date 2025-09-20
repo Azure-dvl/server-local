@@ -14,9 +14,7 @@ folders = [
 	'/media/azuredvl/ALMACEN/Games/',
 	'/media/azuredvl/618AE8FD102A7379/Emuladores/',
 	'/media/azuredvl/618AE8FD102A7379/Novelas/',
- 	'/media/azuredvl/618AE8FD102A7379/Pedidos/',
   	'/home/azuredvl/PQT/',
-   	'/home/azuredvl/Others/',
 ]
 
 class FSMapper:
