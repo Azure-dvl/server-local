@@ -6,15 +6,16 @@ import requests
 from django.core.management.base import BaseCommand
 
 folders = [
-	'/media/azuredvl/03D70BF637A6F80D/Anime/',
-	'/media/azuredvl/03D70BF637A6F80D/Doramas/',
-	'/media/azuredvl/ALMACEN/Movies/Animados/',
-	'/media/azuredvl/ALMACEN/Movies/Movies/',
-	'/media/azuredvl/ALMACEN/Movies/Series/',
-	'/media/azuredvl/ALMACEN/Games/',
-	'/media/azuredvl/618AE8FD102A7379/Emuladores/',
-	'/media/azuredvl/618AE8FD102A7379/Novelas/',
-  	'/home/azuredvl/PQT/',
+	'/run/media/azure/03D70BF637A6F80D/Anime/',
+	'/run/media/azure/03D70BF637A6F80D/Doramas/',
+	'/run/media/azure/ALMACEN/Movies/Animados/',
+	'/run/media/azure/ALMACEN/Movies/Movies/',
+	'/run/media/azure/ALMACEN/Movies/Series/',
+	'/run/media/azure/ALMACEN/Games/',
+	'/run/media/azure/618AE8FD102A7379/Games 2/',
+	'/run/media/azure/618AE8FD102A7379/Emuladores/',
+	'/run/media/azure/618AE8FD102A7379/Novelas/',
+	'/run/media/azure/618AE8FD102A7379/Pedidos/'
 ]
 
 class FSMapper:

@@ -187,12 +187,12 @@ def download_folder(request, id):
             add_files_to_zip(folder.id, "")
         
         # Mover el archivo temporal a la ubicación de caché
-        if os.path.exists(zip_path):
-            os.remove(zip_path)
-        os.rename(tmp_zip_path, zip_path)
+        # if os.path.exists(zip_path):
+        #     os.remove(zip_path)
+        # os.rename(tmp_zip_path, zip_path)
         
         # Servir el archivo
-        response = FileResponse(open(zip_path, 'rb'), content_type='application/zip')
+        response = FileResponse(open(tmp_zip_path, 'rb'), content_type='application/zip')
         response['Content-Disposition'] = f'attachment; filename="{quote(folder.name)}.zip"'
         return response
         
