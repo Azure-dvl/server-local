@@ -5,7 +5,9 @@ import pprint
 import requests
 from django.core.management.base import BaseCommand
 
-folders = ["path to your local"]
+folders = [
+    "/run/media/azure/Azure/",  # Path to your files
+]
 
 
 class FSMapper:
@@ -73,10 +75,15 @@ class FSMapper:
 
 
 class Command(BaseCommand):
+
+    help = "Carga los archivos del server"
+
     def handle(self, *args, **options):
         # Obtener archivos existentes en la base de datos
         try:
-            response = requests.get("http://192.168.1.10:80/api/files/list/")
+            response = requests.get(
+                "http://localhost:8000/api/files/list/"
+            )  # [your ip:port]/api/files/list
             existing_files = response.json() if response.status_code == 200 else []
             existing_paths = {f["path"] for f in existing_files}
         except requests.exceptions.RequestException as e:
@@ -102,9 +109,9 @@ class Command(BaseCommand):
         if new_files:
             print(f"Encontrados {len(new_files)} nuevos archivos. Subiendo...")
             response = requests.post(
-                "http://192.168.1.10:80/api/files/create/",
+                "http://localhost:8000/api/files/create/",  # [your ip:port]/api/files/list
                 json={
-                    "server": "192.168.1.10",
+                    "server": "localhsot",  # your ip
                     "files": r,  # Enviamos la estructura completa, no solo los nuevos
                 },
             )

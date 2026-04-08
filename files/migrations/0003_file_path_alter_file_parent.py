@@ -7,18 +7,20 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('files', '0002_delete_user'),
+        ("files", "0002_delete_user"),
     ]
 
     operations = [
         migrations.AddField(
-            model_name='file',
-            name='path',
+            model_name="file",
+            name="path",
             field=models.CharField(blank=True, max_length=2048, null=True),
         ),
         migrations.AlterField(
-            model_name='file',
-            name='parent',
-            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.CASCADE, to='files.file'),
+            model_name="file",
+            name="parent",
+            field=models.ForeignKey(
+                null=True, on_delete=django.db.models.deletion.CASCADE, to="files.file"
+            ),
         ),
     ]

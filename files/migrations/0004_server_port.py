@@ -6,13 +6,13 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('files', '0003_file_path_alter_file_parent'),
+        ("files", "0003_file_path_alter_file_parent"),
     ]
 
     operations = [
         migrations.AddField(
-            model_name='server',
-            name='port',
+            model_name="server",
+            name="port",
             field=models.IntegerField(default=80),
         ),
     ]

@@ -6,24 +6,24 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('files', '0004_server_port'),
+        ("files", "0004_server_port"),
     ]
 
     operations = [
         migrations.AddField(
-            model_name='file',
-            name='is_video',
+            model_name="file",
+            name="is_video",
             field=models.BooleanField(default=False),
         ),
         migrations.AddField(
-            model_name='file',
-            name='last_modified',
+            model_name="file",
+            name="last_modified",
             field=models.FloatField(default=0.0),
             preserve_default=False,
         ),
         migrations.AddField(
-            model_name='file',
-            name='mime_type',
+            model_name="file",
+            name="mime_type",
             field=models.CharField(blank=True, max_length=100, null=True),
         ),
     ]

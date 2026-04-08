@@ -27,13 +27,10 @@
         
         <div class="tabs-container">
             <div class="tabs">
+                <!-- Agregar las los tipos que quieras -->
                 <button class="tab active" data-category="all">Todos</button>
-                <button class="tab" data-category="animados">Animados</button>
                 <button class="tab" data-category="anime">Anime</button>
-                <button class="tab" data-category="doramas">Doramas</button>
-                <button class="tab" data-category="games">Juegos</button>
                 <button class="tab" data-category="movies">Películas</button>
-                <button class="tab" data-category="novelas">Novelas</button>
                 <button class="tab" data-category="series">Series</button>
             </div>
         </div>
@@ -166,8 +163,6 @@
                                 ${item.year ? `<div class="detail-item"><span class="detail-label">Año:</span><span class="detail-value">${item.year}</span></div>` : ''}
                                 ${item.seasons ? `<div class="detail-item"><span class="detail-label">Temporadas:</span><span class="detail-value">${item.seasons}</span></div>` : ''}
                                 ${item.chapters ? `<div class="detail-item"><span class="detail-label">Capítulos:</span><span class="detail-value">${item.chapters}</span></div>` : ''}
-                                ${item.plataform ? `<div class="detail-item"><span class="detail-label">Plataforma:</span><span class="detail-value">${item.plataform}</span></div>` : ''}
-                                ${item.size ? `<div class="detail-item"><span class="detail-label">Tamaño:</span><span class="detail-value">${item.size}</span></div>` : ''}
     
                             </div>
                             ${item.synopsis ? `
@@ -189,12 +184,8 @@
         // Obtener texto para la insignia de categoría
         function getCategoryBadge(category) {
             const categories = {
-                'animados': 'Animado',
                 'anime': 'Anime',
-                'doramas': 'Dorama',
-                'games': 'Juego',
                 'movies': 'Película',
-                'novelas': 'Novela',
                 'series': 'Serie'
             };
             return categories[category] || category;

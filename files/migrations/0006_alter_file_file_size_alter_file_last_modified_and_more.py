@@ -7,23 +7,28 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('files', '0005_file_is_video_file_last_modified_file_mime_type'),
+        ("files", "0005_file_is_video_file_last_modified_file_mime_type"),
     ]
 
     operations = [
         migrations.AlterField(
-            model_name='file',
-            name='file_size',
+            model_name="file",
+            name="file_size",
             field=models.BigIntegerField(default=0),
         ),
         migrations.AlterField(
-            model_name='file',
-            name='last_modified',
+            model_name="file",
+            name="last_modified",
             field=models.FloatField(default=0.0),
         ),
         migrations.AlterField(
-            model_name='file',
-            name='parent',
-            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.CASCADE, to='files.file'),
+            model_name="file",
+            name="parent",
+            field=models.ForeignKey(
+                blank=True,
+                null=True,
+                on_delete=django.db.models.deletion.CASCADE,
+                to="files.file",
+            ),
         ),
     ]
